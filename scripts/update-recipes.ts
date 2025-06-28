@@ -47,7 +47,12 @@ for (const item of items) {
       const [fileId, amount] = recipe.result.split(":");
       const id = recipe.result.split(";")[0];
 
-      const itemData = await Bun.file(`../items/${fileId}.json`).json();
+      const itemData = await Bun.file(`../items/${fileId}.json`).json().catch(() => null);
+      if (!itemData) {
+        console.log(`Item data for ${fileId} not found, skipping...`);
+        continue;
+      }
+
       output[id] = {
         name: itemData?.displayname.replace(/ยง./g, ""),
         recipe: { ...newRecipe, count: parseInt(amount ?? 1) ?? 1 },
