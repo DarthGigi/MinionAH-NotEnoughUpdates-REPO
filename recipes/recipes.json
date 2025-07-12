@@ -1642,7 +1642,7 @@
   "ARROW": {
     "name": "§fFlint Arrow",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;40",
+      "A1": "SKYBLOCK_COIN;200",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -4535,15 +4535,16 @@
   "BOOK": {
     "name": "§fBook",
     "recipe": {
-      "A1": "PAPER;1",
-      "B1": "PAPER;1",
-      "C1": "PAPER;1",
-      "A2": "LEATHER;1",
+      "A1": "SKYBLOCK_COIN;20",
+      "B1": "",
+      "C1": "",
+      "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Book"
@@ -4656,16 +4657,15 @@
   "BOW": {
     "name": "§fBow",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;25",
-      "B1": "",
-      "C1": "",
-      "A2": "",
+      "A1": "",
+      "B1": "STICK;1",
+      "C1": "STRING;1",
+      "A2": "STICK;1",
       "B2": "",
-      "C2": "",
+      "C2": "STRING;1",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": "STRING;1"
     },
     "wiki": [
       "https://wiki.hypixel.net/Bow"
@@ -4741,16 +4741,15 @@
   "BREWING_STAND_ITEM": {
     "name": "§fBrewing Stand",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;30",
-      "B1": "",
+      "A1": "",
+      "B1": "BLAZE_ROD;1",
       "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
+      "A2": "COBBLESTONE;1",
+      "B2": "COBBLESTONE;1",
+      "C2": "COBBLESTONE;1",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Brewing_Stand",
@@ -5739,211 +5738,226 @@
   "CARPET-1": {
     "name": "§fOrange Carpet",
     "recipe": {
-      "A1": "WOOL:1;1",
-      "B1": "WOOL:1;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-10": {
     "name": "§fPurple Carpet",
     "recipe": {
-      "A1": "WOOL:10;1",
-      "B1": "WOOL:10;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-11": {
     "name": "§fBlue Carpet",
     "recipe": {
-      "A1": "WOOL:11;1",
-      "B1": "WOOL:11;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-12": {
     "name": "§fBrown Carpet",
     "recipe": {
-      "A1": "WOOL:12;1",
-      "B1": "WOOL:12;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-13": {
     "name": "§fGreen Carpet",
     "recipe": {
-      "A1": "WOOL:13;1",
-      "B1": "WOOL:13;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-14": {
     "name": "§fRed Carpet",
     "recipe": {
-      "A1": "WOOL:14;1",
-      "B1": "WOOL:14;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-15": {
     "name": "§fBlack Carpet",
     "recipe": {
-      "A1": "WOOL:15;1",
-      "B1": "WOOL:15;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-2": {
     "name": "§fMagenta Carpet",
     "recipe": {
-      "A1": "WOOL:2;1",
-      "B1": "WOOL:2;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-3": {
     "name": "§fLight Blue Carpet",
     "recipe": {
-      "A1": "WOOL:3;1",
-      "B1": "WOOL:3;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-4": {
     "name": "§fYellow Carpet",
     "recipe": {
-      "A1": "WOOL:4;1",
-      "B1": "WOOL:4;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-5": {
     "name": "§fLime Carpet",
     "recipe": {
-      "A1": "WOOL:5;1",
-      "B1": "WOOL:5;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-6": {
     "name": "§fPink Carpet",
     "recipe": {
-      "A1": "WOOL:6;1",
-      "B1": "WOOL:6;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-7": {
     "name": "§fGray Carpet",
     "recipe": {
-      "A1": "WOOL:7;1",
-      "B1": "WOOL:7;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-8": {
     "name": "§fLight Gray Carpet",
     "recipe": {
-      "A1": "WOOL:8;1",
-      "B1": "WOOL:8;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARPET-9": {
     "name": "§fCyan Carpet",
     "recipe": {
-      "A1": "WOOL:9;1",
-      "B1": "WOOL:9;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "CARROT_BAIT": {
@@ -10796,16 +10810,15 @@
   "DIAMOND_SWORD": {
     "name": "§aDiamond Sword",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;60",
+      "A1": "DIAMOND;1",
       "B1": "",
       "C1": "",
-      "A2": "",
+      "A2": "DIAMOND;1",
       "B2": "",
       "C2": "",
-      "A3": "",
+      "A3": "STICK;1",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Diamond_Sword"
@@ -10832,15 +10845,16 @@
   "DIODE": {
     "name": "§fRepeater",
     "recipe": {
-      "A1": "REDSTONE_TORCH_ON;1",
-      "B1": "REDSTONE;1",
-      "C1": "REDSTONE_TORCH_ON;1",
-      "A2": "STONE;1",
-      "B2": "STONE;1",
-      "C2": "STONE;1",
+      "A1": "SKYBLOCK_COIN;6",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "DIRT_BOTTLE": {
@@ -19557,15 +19571,16 @@
   "GOLD_LEGGINGS": {
     "name": "§fGolden Leggings",
     "recipe": {
-      "A1": "GOLD_INGOT;1",
-      "B1": "GOLD_INGOT;1",
-      "C1": "GOLD_INGOT;1",
-      "A2": "GOLD_INGOT;1",
+      "A1": "SKYBLOCK_COIN;14",
+      "B1": "",
+      "C1": "",
+      "A2": "",
       "B2": "",
-      "C2": "GOLD_INGOT;1",
-      "A3": "GOLD_INGOT;1",
+      "C2": "",
+      "A3": "",
       "B3": "",
-      "C3": "GOLD_INGOT;1"
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Leggings"
@@ -19588,7 +19603,7 @@
   "GOLD_PICKAXE": {
     "name": "§fGolden Pickaxe",
     "recipe": {
-      "A1": "GOLD_INGOT;3",
+      "A1": "SKYBLOCK_COIN;10",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -19606,15 +19621,16 @@
   "GOLD_PLATE": {
     "name": "§fLight Weighted Pressure Plate",
     "recipe": {
-      "A1": "GOLD_INGOT;1",
-      "B1": "GOLD_INGOT;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "GOLD_SPADE": {
@@ -19721,16 +19737,15 @@
   "GOLDEN_CARROT": {
     "name": "§fGolden Carrot",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;30",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A1": "GOLD_NUGGET;1",
+      "B1": "GOLD_NUGGET;1",
+      "C1": "GOLD_NUGGET;1",
+      "A2": "GOLD_NUGGET;1",
+      "B2": "CARROT_ITEM;1",
+      "C2": "GOLD_NUGGET;1",
+      "A3": "GOLD_NUGGET;1",
+      "B3": "GOLD_NUGGET;1",
+      "C3": "GOLD_NUGGET;1"
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Carrot"
@@ -21402,15 +21417,16 @@
   "HOPPER": {
     "name": "§fHopper",
     "recipe": {
-      "A1": "IRON_INGOT;1",
+      "A1": "SKYBLOCK_COIN;50",
       "B1": "",
-      "C1": "IRON_INGOT;1",
-      "A2": "IRON_INGOT;1",
-      "B2": "CHEST;1",
-      "C2": "IRON_INGOT;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
-      "B3": "IRON_INGOT;1",
-      "C3": ""
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://wiki.hypixel.net/Hopper"
@@ -23373,24 +23389,7 @@
   "IRON_BOOTS": {
     "name": "§fIron Boots",
     "recipe": {
-      "A1": "IRON_INGOT;1",
-      "B1": "",
-      "C1": "IRON_INGOT;1",
-      "A2": "IRON_INGOT;1",
-      "B2": "",
-      "C2": "IRON_INGOT;1",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Iron_Boots"
-    ]
-  },
-  "IRON_CHESTPLATE": {
-    "name": "§fIron Chestplate",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;25",
+      "A1": "SKYBLOCK_COIN;20",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -23400,6 +23399,23 @@
       "B3": "",
       "C3": "",
       "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Iron_Boots"
+    ]
+  },
+  "IRON_CHESTPLATE": {
+    "name": "§fIron Chestplate",
+    "recipe": {
+      "A1": "IRON_INGOT;1",
+      "B1": "",
+      "C1": "IRON_INGOT;1",
+      "A2": "IRON_INGOT;1",
+      "B2": "IRON_INGOT;1",
+      "C2": "IRON_INGOT;1",
+      "A3": "IRON_INGOT;1",
+      "B3": "IRON_INGOT;1",
+      "C3": "IRON_INGOT;1"
     },
     "wiki": [
       "https://wiki.hypixel.net/Iron_Chestplate"
@@ -23653,16 +23669,15 @@
   "IRON_HELMET": {
     "name": "§fIron Helmet",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;15",
-      "B1": "",
-      "C1": "",
-      "A2": "",
+      "A1": "IRON_INGOT;1",
+      "B1": "IRON_INGOT;1",
+      "C1": "IRON_INGOT;1",
+      "A2": "IRON_INGOT;1",
       "B2": "",
-      "C2": "",
+      "C2": "IRON_INGOT;1",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Iron_Helmet"
@@ -23741,16 +23756,15 @@
   "IRON_LEGGINGS": {
     "name": "§fIron Leggings",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;30",
-      "B1": "",
-      "C1": "",
-      "A2": "",
+      "A1": "IRON_INGOT;1",
+      "B1": "IRON_INGOT;1",
+      "C1": "IRON_INGOT;1",
+      "A2": "IRON_INGOT;1",
       "B2": "",
-      "C2": "",
-      "A3": "",
+      "C2": "IRON_INGOT;1",
+      "A3": "IRON_INGOT;1",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": "IRON_INGOT;1"
     },
     "wiki": [
       "https://wiki.hypixel.net/Iron_Leggings"
@@ -23776,15 +23790,16 @@
   "IRON_PLATE": {
     "name": "§fHeavy Weighted Pressure Plate",
     "recipe": {
-      "A1": "IRON_INGOT;1",
-      "B1": "IRON_INGOT;1",
+      "A1": "SKYBLOCK_COIN;12",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "IRON_SPADE": {
@@ -24726,7 +24741,7 @@
     "name": "§5Burning Kuudra Key",
     "recipe": {
       "A1": "SKYBLOCK_COIN;750000",
-      "B1": "ENCHANTED_RED_SAND;16",
+      "B1": "ENCHANTED_MYCELIUM;16",
       "C1": "CORRUPTED_NETHER_STAR;2",
       "A2": "",
       "B2": "",
@@ -24744,15 +24759,16 @@
   "KUUDRA_FIERY_TIER_KEY": {
     "name": "§5Fiery Kuudra Key",
     "recipe": {
-      "A1": "KUUDRA_BURNING_TIER_KEY;1",
-      "B1": "KUUDRA_BURNING_TIER_KEY;1",
-      "C1": "",
-      "A2": "KUUDRA_BURNING_TIER_KEY;1",
-      "B2": "KUUDRA_BURNING_TIER_KEY;1",
+      "A1": "SKYBLOCK_COIN;1500000",
+      "B1": "ENCHANTED_MYCELIUM;40",
+      "C1": "CORRUPTED_NETHER_STAR;2",
+      "A2": "",
+      "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Fiery_Kuudra_Key",
@@ -24782,7 +24798,7 @@
     "name": "§5Hot Kuudra Key",
     "recipe": {
       "A1": "SKYBLOCK_COIN;400000",
-      "B1": "ENCHANTED_RED_SAND;4",
+      "B1": "ENCHANTED_MYCELIUM;4",
       "C1": "CORRUPTED_NETHER_STAR;2",
       "A2": "",
       "B2": "",
@@ -24801,7 +24817,7 @@
     "name": "§6Infernal Kuudra Key",
     "recipe": {
       "A1": "SKYBLOCK_COIN;3000000",
-      "B1": "ENCHANTED_RED_SAND;80",
+      "B1": "ENCHANTED_MYCELIUM;80",
       "C1": "CORRUPTED_NETHER_STAR;2",
       "A2": "",
       "B2": "",
@@ -24819,8 +24835,8 @@
   "KUUDRA_TIER_KEY": {
     "name": "§9Kuudra Key",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;200000",
-      "B1": "ENCHANTED_RED_SAND;2",
+      "A1": "SKYBLOCK_COIN;7600",
+      "B1": "ENCHANTED_MYCELIUM;2",
       "C1": "CORRUPTED_NETHER_STAR;2",
       "A2": "",
       "B2": "",
@@ -26322,15 +26338,16 @@
   "LEVER": {
     "name": "§fLever",
     "recipe": {
-      "A1": "STICK;1",
+      "A1": "SKYBLOCK_COIN;2",
       "B1": "",
       "C1": "",
-      "A2": "COBBLESTONE;1",
+      "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "LIFE_STEAL": {
@@ -28897,16 +28914,15 @@
   "MINNOW_BAIT": {
     "name": "§fMinnow Bait",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;15",
+      "A1": "",
       "B1": "",
       "C1": "",
-      "A2": "",
-      "B2": "",
+      "A2": "RAW_FISH;1",
+      "B2": "RAW_FISH;1",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Minnow_Bait",
@@ -31810,16 +31826,15 @@
   "PACKED_ICE": {
     "name": "§fPacked Ice",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;9",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A1": "ICE;1",
+      "B1": "ICE;1",
+      "C1": "ICE;1",
+      "A2": "ICE;1",
+      "B2": "ICE;1",
+      "C2": "ICE;1",
+      "A3": "ICE;1",
+      "B3": "ICE;1",
+      "C3": "ICE;1"
     }
   },
   "PAINTING": {
@@ -34401,7 +34416,7 @@
   "POTION": {
     "name": "§fWater Bottle",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;6",
+      "A1": "SKYBLOCK_COIN;30000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -34875,16 +34890,15 @@
   "PROMISING_AXE": {
     "name": "§aPromising Axe",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;35",
-      "B1": "",
-      "C1": "",
+      "A1": "",
+      "B1": "IRON_BLOCK;1",
+      "C1": "IRON_BLOCK;1",
       "A2": "",
-      "B2": "",
-      "C2": "",
+      "B2": "STICK;1",
+      "C2": "IRON_BLOCK;1",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Promising_Axe",
@@ -34894,16 +34908,15 @@
   "PROMISING_PICKAXE": {
     "name": "§aPromising Pickaxe",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;35",
-      "B1": "",
-      "C1": "",
+      "A1": "IRON_BLOCK;1",
+      "B1": "IRON_BLOCK;1",
+      "C1": "IRON_BLOCK;1",
       "A2": "",
-      "B2": "",
+      "B2": "STICK;1",
       "C2": "",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Promising_Pickaxe",
@@ -34929,9 +34942,9 @@
     ]
   },
   "PROTECTION": {
-    "name": "§9Enchanted Book",
+    "name": "§fEnchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;4000000",
+      "A1": "SKYBLOCK_COIN;20",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -36867,7 +36880,7 @@
   "REDSTONE": {
     "name": "§fRedstone",
     "recipe": {
-      "A1": "REDSTONE_BLOCK;1",
+      "A1": "SKYBLOCK_COIN;4",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -36875,7 +36888,8 @@
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://wiki.hypixel.net/Redstone"
@@ -37165,15 +37179,16 @@
   "REDSTONE_TORCH_ON": {
     "name": "§fRedstone Torch",
     "recipe": {
-      "A1": "REDSTONE;1",
+      "A1": "SKYBLOCK_COIN;2",
       "B1": "",
       "C1": "",
-      "A2": "STICK;1",
+      "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "REFINED_AMBER": {
@@ -37236,16 +37251,15 @@
   "REFORGE_ANVIL": {
     "name": "§5Reforge Anvil",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;2000000",
-      "B1": "",
-      "C1": "",
+      "A1": "ENCHANTED_OBSIDIAN;64",
+      "B1": "ENCHANTED_OBSIDIAN;64",
+      "C1": "ENCHANTED_OBSIDIAN;64",
       "A2": "",
-      "B2": "",
+      "B2": "ENCHANTED_OBSIDIAN;64",
       "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A3": "ENCHANTED_IRON;64",
+      "B3": "ENCHANTED_IRON;64",
+      "C3": "ENCHANTED_IRON;64"
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Reforge_Anvil",
@@ -39033,9 +39047,9 @@
     ]
   },
   "SCAVENGER": {
-    "name": "§aEnchanted Book",
+    "name": "§fEnchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;15000000",
+      "A1": "SKYBLOCK_NORTH_STAR;10",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -39642,9 +39656,9 @@
     ]
   },
   "SHARPNESS": {
-    "name": "§9Enchanted Book",
+    "name": "§fEnchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;10000000",
+      "A1": "SKYBLOCK_COIN;30",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -40947,8 +40961,8 @@
   "SKYBLOCK_ENIGMA_SOUL:1": {
     "name": "§dEnigma Soul (Rift)",
     "recipe": {
-      "A1": "ESSENCE_SUN_GECKO;25",
-      "B1": "",
+      "A1": "SKYBLOCK_MOTE;4000",
+      "B1": "DEADGEHOG_SPINE;8",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -41668,9 +41682,9 @@
     ]
   },
   "SMITE": {
-    "name": "§5Enchanted Book",
+    "name": "§fEnchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;25000000",
+      "A1": "SKYBLOCK_COIN;20",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -42530,16 +42544,15 @@
   "SPECKLED_MELON": {
     "name": "§fGlistering Melon",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;10",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A1": "GOLD_NUGGET;1",
+      "B1": "GOLD_NUGGET;1",
+      "C1": "GOLD_NUGGET;1",
+      "A2": "GOLD_NUGGET;1",
+      "B2": "MELON;1",
+      "C2": "GOLD_NUGGET;1",
+      "A3": "GOLD_NUGGET;1",
+      "B3": "GOLD_NUGGET;1",
+      "C3": "GOLD_NUGGET;1"
     }
   },
   "SPEED_ARTIFACT": {
@@ -43979,15 +43992,16 @@
   "STAINED_CLAY-1": {
     "name": "§fOrange Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:14;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-10": {
@@ -44022,141 +44036,151 @@
   "STAINED_CLAY-12": {
     "name": "§fBrown Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:3;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-13": {
     "name": "§fGreen Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:2;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-14": {
     "name": "§fRed Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:1;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-15": {
     "name": "§fBlack Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-2": {
     "name": "§fMagenta Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:13;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-3": {
     "name": "§fLight Blue Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:12;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-4": {
     "name": "§fYellow Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:11;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-5": {
     "name": "§fLime Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:10;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-6": {
     "name": "§fPink Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:9;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-7": {
     "name": "§fGray Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:8;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_CLAY-8": {
@@ -44176,15 +44200,16 @@
   "STAINED_CLAY-9": {
     "name": "§fCyan Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:6;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS": {
@@ -44232,29 +44257,31 @@
   "STAINED_GLASS_PANE-10": {
     "name": "§fPurple Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:10;1",
-      "B1": "STAINED_GLASS:10;1",
-      "C1": "STAINED_GLASS:10;1",
-      "A2": "STAINED_GLASS:10;1",
-      "B2": "STAINED_GLASS:10;1",
-      "C2": "STAINED_GLASS:10;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-11": {
     "name": "§fBlue Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:11;1",
-      "B1": "STAINED_GLASS:11;1",
-      "C1": "STAINED_GLASS:11;1",
-      "A2": "STAINED_GLASS:11;1",
-      "B2": "STAINED_GLASS:11;1",
-      "C2": "STAINED_GLASS:11;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-12": {
@@ -44274,141 +44301,151 @@
   "STAINED_GLASS_PANE-13": {
     "name": "§fGreen Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:13;1",
-      "B1": "STAINED_GLASS:13;1",
-      "C1": "STAINED_GLASS:13;1",
-      "A2": "STAINED_GLASS:13;1",
-      "B2": "STAINED_GLASS:13;1",
-      "C2": "STAINED_GLASS:13;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-14": {
     "name": "§fRed Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:14;1",
-      "B1": "STAINED_GLASS:14;1",
-      "C1": "STAINED_GLASS:14;1",
-      "A2": "STAINED_GLASS:14;1",
-      "B2": "STAINED_GLASS:14;1",
-      "C2": "STAINED_GLASS:14;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-15": {
     "name": "§fBlack Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:15;1",
-      "B1": "STAINED_GLASS:15;1",
-      "C1": "STAINED_GLASS:15;1",
-      "A2": "STAINED_GLASS:15;1",
-      "B2": "STAINED_GLASS:15;1",
-      "C2": "STAINED_GLASS:15;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-2": {
     "name": "§fMagenta Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:2;1",
-      "B1": "STAINED_GLASS:2;1",
-      "C1": "STAINED_GLASS:2;1",
-      "A2": "STAINED_GLASS:2;1",
-      "B2": "STAINED_GLASS:2;1",
-      "C2": "STAINED_GLASS:2;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-3": {
     "name": "§fLight Blue Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:3;1",
-      "B1": "STAINED_GLASS:3;1",
-      "C1": "STAINED_GLASS:3;1",
-      "A2": "STAINED_GLASS:3;1",
-      "B2": "STAINED_GLASS:3;1",
-      "C2": "STAINED_GLASS:3;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-4": {
     "name": "§fYellow Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:4;1",
-      "B1": "STAINED_GLASS:4;1",
-      "C1": "STAINED_GLASS:4;1",
-      "A2": "STAINED_GLASS:4;1",
-      "B2": "STAINED_GLASS:4;1",
-      "C2": "STAINED_GLASS:4;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-5": {
     "name": "§fLime Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:5;1",
-      "B1": "STAINED_GLASS:5;1",
-      "C1": "STAINED_GLASS:5;1",
-      "A2": "STAINED_GLASS:5;1",
-      "B2": "STAINED_GLASS:5;1",
-      "C2": "STAINED_GLASS:5;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-6": {
     "name": "§fPink Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:6;1",
-      "B1": "STAINED_GLASS:6;1",
-      "C1": "STAINED_GLASS:6;1",
-      "A2": "STAINED_GLASS:6;1",
-      "B2": "STAINED_GLASS:6;1",
-      "C2": "STAINED_GLASS:6;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-7": {
     "name": "§fGray Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:7;1",
-      "B1": "STAINED_GLASS:7;1",
-      "C1": "STAINED_GLASS:7;1",
-      "A2": "STAINED_GLASS:7;1",
-      "B2": "STAINED_GLASS:7;1",
-      "C2": "STAINED_GLASS:7;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-8": {
     "name": "§fLight Gray Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:8;1",
-      "B1": "STAINED_GLASS:8;1",
-      "C1": "STAINED_GLASS:8;1",
-      "A2": "STAINED_GLASS:8;1",
-      "B2": "STAINED_GLASS:8;1",
-      "C2": "STAINED_GLASS:8;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS_PANE-9": {
@@ -44428,99 +44465,106 @@
   "STAINED_GLASS-1": {
     "name": "§fOrange Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:14;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-10": {
     "name": "§fPurple Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:5;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-11": {
     "name": "§fBlue Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:4;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-12": {
     "name": "§fBrown Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:3;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-13": {
     "name": "§fGreen Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:2;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-14": {
     "name": "§fRed Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:1;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-15": {
     "name": "§fBlack Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-2": {
@@ -44540,29 +44584,31 @@
   "STAINED_GLASS-3": {
     "name": "§fLight Blue Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:12;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-4": {
     "name": "§fYellow Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:11;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-5": {
@@ -44597,43 +44643,46 @@
   "STAINED_GLASS-7": {
     "name": "§fGray Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:8;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-8": {
     "name": "§fLight Gray Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:7;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STAINED_GLASS-9": {
     "name": "§fCyan Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:6;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STARLIGHT_BOOTS": {
@@ -45531,15 +45580,16 @@
   "STONE_PLATE": {
     "name": "§fStone Pressure Plate",
     "recipe": {
-      "A1": "STONE;1",
-      "B1": "STONE;1",
+      "A1": "SKYBLOCK_COIN;4",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "STONE_SLAB2": {
@@ -47957,15 +48007,16 @@
   "TNT": {
     "name": "§fTNT",
     "recipe": {
-      "A1": "SULPHUR;1",
-      "B1": "SAND;1",
-      "C1": "SULPHUR;1",
-      "A2": "SAND;1",
-      "B2": "SULPHUR;1",
-      "C2": "SAND;1",
-      "A3": "SULPHUR;1",
-      "B3": "SAND;1",
-      "C3": "SULPHUR;1"
+      "A1": "SKYBLOCK_COIN;50",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "TOIL_LOG": {
@@ -48292,15 +48343,16 @@
   "TRIPWIRE_HOOK": {
     "name": "§fTripwire Hook",
     "recipe": {
-      "A1": "IRON_INGOT;1",
+      "A1": "SKYBLOCK_COIN;4",
       "B1": "",
       "C1": "",
-      "A2": "STICK;1",
+      "A2": "",
       "B2": "",
       "C2": "",
-      "A3": "WOOD;1",
+      "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "TRUE_ESSENCE": {
@@ -50588,16 +50640,15 @@
   "WOOD_HOE": {
     "name": "§fWooden Hoe",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;5",
-      "B1": "",
+      "A1": "WOOD;1",
+      "B1": "WOOD;1",
       "C1": "",
       "A2": "",
-      "B2": "",
+      "B2": "STICK;1",
       "C2": "",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Wooden_Hoe"
@@ -50624,15 +50675,16 @@
   "WOOD_PLATE": {
     "name": "§fWooden Pressure Plate",
     "recipe": {
-      "A1": "WOOD;1",
-      "B1": "WOOD;1",
+      "A1": "SKYBLOCK_COIN;2",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOD_SINGULARITY": {
@@ -50774,16 +50826,15 @@
   "WOOD_SWORD": {
     "name": "§fWooden Sword",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;5",
+      "A1": "WOOD;1",
       "B1": "",
       "C1": "",
-      "A2": "",
+      "A2": "WOOD;1",
       "B2": "",
       "C2": "",
-      "A3": "",
+      "A3": "STICK;1",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Wooden_Sword"
@@ -50912,127 +50963,136 @@
   "WOOL-1": {
     "name": "§fOrange Wool",
     "recipe": {
-      "A1": "INK_SACK:14;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-10": {
     "name": "§fPurple Wool",
     "recipe": {
-      "A1": "INK_SACK:5;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-11": {
     "name": "§fBlue Wool",
     "recipe": {
-      "A1": "INK_SACK:4;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-12": {
     "name": "§fBrown Wool",
     "recipe": {
-      "A1": "INK_SACK:3;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-13": {
     "name": "§fGreen Wool",
     "recipe": {
-      "A1": "INK_SACK:2;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-14": {
     "name": "§fRed Wool",
     "recipe": {
-      "A1": "INK_SACK:1;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-15": {
     "name": "§fBlack Wool",
     "recipe": {
-      "A1": "INK_SACK;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-2": {
     "name": "§fMagenta Wool",
     "recipe": {
-      "A1": "INK_SACK:13;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-3": {
     "name": "§fLight Blue Wool",
     "recipe": {
-      "A1": "INK_SACK:12;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-4": {
@@ -51052,57 +51112,61 @@
   "WOOL-5": {
     "name": "§fLime Wool",
     "recipe": {
-      "A1": "INK_SACK:10;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-6": {
     "name": "§fPink Wool",
     "recipe": {
-      "A1": "INK_SACK:9;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-7": {
     "name": "§fGray Wool",
     "recipe": {
-      "A1": "INK_SACK:8;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-8": {
     "name": "§fLight Gray Wool",
     "recipe": {
-      "A1": "INK_SACK:7;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     }
   },
   "WOOL-9": {
