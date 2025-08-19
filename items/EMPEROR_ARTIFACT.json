@@ -11,9 +11,11 @@
   "internalname": "EMPEROR_ARTIFACT",
   "clickcommand": "",
   "crafttext": "",
-  "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
-  "infoType": "",
-  "info": [],
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Emperor%27s_Artifact"
+  ],
   "recipes": [
     {
       "A1": "EMPEROR_RING:1",

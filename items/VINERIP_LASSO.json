@@ -23,17 +23,19 @@
   "internalname": "VINERIP_LASSO",
   "clickcommand": "",
   "crafttext": "",
-  "modver": "Firmament 3.1.0-dev+mc1.21.5+g4402b1f",
-  "infoType": "",
-  "info": [],
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Vinerip_Lasso"
+  ],
   "recipes": [
     {
       "A1": "",
-      "A2": "VINESAP:1",
-      "A3": "VINESAP:1",
+      "A2": "VINESAP:4",
+      "A3": "VINESAP:4",
       "B1": "",
-      "B2": "ENCHANTED_MANGROVE_LOG:1",
-      "B3": "VINESAP:1",
+      "B2": "ABYSMAL_LASSO:1",
+      "B3": "VINESAP:4",
       "C1": "ENCHANTED_MANGROVE_LOG:1",
       "C2": "",
       "C3": "",

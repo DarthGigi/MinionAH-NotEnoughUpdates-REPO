@@ -13,9 +13,11 @@
   "internalname": "ENCHANTED_TENDER_WOOD",
   "clickcommand": "",
   "crafttext": "",
-  "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
-  "infoType": "",
-  "info": [],
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Enchanted_Tender_Wood"
+  ],
   "recipes": [
     {
       "A1": "",
