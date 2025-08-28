@@ -435,7 +435,7 @@
     ]
   },
   "ABIPHONE_XIV_ENORMOUS_PURPLE": {
-    "name": "§6Abiphone XIV Enormous",
+    "name": "§6Abiphone XIV Enormous Purple",
     "recipe": {
       "A1": "SKYBLOCK_COIN;73875000",
       "B1": "",
@@ -1646,7 +1646,7 @@
   "ARROW": {
     "name": "§fFlint Arrow",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;200",
+      "A1": "SKYBLOCK_COIN;40",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -1954,6 +1954,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Atomsplit_Katana",
       "https://wiki.hypixel.net/Atomsplit_Katana"
     ]
+  },
+  "ATTRIBUTE_SHARD_DWARVEN_SERENDIPITY": {
+    "name": "§9Abyssal Lanternfish Shard",
+    "recipe": {
+      "A1": "SKYBLOCK_BIT;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "ATTRIBUTE_SHARD_ECHO_OF_SHARPENING": {
     "name": "§9Gecko Shard",
@@ -3965,7 +3981,7 @@
   "BLAZE_POWDER": {
     "name": "§fBlaze Powder",
     "recipe": {
-      "A1": "BLAZE_ROD;1",
+      "A1": "SKYBLOCK_COIN;12",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -3973,7 +3989,8 @@
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Blaze_Powder"
@@ -4416,16 +4433,15 @@
   "BOOK": {
     "name": "§fBook",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;20",
-      "B1": "",
-      "C1": "",
-      "A2": "",
+      "A1": "PAPER;1",
+      "B1": "PAPER;1",
+      "C1": "PAPER;1",
+      "A2": "LEATHER;1",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Book"
@@ -4538,16 +4554,15 @@
   "BOW": {
     "name": "§fBow",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;25",
-      "B1": "",
-      "C1": "",
-      "A2": "",
+      "A1": "",
+      "B1": "STICK;1",
+      "C1": "STRING;1",
+      "A2": "STICK;1",
       "B2": "",
-      "C2": "",
+      "C2": "STRING;1",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": "STRING;1"
     },
     "wiki": [
       "https://wiki.hypixel.net/Bow"
@@ -4618,7 +4633,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "BREWING_STAND_ITEM": {
     "name": "§fBrewing Stand",
@@ -5631,15 +5647,16 @@
   "CARPET-1": {
     "name": "§fOrange Carpet",
     "recipe": {
-      "A1": "WOOL:1;1",
-      "B1": "WOOL:1;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -5662,16 +5679,15 @@
   "CARPET-11": {
     "name": "§fBlue Carpet",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;32",
-      "B1": "",
+      "A1": "WOOL:11;1",
+      "B1": "WOOL:11;1",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": []
   },
@@ -5694,16 +5710,15 @@
   "CARPET-13": {
     "name": "§fGreen Carpet",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;32",
-      "B1": "",
+      "A1": "WOOL:13;1",
+      "B1": "WOOL:13;1",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": []
   },
@@ -5789,16 +5804,15 @@
   "CARPET-5": {
     "name": "§fLime Carpet",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;32",
-      "B1": "",
+      "A1": "WOOL:5;1",
+      "B1": "WOOL:5;1",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": []
   },
@@ -5837,32 +5851,30 @@
   "CARPET-8": {
     "name": "§fLight Gray Carpet",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;32",
-      "B1": "",
+      "A1": "WOOL:8;1",
+      "B1": "WOOL:8;1",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": []
   },
   "CARPET-9": {
     "name": "§fCyan Carpet",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;32",
-      "B1": "",
+      "A1": "WOOL:9;1",
+      "B1": "WOOL:9;1",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": []
   },
@@ -8002,7 +8014,7 @@
     ]
   },
   "COCOA": {
-    "name": "§f§f§fCocoa Plant",
+    "name": "§fCocoa Plant",
     "recipe": {
       "A1": "SKYBLOCK_COIN;7",
       "B1": "",
@@ -8014,7 +8026,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "COCOA_GENERATOR_1": {
     "name": "§9Cocoa Beans Minion I",
@@ -9840,16 +9853,15 @@
   "DAYLIGHT_DETECTOR": {
     "name": "§fDaylight Detector",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;18",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A1": "GLASS;1",
+      "B1": "GLASS;1",
+      "C1": "GLASS;1",
+      "A2": "QUARTZ;1",
+      "B2": "QUARTZ;1",
+      "C2": "QUARTZ;1",
+      "A3": "WOOD_STEP;1",
+      "B3": "WOOD_STEP;1",
+      "C3": "WOOD_STEP;1"
     },
     "wiki": []
   },
@@ -10621,15 +10633,16 @@
   "DIAMOND_SWORD": {
     "name": "§aDiamond Sword",
     "recipe": {
-      "A1": "DIAMOND;1",
+      "A1": "SKYBLOCK_COIN;60",
       "B1": "",
       "C1": "",
-      "A2": "DIAMOND;1",
+      "A2": "",
       "B2": "",
       "C2": "",
-      "A3": "STICK;1",
+      "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://wiki.hypixel.net/Diamond_Sword"
@@ -10656,15 +10669,16 @@
   "DIODE": {
     "name": "§fRepeater",
     "recipe": {
-      "A1": "REDSTONE_TORCH_ON;1",
-      "B1": "REDSTONE;1",
-      "C1": "REDSTONE_TORCH_ON;1",
-      "A2": "STONE;1",
-      "B2": "STONE;1",
-      "C2": "STONE;1",
+      "A1": "SKYBLOCK_COIN;6",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -13930,16 +13944,15 @@
   "END_SWORD": {
     "name": "§aEnd Sword",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;150",
-      "B1": "",
+      "A1": "",
+      "B1": "ENDER_PEARL;1",
       "C1": "",
       "A2": "",
-      "B2": "",
+      "B2": "ENDER_PEARL;1",
       "C2": "",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/End_Sword",
@@ -14558,23 +14571,22 @@
   "EXP_BOTTLE": {
     "name": "§fExperience Bottle",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;30",
-      "B1": "",
+      "A1": "",
+      "B1": "INK_SACK:4;1",
       "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A2": "INK_SACK:4;1",
+      "B2": "GLASS_BOTTLE;1",
+      "C2": "INK_SACK:4;1",
+      "A3": "INK_SACK:4;1",
+      "B3": "INK_SACK:4;1",
+      "C3": "INK_SACK:4;1"
     },
     "wiki": []
   },
   "EXPERIENCE": {
     "name": "§fEnchanted Book",
     "recipe": {
-      "A1": "ESSENCE_ICE;15000",
+      "A1": "SKYBLOCK_COIN;400000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -15921,7 +15933,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "FIREDUST_DAGGER": {
     "name": "§9Firedust Dagger",
@@ -16209,16 +16222,15 @@
   "FISHING_ROD": {
     "name": "§fFishing Rod",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;50",
+      "A1": "",
       "B1": "",
-      "C1": "",
+      "C1": "STICK;1",
       "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
+      "B2": "STICK;1",
+      "C2": "STRING;1",
+      "A3": "STICK;1",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": "STRING;1"
     },
     "wiki": [
       "https://wiki.hypixel.net/Fishing_Rod"
@@ -18189,21 +18201,6 @@
       "https://wiki.hypixel.net/Glacial_Scythe"
     ]
   },
-  "GLASS_BOTTLE": {
-    "name": "§fGlass Bottle",
-    "recipe": {
-      "A1": "GLASS;1",
-      "B1": "",
-      "C1": "GLASS;1",
-      "A2": "",
-      "B2": "GLASS;1",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": []
-  },
   "GLASS_BOTTLE:8": {
     "name": "§fGlass Bottle",
     "recipe": {
@@ -18622,16 +18619,15 @@
   "GOLD_AXE": {
     "name": "§fGolden Axe",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;10",
-      "B1": "",
+      "A1": "GOLD_INGOT;1",
+      "B1": "GOLD_INGOT;1",
       "C1": "",
-      "A2": "",
-      "B2": "",
+      "A2": "GOLD_INGOT;1",
+      "B2": "STICK;1",
       "C2": "",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Axe"
@@ -18657,16 +18653,15 @@
   "GOLD_BOOTS": {
     "name": "§fGolden Boots",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;9",
+      "A1": "GOLD_INGOT;1",
       "B1": "",
-      "C1": "",
-      "A2": "",
+      "C1": "GOLD_INGOT;1",
+      "A2": "GOLD_INGOT;1",
       "B2": "",
-      "C2": "",
+      "C2": "GOLD_INGOT;1",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Boots"
@@ -18965,16 +18960,15 @@
   "GOLD_HELMET": {
     "name": "§fGolden Helmet",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;10",
-      "B1": "",
-      "C1": "",
-      "A2": "",
+      "A1": "GOLD_INGOT;1",
+      "B1": "GOLD_INGOT;1",
+      "C1": "GOLD_INGOT;1",
+      "A2": "GOLD_INGOT;1",
       "B2": "",
-      "C2": "",
+      "C2": "GOLD_INGOT;1",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Helmet"
@@ -19129,16 +19123,15 @@
   "GOLD_LEGGINGS": {
     "name": "§fGolden Leggings",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;14",
-      "B1": "",
-      "C1": "",
-      "A2": "",
+      "A1": "GOLD_INGOT;1",
+      "B1": "GOLD_INGOT;1",
+      "C1": "GOLD_INGOT;1",
+      "A2": "GOLD_INGOT;1",
       "B2": "",
-      "C2": "",
-      "A3": "",
+      "C2": "GOLD_INGOT;1",
+      "A3": "GOLD_INGOT;1",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": "GOLD_INGOT;1"
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Leggings"
@@ -19147,7 +19140,7 @@
   "GOLD_PICKAXE": {
     "name": "§fGolden Pickaxe",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;10",
+      "A1": "GOLD_INGOT;3",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -19281,16 +19274,15 @@
   "GOLDEN_CARROT": {
     "name": "§fGolden Carrot",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;30",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A1": "GOLD_NUGGET;1",
+      "B1": "GOLD_NUGGET;1",
+      "C1": "GOLD_NUGGET;1",
+      "A2": "GOLD_NUGGET;1",
+      "B2": "CARROT_ITEM;1",
+      "C2": "GOLD_NUGGET;1",
+      "A3": "GOLD_NUGGET;1",
+      "B3": "GOLD_NUGGET;1",
+      "C3": "GOLD_NUGGET;1"
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Carrot"
@@ -19444,16 +19436,15 @@
   "GRAND_EXP_BOTTLE": {
     "name": "§aGrand Experience Bottle",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;4750",
-      "B1": "",
+      "A1": "",
+      "B1": "ENCHANTED_LAPIS_LAZULI;1",
       "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A2": "ENCHANTED_LAPIS_LAZULI;1",
+      "B2": "GLASS_BOTTLE;1",
+      "C2": "ENCHANTED_LAPIS_LAZULI;1",
+      "A3": "ENCHANTED_LAPIS_LAZULI;1",
+      "B3": "ENCHANTED_LAPIS_LAZULI;1",
+      "C3": "ENCHANTED_LAPIS_LAZULI;1"
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Grand_Experience_Bottle",
@@ -23197,15 +23188,16 @@
   "IRON_LEGGINGS": {
     "name": "§fIron Leggings",
     "recipe": {
-      "A1": "IRON_INGOT;1",
-      "B1": "IRON_INGOT;1",
-      "C1": "IRON_INGOT;1",
-      "A2": "IRON_INGOT;1",
+      "A1": "SKYBLOCK_COIN;30",
+      "B1": "",
+      "C1": "",
+      "A2": "",
       "B2": "",
-      "C2": "IRON_INGOT;1",
-      "A3": "IRON_INGOT;1",
+      "C2": "",
+      "A3": "",
       "B3": "",
-      "C3": "IRON_INGOT;1"
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://wiki.hypixel.net/Iron_Leggings"
@@ -23232,15 +23224,16 @@
   "IRON_PLATE": {
     "name": "§fHeavy Weighted Pressure Plate",
     "recipe": {
-      "A1": "IRON_INGOT;1",
-      "B1": "IRON_INGOT;1",
+      "A1": "SKYBLOCK_COIN;12",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -24098,16 +24091,15 @@
   "KUUDRA_BURNING_TIER_KEY": {
     "name": "§5Burning Kuudra Key",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;750000",
-      "B1": "ENCHANTED_RED_SAND;16",
-      "C1": "CORRUPTED_NETHER_STAR;2",
-      "A2": "",
-      "B2": "",
+      "A1": "KUUDRA_HOT_TIER_KEY;1",
+      "B1": "KUUDRA_HOT_TIER_KEY;1",
+      "C1": "",
+      "A2": "KUUDRA_HOT_TIER_KEY;1",
+      "B2": "KUUDRA_HOT_TIER_KEY;1",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Burning_Kuudra_Key",
@@ -24117,16 +24109,15 @@
   "KUUDRA_FIERY_TIER_KEY": {
     "name": "§5Fiery Kuudra Key",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;1500000",
-      "B1": "ENCHANTED_RED_SAND;40",
-      "C1": "CORRUPTED_NETHER_STAR;2",
-      "A2": "",
-      "B2": "",
+      "A1": "KUUDRA_BURNING_TIER_KEY;1",
+      "B1": "KUUDRA_BURNING_TIER_KEY;1",
+      "C1": "",
+      "A2": "KUUDRA_BURNING_TIER_KEY;1",
+      "B2": "KUUDRA_BURNING_TIER_KEY;1",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Fiery_Kuudra_Key",
@@ -24155,15 +24146,16 @@
   "KUUDRA_HOT_TIER_KEY": {
     "name": "§5Hot Kuudra Key",
     "recipe": {
-      "A1": "KUUDRA_TIER_KEY;1",
-      "B1": "KUUDRA_TIER_KEY;1",
-      "C1": "",
-      "A2": "KUUDRA_TIER_KEY;1",
-      "B2": "KUUDRA_TIER_KEY;1",
+      "A1": "SKYBLOCK_COIN;400000",
+      "B1": "ENCHANTED_MYCELIUM;4",
+      "C1": "CORRUPTED_NETHER_STAR;2",
+      "A2": "",
+      "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Hot_Kuudra_Key",
@@ -24174,7 +24166,7 @@
     "name": "§6Infernal Kuudra Key",
     "recipe": {
       "A1": "SKYBLOCK_COIN;3000000",
-      "B1": "ENCHANTED_RED_SAND;80",
+      "B1": "ENCHANTED_MYCELIUM;80",
       "C1": "CORRUPTED_NETHER_STAR;2",
       "A2": "",
       "B2": "",
@@ -24192,8 +24184,8 @@
   "KUUDRA_TIER_KEY": {
     "name": "§9Kuudra Key",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;200000",
-      "B1": "ENCHANTED_RED_SAND;2",
+      "A1": "SKYBLOCK_COIN;7600",
+      "B1": "ENCHANTED_MYCELIUM;2",
       "C1": "CORRUPTED_NETHER_STAR;2",
       "A2": "",
       "B2": "",
@@ -28555,13 +28547,13 @@
     "name": "§6Mosquito Shortbow",
     "recipe": {
       "A1": "",
-      "B1": "ENCHANTED_IRON;64",
+      "B1": "ENCHANTED_EMERALD;64",
       "C1": "TARANTULA_SILK;64",
-      "A2": "DIGESTED_MOSQUITO;1",
+      "A2": "ENCHANTED_GOLD;64",
       "B2": "",
-      "C2": "TARANTULA_SILK;64",
+      "C2": "SCORPION_BOW;1",
       "A3": "",
-      "B3": "ENCHANTED_IRON;64",
+      "B3": "ENCHANTED_EMERALD;64",
       "C3": "TARANTULA_SILK;64"
     },
     "wiki": [
@@ -33141,7 +33133,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "POTION_SPIRIT": {
     "name": "§fSpirit I Potion",
@@ -33599,9 +33592,9 @@
     ]
   },
   "PROTECTION": {
-    "name": "§fEnchanted Book",
+    "name": "§9Enchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;20",
+      "A1": "SKYBLOCK_COIN;4000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -35455,15 +35448,16 @@
   "REDSTONE_COMPARATOR": {
     "name": "§fComparator",
     "recipe": {
-      "A1": "",
-      "B1": "REDSTONE_TORCH_ON;1",
+      "A1": "SKYBLOCK_COIN;10",
+      "B1": "",
       "C1": "",
-      "A2": "REDSTONE_TORCH_ON;1",
-      "B2": "QUARTZ;1",
-      "C2": "REDSTONE_TORCH_ON;1",
-      "A3": "STONE;1",
-      "B3": "STONE;1",
-      "C3": "STONE;1"
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -35792,16 +35786,15 @@
   "REFORGE_ANVIL": {
     "name": "§5Reforge Anvil",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;2000000",
-      "B1": "",
-      "C1": "",
+      "A1": "ENCHANTED_OBSIDIAN;64",
+      "B1": "ENCHANTED_OBSIDIAN;64",
+      "C1": "ENCHANTED_OBSIDIAN;64",
       "A2": "",
-      "B2": "",
+      "B2": "ENCHANTED_OBSIDIAN;64",
       "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A3": "ENCHANTED_IRON;64",
+      "B3": "ENCHANTED_IRON;64",
+      "C3": "ENCHANTED_IRON;64"
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Reforge_Anvil",
@@ -37592,9 +37585,9 @@
     ]
   },
   "SCAVENGER": {
-    "name": "§fEnchanted Book",
+    "name": "§aEnchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;40",
+      "A1": "SKYBLOCK_COIN;15000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -37967,7 +37960,7 @@
     ]
   },
   "SECRET_TRACKER:1": {
-    "name": "§f§f§aSecret Tracker 3000",
+    "name": "§aSecret Tracker 3000",
     "recipe": {
       "A1": "ESSENCE_WITHER;100",
       "B1": "",
@@ -38203,9 +38196,9 @@
     ]
   },
   "SHARPNESS": {
-    "name": "§fEnchanted Book",
+    "name": "§9Enchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;30",
+      "A1": "SKYBLOCK_COIN;10000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -39928,9 +39921,9 @@
     ]
   },
   "SMITE": {
-    "name": "§fEnchanted Book",
+    "name": "§5Enchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;20",
+      "A1": "SKYBLOCK_COIN;25000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -41270,16 +41263,15 @@
   "SPIDER_SWORD": {
     "name": "§fSpider Sword",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;100",
-      "B1": "",
+      "A1": "",
+      "B1": "SPIDER_EYE;1",
       "C1": "",
       "A2": "",
-      "B2": "",
+      "B2": "SPIDER_EYE;1",
       "C2": "",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Spider_Sword",
@@ -42235,15 +42227,16 @@
   "STAINED_CLAY-5": {
     "name": "§fLime Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:10;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -42360,16 +42353,15 @@
   "STAINED_GLASS_PANE-10": {
     "name": "§fPurple Stained Glass Pane",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;16",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
+      "A1": "STAINED_GLASS:10;1",
+      "B1": "STAINED_GLASS:10;1",
+      "C1": "STAINED_GLASS:10;1",
+      "A2": "STAINED_GLASS:10;1",
+      "B2": "STAINED_GLASS:10;1",
+      "C2": "STAINED_GLASS:10;1",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": []
   },
@@ -42392,15 +42384,16 @@
   "STAINED_GLASS_PANE-12": {
     "name": "§fBrown Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:12;1",
-      "B1": "STAINED_GLASS:12;1",
-      "C1": "STAINED_GLASS:12;1",
-      "A2": "STAINED_GLASS:12;1",
-      "B2": "STAINED_GLASS:12;1",
-      "C2": "STAINED_GLASS:12;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -42439,16 +42432,15 @@
   "STAINED_GLASS_PANE-15": {
     "name": "§fBlack Stained Glass Pane",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;16",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
+      "A1": "STAINED_GLASS:15;1",
+      "B1": "STAINED_GLASS:15;1",
+      "C1": "STAINED_GLASS:15;1",
+      "A2": "STAINED_GLASS:15;1",
+      "B2": "STAINED_GLASS:15;1",
+      "C2": "STAINED_GLASS:15;1",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": []
   },
@@ -42487,30 +42479,32 @@
   "STAINED_GLASS_PANE-4": {
     "name": "§fYellow Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:4;1",
-      "B1": "STAINED_GLASS:4;1",
-      "C1": "STAINED_GLASS:4;1",
-      "A2": "STAINED_GLASS:4;1",
-      "B2": "STAINED_GLASS:4;1",
-      "C2": "STAINED_GLASS:4;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
   "STAINED_GLASS_PANE-5": {
     "name": "§fLime Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS:5;1",
-      "B1": "STAINED_GLASS:5;1",
-      "C1": "STAINED_GLASS:5;1",
-      "A2": "STAINED_GLASS:5;1",
-      "B2": "STAINED_GLASS:5;1",
-      "C2": "STAINED_GLASS:5;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -42533,16 +42527,15 @@
   "STAINED_GLASS_PANE-7": {
     "name": "§fGray Stained Glass Pane",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;16",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
+      "A1": "STAINED_GLASS:7;1",
+      "B1": "STAINED_GLASS:7;1",
+      "C1": "STAINED_GLASS:7;1",
+      "A2": "STAINED_GLASS:7;1",
+      "B2": "STAINED_GLASS:7;1",
+      "C2": "STAINED_GLASS:7;1",
       "A3": "",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": []
   },
@@ -42692,16 +42685,15 @@
   "STAINED_GLASS-2": {
     "name": "§fMagenta Stained Glass",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;16",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "A1": "GLASS;1",
+      "B1": "GLASS;1",
+      "C1": "GLASS;1",
+      "A2": "GLASS;1",
+      "B2": "INK_SACK:13;1",
+      "C2": "GLASS;1",
+      "A3": "GLASS;1",
+      "B3": "GLASS;1",
+      "C3": "GLASS;1"
     },
     "wiki": []
   },
@@ -42740,15 +42732,16 @@
   "STAINED_GLASS-5": {
     "name": "§fLime Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:10;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -42786,15 +42779,16 @@
   "STAINED_GLASS-8": {
     "name": "§fLight Gray Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:7;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -43717,15 +43711,16 @@
   "STONE_PLATE": {
     "name": "§fStone Pressure Plate",
     "recipe": {
-      "A1": "STONE;1",
-      "B1": "STONE;1",
+      "A1": "SKYBLOCK_COIN;4",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -44516,7 +44511,7 @@
   "SUPERBOOM_TNT": {
     "name": "§9Superboom TNT",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;2500",
+      "A1": "SKYBLOCK_COIN;3000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -48672,16 +48667,15 @@
   "WOOD_HOE": {
     "name": "§fWooden Hoe",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;5",
-      "B1": "",
+      "A1": "WOOD;1",
+      "B1": "WOOD;1",
       "C1": "",
       "A2": "",
-      "B2": "",
+      "B2": "STICK;1",
       "C2": "",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Wooden_Hoe"
@@ -48690,16 +48684,15 @@
   "WOOD_PICKAXE": {
     "name": "§fWooden Pickaxe",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;5",
-      "B1": "",
-      "C1": "",
+      "A1": "WOOD;1",
+      "B1": "WOOD;1",
+      "C1": "WOOD;1",
       "A2": "",
-      "B2": "",
+      "B2": "STICK;1",
       "C2": "",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Wooden_Pickaxe"
@@ -48742,16 +48735,15 @@
   "WOOD_SPADE": {
     "name": "§fWooden Shovel",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;5",
-      "B1": "",
+      "A1": "",
+      "B1": "WOOD;1",
       "C1": "",
       "A2": "",
-      "B2": "",
+      "B2": "STICK;1",
       "C2": "",
       "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
+      "B3": "STICK;1",
+      "C3": ""
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Wooden_Shovel",
@@ -48866,16 +48858,15 @@
   "WOOD_SWORD": {
     "name": "§fWooden Sword",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;5",
+      "A1": "WOOD;1",
       "B1": "",
       "C1": "",
-      "A2": "",
+      "A2": "WOOD;1",
       "B2": "",
       "C2": "",
-      "A3": "",
+      "A3": "STICK;1",
       "B3": "",
-      "C3": "",
-      "count": 1
+      "C3": ""
     },
     "wiki": [
       "https://wiki.hypixel.net/Wooden_Sword"
@@ -49182,15 +49173,16 @@
   "WOOL-7": {
     "name": "§fGray Wool",
     "recipe": {
-      "A1": "INK_SACK:8;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
