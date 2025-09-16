@@ -187,10 +187,29 @@
       "https://wiki.hypixel.net/Abicase"
     ]
   },
+  "ABIPHONE_BASIC": {
+    "name": "§fAbiphone Basic",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Abiphone_Basic",
+      "https://wiki.hypixel.net/Abiphone_Basic"
+    ]
+  },
   "ABIPHONE_FLIP_DRAGON": {
     "name": "§6Abiphone Flip: Dragon",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;98500000",
+      "A1": "SKYBLOCK_COIN;50000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -209,7 +228,7 @@
   "ABIPHONE_FLIP_NUCLEUS": {
     "name": "§6Abiphone Flip: Nucleus",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;98500000",
+      "A1": "SKYBLOCK_COIN;50000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -225,10 +244,58 @@
       "https://wiki.hypixel.net/Abiphone_Flip:_Nucleus"
     ]
   },
+  "ABIPHONE_FLIP_PLUS_CLOCKWORK": {
+    "name": "§6Abiphone Flip+: Clockwork",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100000000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "ABIPHONE_FLIP_PLUS_FLOWER": {
+    "name": "§6Abiphone Flip+: Flower",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100000000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "ABIPHONE_FLIP_PLUS_LUNAR": {
+    "name": "§6Abiphone Flip+: Lunar",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100000000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "ABIPHONE_FLIP_VOLCANO": {
     "name": "§6Abiphone Flip: Volcano",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;98500000",
+      "A1": "SKYBLOCK_COIN;50000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -245,9 +312,9 @@
     ]
   },
   "ABIPHONE_X_PLUS": {
-    "name": "§aAbiphone X Plus",
+    "name": "§aAbiphone X Red",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;985000",
+      "A1": "SKYBLOCK_COIN;500000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -264,9 +331,9 @@
     ]
   },
   "ABIPHONE_X_PLUS_SPECIAL_EDITION": {
-    "name": "§aAbiphone X Plus Special Edition",
+    "name": "§aAbiphone X Blue",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;1970000",
+      "A1": "SKYBLOCK_COIN;500000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -283,9 +350,9 @@
     ]
   },
   "ABIPHONE_XI_ULTRA": {
-    "name": "§aAbiphone XI Ultra",
+    "name": "§aAbiphone XI Yellow",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;4925000",
+      "A1": "SKYBLOCK_COIN;500000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -302,9 +369,9 @@
     ]
   },
   "ABIPHONE_XI_ULTRA_STYLE": {
-    "name": "§9Abiphone XI Ultra Style",
+    "name": "§aAbiphone XI Green",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;6895000",
+      "A1": "SKYBLOCK_COIN;500000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -321,9 +388,9 @@
     ]
   },
   "ABIPHONE_XII_MEGA": {
-    "name": "§9Abiphone XII Mega",
+    "name": "§9Abiphone XII Amber",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;7880000",
+      "A1": "SKYBLOCK_COIN;1000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -340,9 +407,9 @@
     ]
   },
   "ABIPHONE_XII_MEGA_COLOR": {
-    "name": "§5Abiphone XII Mega Color",
+    "name": "§9Abiphone XII Amethyst",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;11820000",
+      "A1": "SKYBLOCK_COIN;1000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -359,9 +426,9 @@
     ]
   },
   "ABIPHONE_XIII_PRO": {
-    "name": "§5Abiphone XIII Pro",
+    "name": "§9Abiphone XIII Jade",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;19700000",
+      "A1": "SKYBLOCK_COIN;5000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -378,9 +445,9 @@
     ]
   },
   "ABIPHONE_XIII_PRO_GIGA": {
-    "name": "§5Abiphone XIII Pro Giga",
+    "name": "§9Abiphone XIII Sapphire",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;39400000",
+      "A1": "SKYBLOCK_COIN;5000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -397,9 +464,9 @@
     ]
   },
   "ABIPHONE_XIV_ENORMOUS": {
-    "name": "§6Abiphone XIV Enormous",
+    "name": "§5Abiphone XIV Orange",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;73875000",
+      "A1": "SKYBLOCK_COIN;25000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -416,9 +483,9 @@
     ]
   },
   "ABIPHONE_XIV_ENORMOUS_BLACK": {
-    "name": "§6Abiphone XIV Enormous",
+    "name": "§5Abiphone XIV Black",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;73875000",
+      "A1": "SKYBLOCK_COIN;25000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -435,9 +502,9 @@
     ]
   },
   "ABIPHONE_XIV_ENORMOUS_PURPLE": {
-    "name": "§6Abiphone XIV Enormous Purple",
+    "name": "§5Abiphone XIV Purple",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;73875000",
+      "A1": "SKYBLOCK_COIN;25000000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -759,7 +826,8 @@
       "A3": "IRON_INGOT;1",
       "B3": "STICK;1",
       "C3": "IRON_INGOT;1"
-    }
+    },
+    "wiki": []
   },
   "ADVANCED_GARDENING_AXE:1": {
     "name": "§9Advanced Gardening Axe",
@@ -1030,6 +1098,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Belt",
       "https://wiki.hypixel.net/Angler_Belt"
     ]
   },
@@ -1048,6 +1117,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Belt",
       "https://wiki.hypixel.net/Angler_Belt"
     ]
   },
@@ -1104,6 +1174,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Bracelet",
       "https://wiki.hypixel.net/Angler_Bracelet"
     ]
   },
@@ -1122,6 +1193,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Bracelet",
       "https://wiki.hypixel.net/Angler_Bracelet"
     ]
   },
@@ -1178,6 +1250,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Cloak",
       "https://wiki.hypixel.net/Angler_Cloak"
     ]
   },
@@ -1196,6 +1269,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Cloak",
       "https://wiki.hypixel.net/Angler_Cloak"
     ]
   },
@@ -1290,6 +1364,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Necklace",
       "https://wiki.hypixel.net/Angler_Necklace"
     ]
   },
@@ -1308,6 +1383,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Necklace",
       "https://wiki.hypixel.net/Angler_Necklace"
     ]
   },
@@ -1955,8 +2031,8 @@
       "https://wiki.hypixel.net/Atomsplit_Katana"
     ]
   },
-  "ATTRIBUTE_SHARD_DWARVEN_SERENDIPITY": {
-    "name": "§9Abyssal Lanternfish Shard",
+  "ATTRIBUTE_SHARD_COOKIE_EATER": {
+    "name": "§9Bitbug Shard",
     "recipe": {
       "A1": "SKYBLOCK_BIT;5000",
       "B1": "",
@@ -2157,6 +2233,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Backwater_Belt",
       "https://wiki.hypixel.net/Backwater_Belt"
     ]
   },
@@ -2175,6 +2252,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Backwater_Boots",
       "https://wiki.hypixel.net/Backwater_Boots"
     ]
   },
@@ -2193,6 +2271,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Backwater_Chestplate",
       "https://wiki.hypixel.net/Backwater_Chestplate"
     ]
   },
@@ -2211,6 +2290,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Backwater_Cloak",
       "https://wiki.hypixel.net/Backwater_Cloak"
     ]
   },
@@ -2229,6 +2309,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Backwater_Gloves",
       "https://wiki.hypixel.net/Backwater_Gloves"
     ]
   },
@@ -2247,6 +2328,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Backwater_Helmet",
       "https://wiki.hypixel.net/Backwater_Helmet"
     ]
   },
@@ -2265,6 +2347,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Backwater_Leggings",
       "https://wiki.hypixel.net/Backwater_Leggings"
     ]
   },
@@ -2283,6 +2366,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Backwater_Necklace",
       "https://wiki.hypixel.net/Backwater_Necklace"
     ]
   },
@@ -2355,7 +2439,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "BANNER": {
     "name": "§fBlack Banner",
@@ -2916,6 +3001,7 @@
       "C3": "POISON_SAMPLE;1"
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bayou_Water_Orb",
       "https://wiki.hypixel.net/Bayou_Water_Orb"
     ]
   },
@@ -3634,7 +3720,7 @@
     ]
   },
   "BLACK_CAT": {
-    "name": "§f§f§7[Lvl {LVL}] §6Black Cat",
+    "name": "§7[Lvl {LVL}] §6Black Cat",
     "recipe": {
       "A1": "PURPLE_CANDY;2000",
       "B1": "",
@@ -4322,6 +4408,7 @@
       "C3": "BLUE_RING;32"
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bluertooth_Ring",
       "https://wiki.hypixel.net/Bluertooth_Ring"
     ]
   },
@@ -4795,6 +4882,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bronze_Ship_Engine",
       "https://wiki.hypixel.net/Bronze_Ship_Engine"
     ]
   },
@@ -4812,6 +4900,7 @@
       "C3": ""
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bronze_Ship_Helm",
       "https://wiki.hypixel.net/Bronze_Ship_Helm"
     ]
   },
@@ -4829,6 +4918,7 @@
       "C3": "BRONZE_BOWL;1"
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bronze_Ship_Hull",
       "https://wiki.hypixel.net/Bronze_Ship_Hull"
     ]
   },
@@ -5517,7 +5607,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Canopy_Sandals"
+      "https://hypixel-skyblock.fandom.com/wiki/Canopy_Sandals",
+      "https://wiki.hypixel.net/Canopy_Sandals"
     ]
   },
   "CANOPY_CHESTPLATE:1": {
@@ -5535,7 +5626,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Canopy_Shirt"
+      "https://hypixel-skyblock.fandom.com/wiki/Canopy_Shirt",
+      "https://wiki.hypixel.net/Canopy_Shirt"
     ]
   },
   "CANOPY_HELMET:1": {
@@ -5553,7 +5645,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Canopy_Mask"
+      "https://hypixel-skyblock.fandom.com/wiki/Canopy_Mask",
+      "https://wiki.hypixel.net/Canopy_Mask"
     ]
   },
   "CANOPY_LEGGINGS:1": {
@@ -5571,7 +5664,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Canopy_Pants"
+      "https://hypixel-skyblock.fandom.com/wiki/Canopy_Pants",
+      "https://wiki.hypixel.net/Canopy_Pants"
     ]
   },
   "CAPSAICIN_EYEDROPS_NO_CHARGES": {
@@ -6613,24 +6707,6 @@
       "https://wiki.hypixel.net/Chainmail_Leggings"
     ]
   },
-  "CHALLENGE_ROD": {
-    "name": "§aChallenging Rod",
-    "recipe": {
-      "A1": "WATER_LILY;64",
-      "B1": "WATER_LILY;64",
-      "C1": "WATER_LILY;64",
-      "A2": "WATER_LILY;64",
-      "B2": "FISHING_ROD;1",
-      "C2": "WATER_LILY;64",
-      "A3": "WATER_LILY;64",
-      "B3": "WATER_LILY;64",
-      "C3": "WATER_LILY;64"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Challenging_Rod",
-      "https://wiki.hypixel.net/Challenging_Rod"
-    ]
-  },
   "CHALLENGE_ROD:1": {
     "name": "§aChallenging Rod",
     "recipe": {
@@ -6681,7 +6757,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "CHARMINIZER": {
     "name": "§5Charminizer",
@@ -7172,7 +7249,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://wiki.hypixel.net/Clay"
+      "https://wiki.hypixel.net/Clay_Block",
+      "https://hypixel-skyblock.fandom.com/wiki/Clay"
     ]
   },
   "CLAY_BRACELET": {
@@ -7427,7 +7505,7 @@
     ]
   },
   "CLOWNFISH_CLOAK": {
-    "name": "§aClownfish Cloak",
+    "name": "§aTropical Cloak",
     "recipe": {
       "A1": "ENCHANTED_CLOWNFISH;1",
       "B1": "ANGLER_CLOAK;1",
@@ -7445,7 +7523,7 @@
     ]
   },
   "CLOWNFISH_HAT": {
-    "name": "§aClownfish Hat",
+    "name": "§aTropical Fish Hat",
     "recipe": {
       "A1": "RAW_FISH:2;1",
       "B1": "RAW_FISH:2;1",
@@ -7458,7 +7536,7 @@
       "C3": "RAW_FISH:2;1"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Clownfish_Hat",
+      "https://hypixel-skyblock.fandom.com/wiki/Tropical_Fish_Hat",
       "https://wiki.hypixel.net/Clownfish_Hat"
     ]
   },
@@ -8350,7 +8428,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "COMPACTOR": {
     "name": "§aCompactor",
@@ -8452,7 +8531,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "CORRUPT_SOIL": {
     "name": "§5Corrupt Soil",
@@ -9390,7 +9470,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "DANGER_1_PORTAL": {
     "name": "§fPortal to the Spider's Den",
@@ -9460,8 +9541,8 @@
       "C3": "ENCHANTED_GLOWSTONE_DUST;16"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Travel_Scroll_to_Crimson_Isle",
-      "https://wiki.hypixel.net/Travel_Scroll_To_Crimson_Isle"
+      "https://hypixel-skyblock.fandom.com/wiki/Travel_Scroll_to_the_Crimson_Isle",
+      "https://wiki.hypixel.net/Travel_Scroll_To_The_Crimson_Isle"
     ]
   },
   "DANGER_3_PORTAL": {
@@ -9887,7 +9968,7 @@
   "DECENT_AXE:1": {
     "name": "§9Decent Axe",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;100000.0",
+      "A1": "SKYBLOCK_COIN;1000000.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -9899,6 +9980,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Decent_Axe",
       "https://wiki.hypixel.net/Decent_Axe"
     ]
   },
@@ -9953,7 +10035,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "DEEP_OCEAN_BIOME_STICK": {
     "name": "§fDeep Ocean Biome Stick",
@@ -10004,7 +10087,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "DELIRIUM_NECKLACE": {
     "name": "§5Delirium Necklace",
@@ -10108,7 +10192,8 @@
       "A3": "IRON_INGOT;1",
       "B3": "REDSTONE;1",
       "C3": "IRON_INGOT;1"
-    }
+    },
+    "wiki": []
   },
   "DETRANSFIGURED_MASK:1": {
     "name": "§5Used Detransfigured Face",
@@ -10891,7 +10976,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "DRAGONFADE_CLOAK": {
     "name": "§5Dragonfade Cloak",
@@ -11104,7 +11190,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "EFFICIENT_AXE": {
     "name": "§aEfficient Axe",
@@ -11202,7 +11289,7 @@
     ]
   },
   "ELEPHANT": {
-    "name": "§f§f§7[Lvl {LVL}] §6Elephant",
+    "name": "§7[Lvl {LVL}] §6Elephant",
     "recipe": {
       "A1": "ENCHANTED_DARK_OAK_LOG;512",
       "B1": "SKYBLOCK_COIN;15000000",
@@ -11780,7 +11867,7 @@
     ]
   },
   "ENCHANTED_BAKED_POTATO": {
-    "name": "§aEnchanted Baked Potato",
+    "name": "§9Enchanted Baked Potato",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_POTATO;32",
@@ -11816,7 +11903,7 @@
     ]
   },
   "ENCHANTED_BLAZE_ROD": {
-    "name": "§aEnchanted Blaze Rod",
+    "name": "§9Enchanted Blaze Rod",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_BLAZE_POWDER;32",
@@ -12070,7 +12157,7 @@
     ]
   },
   "ENCHANTED_CLAY_BALL": {
-    "name": "§aEnchanted Clay",
+    "name": "§aEnchanted Clay Ball",
     "recipe": {
       "A1": "",
       "B1": "CLAY_BALL;32",
@@ -12083,7 +12170,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Clay",
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Clay_Ball",
       "https://wiki.hypixel.net/Enchanted_Clay"
     ]
   },
@@ -12106,7 +12193,7 @@
     ]
   },
   "ENCHANTED_CLOWNFISH": {
-    "name": "§aEnchanted Clownfish",
+    "name": "§aEnchanted Tropical Fish",
     "recipe": {
       "A1": "",
       "B1": "RAW_FISH:2;32",
@@ -12196,7 +12283,7 @@
     ]
   },
   "ENCHANTED_COOKED_FISH": {
-    "name": "§9Enchanted Cooked Fish",
+    "name": "§9Enchanted Cooked Cod",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_RAW_FISH;32",
@@ -12502,7 +12589,7 @@
     ]
   },
   "ENCHANTED_GLISTERING_MELON": {
-    "name": "§9Enchanted Glistering Melon",
+    "name": "§9Enchanted Glistering Melon Slice",
     "recipe": {
       "A1": "SPECKLED_MELON;32",
       "B1": "SPECKLED_MELON;32",
@@ -12574,7 +12661,7 @@
     ]
   },
   "ENCHANTED_GOLDEN_CARROT": {
-    "name": "§aEnchanted Golden Carrot",
+    "name": "§9Enchanted Golden Carrot",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_CARROT;32",
@@ -12592,7 +12679,7 @@
     ]
   },
   "ENCHANTED_GRILLED_PORK": {
-    "name": "§9Enchanted Grilled Pork",
+    "name": "§9Enchanted Cooked Porkchop",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_PORK;32",
@@ -12661,24 +12748,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Hay_Bale",
       "https://wiki.hypixel.net/Enchanted_Hay_Bale"
-    ]
-  },
-  "ENCHANTED_HOPPER": {
-    "name": "§9Enchanted Hopper",
-    "recipe": {
-      "A1": "ENCHANTED_IRON_BLOCK;1",
-      "B1": "",
-      "C1": "ENCHANTED_IRON_BLOCK;1",
-      "A2": "ENCHANTED_IRON_BLOCK;1",
-      "B2": "CHEST;1",
-      "C2": "ENCHANTED_IRON_BLOCK;1",
-      "A3": "",
-      "B3": "ENCHANTED_IRON_BLOCK;1",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Hopper",
-      "https://wiki.hypixel.net/Enchanted_Hopper"
     ]
   },
   "ENCHANTED_HUGE_MUSHROOM_1": {
@@ -12790,7 +12859,7 @@
     ]
   },
   "ENCHANTED_LAPIS_LAZULI_BLOCK": {
-    "name": "§9Enchanted Lapis Block",
+    "name": "§9Enchanted Lapis Lazuli Block",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_LAPIS_LAZULI;32",
@@ -12862,7 +12931,7 @@
     ]
   },
   "ENCHANTED_MELON": {
-    "name": "§aEnchanted Melon",
+    "name": "§aEnchanted Melon Slice",
     "recipe": {
       "A1": "",
       "B1": "MELON;32",
@@ -12875,12 +12944,12 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Melon",
-      "https://wiki.hypixel.net/Enchanted_Melon"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Melon_Slice",
+      "https://wiki.hypixel.net/Enchanted_Melon_Slice"
     ]
   },
   "ENCHANTED_MELON_BLOCK": {
-    "name": "§9Enchanted Melon Block",
+    "name": "§9Enchanted Melon",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_MELON;32",
@@ -12893,8 +12962,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Melon_Block",
-      "https://wiki.hypixel.net/Enchanted_Melon_Block"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Melon",
+      "https://wiki.hypixel.net/Enchanted_Melon"
     ]
   },
   "ENCHANTED_MITHRIL": {
@@ -12916,7 +12985,7 @@
     ]
   },
   "ENCHANTED_MUTTON": {
-    "name": "§aEnchanted Mutton",
+    "name": "§aEnchanted Raw Mutton",
     "recipe": {
       "A1": "",
       "B1": "MUTTON;32",
@@ -13096,7 +13165,7 @@
     ]
   },
   "ENCHANTED_PORK": {
-    "name": "§aEnchanted Pork",
+    "name": "§aEnchanted Raw Porkchop",
     "recipe": {
       "A1": "",
       "B1": "PORK;32",
@@ -13312,7 +13381,7 @@
     ]
   },
   "ENCHANTED_RAW_FISH": {
-    "name": "§aEnchanted Raw Fish",
+    "name": "§aEnchanted Raw Cod",
     "recipe": {
       "A1": "",
       "B1": "RAW_FISH;32",
@@ -14013,7 +14082,7 @@
     ]
   },
   "ENDER_SLAYER": {
-    "name": "§f§9Enchanted Book",
+    "name": "§9Enchanted Book",
     "recipe": {
       "A1": "SKYBLOCK_COIN;1500000",
       "B1": "",
@@ -14025,7 +14094,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "ENDER_STONE": {
     "name": "§fEnd Stone",
@@ -14596,7 +14666,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "EXPERIENCE_ARTIFACT": {
     "name": "§5Experience Artifact",
@@ -14646,7 +14717,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "EXPLOSIVE_ARROW:64": {
     "name": "§9Explosive Arrow",
@@ -15883,7 +15955,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "FIRE_TALISMAN": {
     "name": "§fFire Talisman",
@@ -17326,6 +17399,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Frog_Pet",
       "https://wiki.hypixel.net/Frog_Pet"
     ]
   },
@@ -18038,7 +18112,7 @@
     ]
   },
   "GIANT_CLEAVER": {
-    "name": "§5Giant Cleaver",
+    "name": "§6Giant Cleaver",
     "recipe": {
       "A1": "SKYBLOCK_COIN;5000000",
       "B1": "HYPER_CLEAVER;undefined",
@@ -18071,6 +18145,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Giant_Frog_Treat",
       "https://wiki.hypixel.net/Giant_Frog_Treat"
     ]
   },
@@ -18597,7 +18672,7 @@
       "https://wiki.hypixel.net/Glue_Arrow"
     ]
   },
-  "GOD_POTION": {
+  "GOD_POTION_2": {
     "name": "§cGod Potion",
     "recipe": {
       "A1": "SKYBLOCK_BIT;1500",
@@ -18682,6 +18757,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Gold_Bottle_Cap",
       "https://wiki.hypixel.net/Gold_Bottle_Cap"
     ]
   },
@@ -19808,7 +19884,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "GRIFFIN_UPGRADE_STONE_EPIC": {
     "name": "§5Griffin Upgrade Stone",
@@ -20636,7 +20713,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "HEDGEHOG": {
     "name": "§7[Lvl {LVL}] §6Hedgehog",
@@ -20726,6 +20804,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Hermit_Crab_Pet",
       "https://wiki.hypixel.net/Hermit_Crab_Pet"
     ]
   },
@@ -21123,6 +21202,7 @@
       "C3": "IRON_INGOT;1"
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Hotspot_Radar",
       "https://wiki.hypixel.net/Hotspot_Radar"
     ]
   },
@@ -21158,6 +21238,7 @@
       "C3": "ENCHANTED_COAL;64"
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Hotspot_Water_Orb",
       "https://wiki.hypixel.net/Hotspot_Water_Orb"
     ]
   },
@@ -21286,7 +21367,7 @@
       "count": 1
     },
     "wiki": [
-      "https://wiki.hypixel.net/Hunting_Toolkit"
+      "https://hypixel-skyblock.fandom.com/wiki/Hunting_Toolkit"
     ]
   },
   "HURRICANE_BOW": {
@@ -23916,7 +23997,7 @@
       "count": 1
     },
     "wiki": [
-      "https://wiki.hypixel.net/Junk_Artifact"
+      "https://hypixel-skyblock.fandom.com/wiki/Junk_Artifact"
     ]
   },
   "JUNK_RING:1": {
@@ -23934,7 +24015,7 @@
       "count": 1
     },
     "wiki": [
-      "https://wiki.hypixel.net/Junk_Ring"
+      "https://hypixel-skyblock.fandom.com/wiki/Junk_Ring"
     ]
   },
   "JUNK_SINKER:1": {
@@ -23971,7 +24052,7 @@
       "count": 1
     },
     "wiki": [
-      "https://wiki.hypixel.net/Junk_Talisman"
+      "https://hypixel-skyblock.fandom.com/wiki/Junk_Talisman"
     ]
   },
   "KALHUIKI_MASK": {
@@ -24952,7 +25033,7 @@
       "count": 1
     },
     "wiki": [
-      "https://wiki.hypixel.net/Large_Frog_Treat"
+      "https://hypixel-skyblock.fandom.com/wiki/Large_Frog_Treat"
     ]
   },
   "LARGE_GEMSTONE_SACK": {
@@ -25445,7 +25526,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "LIFE_STEAL;2": {
     "name": "§fEnchanted Book",
@@ -25459,7 +25541,8 @@
       "A3": "",
       "B3": "PAPER;2",
       "C3": "GOLDEN_APPLE:1;2"
-    }
+    },
+    "wiki": []
   },
   "LIGHT_BAIT": {
     "name": "§fLight Bait",
@@ -25480,7 +25563,7 @@
     ]
   },
   "LION": {
-    "name": "§f§f§7[Lvl {LVL}] §6Lion",
+    "name": "§7[Lvl {LVL}] §6Lion",
     "recipe": {
       "A1": "ENCHANTED_RAW_BEEF;1024",
       "B1": "SKYBLOCK_COIN;15000000",
@@ -25733,7 +25816,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "LOTUS_BELT:1": {
     "name": "§9Lotus Belt",
@@ -25824,7 +25908,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "LUCK;4": {
     "name": "§fEnchanted Book",
@@ -25838,7 +25923,8 @@
       "A3": "",
       "B3": "PAPER;8",
       "C3": "RABBIT_HIDE;8"
-    }
+    },
+    "wiki": []
   },
   "LUCKY_BARN_SKIN:1": {
     "name": "§6Lucky Barn Skin",
@@ -26906,6 +26992,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Medium_Frog_Treat",
       "https://wiki.hypixel.net/Medium_Frog_Treat"
     ]
   },
@@ -26996,6 +27083,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Medium_Pocket_Black_Hole",
       "https://wiki.hypixel.net/Medium_Pocket_Black_Hole"
     ]
   },
@@ -27413,7 +27501,7 @@
     "wiki": []
   },
   "MELON:10": {
-    "name": "§fMelon",
+    "name": "§fMelon Slice",
     "recipe": {
       "A1": "SKYBLOCK_COIN;20",
       "B1": "",
@@ -28434,7 +28522,7 @@
     ]
   },
   "MONKEY": {
-    "name": "§f§f§7[Lvl {LVL}] §6Monkey",
+    "name": "§7[Lvl {LVL}] §6Monkey",
     "recipe": {
       "A1": "ENCHANTED_JUNGLE_LOG;512",
       "B1": "SKYBLOCK_COIN;18000000",
@@ -28486,6 +28574,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Moonglade_Artifact",
       "https://wiki.hypixel.net/Moonglade_Artifact"
     ]
   },
@@ -28504,6 +28593,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Moonglade_Jewel",
       "https://wiki.hypixel.net/Moonglade_Jewel"
     ]
   },
@@ -28522,6 +28612,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Moonglade_Ring",
       "https://wiki.hypixel.net/Moonglade_Ring"
     ]
   },
@@ -28540,25 +28631,8 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Moonglade_Talisman",
       "https://wiki.hypixel.net/Moonglade_Talisman"
-    ]
-  },
-  "MOSQUITO_BOW": {
-    "name": "§6Mosquito Shortbow",
-    "recipe": {
-      "A1": "",
-      "B1": "ENCHANTED_EMERALD;64",
-      "C1": "TARANTULA_SILK;64",
-      "A2": "ENCHANTED_GOLD;64",
-      "B2": "",
-      "C2": "SCORPION_BOW;1",
-      "A3": "",
-      "B3": "ENCHANTED_EMERALD;64",
-      "C3": "TARANTULA_SILK;64"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Mosquito_Bow",
-      "https://wiki.hypixel.net/Mosquito_Bow"
     ]
   },
   "MOSSY_COBBLESTONE": {
@@ -28591,6 +28665,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Mouse_Trap",
       "https://wiki.hypixel.net/Mouse_Trap"
     ]
   },
@@ -31865,6 +31940,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Pest_Trap",
       "https://wiki.hypixel.net/Pest_Trap"
     ]
   },
@@ -33149,7 +33225,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "POTION_STINKY_CHEESE": {
     "name": "§fDouce Pluie de Stinky Cheese I Potion",
@@ -33304,7 +33381,8 @@
       "A3": "",
       "B3": "PAPER;8",
       "C3": "BONE;40"
-    }
+    },
+    "wiki": []
   },
   "POWERED_MINECART": {
     "name": "§fMinecart with Furnace",
@@ -33332,7 +33410,8 @@
       "A3": "GOLD_INGOT;1",
       "B3": "REDSTONE;1",
       "C3": "GOLD_INGOT;1"
-    }
+    },
+    "wiki": []
   },
   "PRECURSOR_APPARATUS": {
     "name": "§5Precursor Apparatus",
@@ -33518,7 +33597,8 @@
       "A3": "",
       "B3": "PAPER;8",
       "C3": "FINE_TOPAZ_GEM;40"
-    }
+    },
+    "wiki": []
   },
   "PROJECTILE_PROTECTION": {
     "name": "§fEnchanted Book",
@@ -33533,7 +33613,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "PROMISING_AXE": {
     "name": "§aPromising Axe",
@@ -33604,7 +33685,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "PROTECTOR_DRAGON_BOOTS": {
     "name": "§6Protector Dragon Boots",
@@ -34486,7 +34568,8 @@
       "A3": "",
       "B3": "ENCHANTED_PAPER;1",
       "C3": "ALLIGATOR_SKIN;8"
-    }
+    },
+    "wiki": []
   },
   "RABBIT_AXE": {
     "name": "§aRabbit Axe",
@@ -34935,7 +35018,7 @@
     ]
   },
   "REAPER_BOOTS": {
-    "name": "§f§f§6Reaper Boots",
+    "name": "§6Reaper Boots",
     "recipe": {
       "A1": "ENCHANTED_DIAMOND_BLOCK;1",
       "B1": "REVENANT_VISCERA;64",
@@ -34953,7 +35036,7 @@
     ]
   },
   "REAPER_CHESTPLATE": {
-    "name": "§f§f§6Reaper Chestplate",
+    "name": "§6Reaper Chestplate",
     "recipe": {
       "A1": "ENCHANTED_DIAMOND_BLOCK;1",
       "B1": "REVENANT_VISCERA;64",
@@ -34971,7 +35054,7 @@
     ]
   },
   "REAPER_LEGGINGS": {
-    "name": "§f§f§6Reaper Leggings",
+    "name": "§6Reaper Leggings",
     "recipe": {
       "A1": "ENCHANTED_DIAMOND_BLOCK;1",
       "B1": "REVENANT_VISCERA;64",
@@ -35058,24 +35141,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Reaper_Falchion",
       "https://wiki.hypixel.net/Reaper_Falchion"
-    ]
-  },
-  "RECLUSE_FANG": {
-    "name": "§9Recluse Fang",
-    "recipe": {
-      "A1": "TARANTULA_WEB;4",
-      "B1": "TARANTULA_WEB;4",
-      "C1": "TARANTULA_WEB;4",
-      "A2": "TARANTULA_WEB;4",
-      "B2": "SPIDER_CATALYST;1",
-      "C2": "TARANTULA_WEB;4",
-      "A3": "TARANTULA_WEB;4",
-      "B3": "SPIDER_SWORD;1",
-      "C3": "TARANTULA_WEB;4"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Recluse_Fang",
-      "https://wiki.hypixel.net/Recluse_Fang"
     ]
   },
   "RED_CLAW_TALISMAN": {
@@ -35412,7 +35477,7 @@
     ]
   },
   "REDSTONE": {
-    "name": "§fRedstone",
+    "name": "§fRedstone Dust",
     "recipe": {
       "A1": "REDSTONE_BLOCK;1",
       "B1": "",
@@ -35820,7 +35885,7 @@
     ]
   },
   "REINDEER": {
-    "name": "§f§f§7[Lvl {LVL}] §6Reindeer",
+    "name": "§7[Lvl {LVL}] §6Reindeer",
     "recipe": {
       "A1": "SKYBLOCK_NORTH_STAR;60",
       "B1": "",
@@ -36014,7 +36079,8 @@
       "A3": "",
       "B3": "PAPER;8",
       "C3": "ENCHANTED_COOKIE;16"
-    }
+    },
+    "wiki": []
   },
   "RESPIRATION": {
     "name": "§fEnchanted Book",
@@ -37472,6 +37538,7 @@
       "C3": "YOUNGITE;16"
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Satelite",
       "https://wiki.hypixel.net/Satelite"
     ]
   },
@@ -37597,7 +37664,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "SCAVENGER_ARTIFACT": {
     "name": "§9Scavenger Artifact",
@@ -37689,24 +37757,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Scorpion_Bow",
       "https://wiki.hypixel.net/Scorpion_Bow"
-    ]
-  },
-  "SCORPION_FOIL": {
-    "name": "§5Scorpion Foil",
-    "recipe": {
-      "A1": "TARANTULA_SILK;4",
-      "B1": "ENCHANTED_ACACIA_LOG;64",
-      "C1": "TARANTULA_SILK;4",
-      "A2": "TARANTULA_SILK;4",
-      "B2": "ENCHANTED_ACACIA_LOG;64",
-      "C2": "TARANTULA_SILK;4",
-      "A3": "TARANTULA_SILK;4",
-      "B3": "STICK;1",
-      "C3": "TARANTULA_SILK;4"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Scorpion_Foil",
-      "https://wiki.hypixel.net/Scorpion_Foil"
     ]
   },
   "SCOURGE_CLOAK": {
@@ -37993,6 +38043,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Seriously_Damaged_Axe",
       "https://wiki.hypixel.net/Seriously_Damaged_Axe"
     ]
   },
@@ -38208,7 +38259,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "SHEARS": {
     "name": "§fShears",
@@ -39230,7 +39282,7 @@
     ]
   },
   "SKYBLOCK_BRONZE_MEDAL:2": {
-    "name": "§f§f§aBronze Medal",
+    "name": "§aBronze Medal",
     "recipe": {
       "A1": "SKYBLOCK_SILVER_MEDAL;undefined",
       "B1": "",
@@ -39268,7 +39320,7 @@
     ]
   },
   "SKYBLOCK_GOLD_MEDAL": {
-    "name": "§f§f§6Gold Medal",
+    "name": "§6Gold Medal",
     "recipe": {
       "A1": "SKYBLOCK_SILVER_MEDAL;4",
       "B1": "",
@@ -39306,7 +39358,7 @@
     ]
   },
   "SKYBLOCK_SILVER_MEDAL": {
-    "name": "§f§f§aSilver Medal",
+    "name": "§aSilver Medal",
     "recipe": {
       "A1": "SKYBLOCK_BRONZE_MEDAL;2",
       "B1": "",
@@ -39325,7 +39377,7 @@
     ]
   },
   "SKYBLOCK_SILVER_MEDAL:4": {
-    "name": "§f§f§aSilver Medal",
+    "name": "§aSilver Medal",
     "recipe": {
       "A1": "SKYBLOCK_GOLD_MEDAL;undefined",
       "B1": "",
@@ -39809,6 +39861,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Frog_Treat",
       "https://wiki.hypixel.net/Small_Frog_Treat"
     ]
   },
@@ -39899,6 +39952,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Pocket_Black_Hole",
       "https://wiki.hypixel.net/Small_Pocket_Black_Hole"
     ]
   },
@@ -39933,7 +39987,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "SMOLDERING_CHAMBERS_TRAVEL_SCROLL": {
     "name": "§5Travel Scroll to the Smoldering Tomb",
@@ -40046,7 +40101,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Snorkeling_Shoes"
+      "https://hypixel-skyblock.fandom.com/wiki/Snorkeling_Shoes",
+      "https://wiki.hypixel.net/Snorkeling_Shoes"
     ]
   },
   "SNORKELING_CHESTPLATE:1": {
@@ -40064,7 +40120,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Snorkeling_Vest"
+      "https://hypixel-skyblock.fandom.com/wiki/Snorkeling_Vest",
+      "https://wiki.hypixel.net/Snorkeling_Vest"
     ]
   },
   "SNORKELING_HELMET:1": {
@@ -40082,7 +40139,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Snorkeling_Visor"
+      "https://hypixel-skyblock.fandom.com/wiki/Snorkeling_Visor",
+      "https://wiki.hypixel.net/Snorkeling_Visor"
     ]
   },
   "SNORKELING_LEGGINGS:1": {
@@ -40100,7 +40158,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Snorkeling_Pants"
+      "https://hypixel-skyblock.fandom.com/wiki/Snorkeling_Pants",
+      "https://wiki.hypixel.net/Snorkeling_Pants"
     ]
   },
   "SNOW": {
@@ -41346,8 +41405,8 @@
       "C3": "ENCHANTED_WET_SPONGE;1"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Spongy_Shoes",
-      "https://wiki.hypixel.net/Spongy_Shoes"
+      "https://hypixel-skyblock.fandom.com/wiki/Sponge_Boots",
+      "https://wiki.hypixel.net/Sponge_Boots"
     ]
   },
   "SPONGE_CHESTPLATE": {
@@ -43110,7 +43169,7 @@
       "C3": "WINTER_FRAGMENT;1"
     },
     "wiki": [
-      "https://wiki.hypixel.net/Glacial_Scythe"
+      "https://wiki.hypixel.net/⚚_Glacial_Scythe"
     ]
   },
   "STARRED_ICE_SPRAY_WAND": {
@@ -43127,7 +43186,7 @@
       "C3": "WINTER_FRAGMENT;1"
     },
     "wiki": [
-      "https://wiki.hypixel.net/Ice_Spray_Wand"
+      "https://wiki.hypixel.net/⚚_Ice_Spray_Wand"
     ]
   },
   "STARRED_ITEM_SPIRIT_BOW": {
@@ -43303,8 +43362,8 @@
       "C3": "LIVID_FRAGMENT;1"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Shadow_Fury",
-      "https://wiki.hypixel.net/%E2%9A%9A_Shadow_Fury"
+      "https://hypixel-skyblock.fandom.com/wiki/⚚_Shadow_Fury",
+      "https://wiki.hypixel.net/⚚_Shadow_Fury"
     ]
   },
   "STARRED_SPIDER_QUEENS_STINGER": {
@@ -43391,7 +43450,7 @@
       "C3": "SOUL_STRING;50"
     },
     "wiki": [
-      "https://wiki.hypixel.net/Venom%27s_Touch"
+      "https://wiki.hypixel.net/⚚_Venom%27s_Touch"
     ]
   },
   "STARRED_YETI_SWORD": {
@@ -44307,7 +44366,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "SULPHUR": {
     "name": "§fGunpowder",
@@ -44377,7 +44437,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "SUPER_CLEAVER": {
     "name": "§9Super Cleaver",
@@ -44738,7 +44799,8 @@
       "A3": "",
       "B3": "KUUDRA_TEETH;1",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "TACTICAL_INSERTION": {
     "name": "§5Tactical Insertion",
@@ -44848,7 +44910,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Attack_Speed_Enrichment",
       "https://wiki.hypixel.net/Attack_Speed_Enrichment"
     ]
   },
@@ -44867,7 +44929,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Critical_Chance_Enrichment",
       "https://wiki.hypixel.net/Critical_Chance_Enrichment"
     ]
   },
@@ -44886,7 +44948,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Critical_Damage_Enrichment",
       "https://wiki.hypixel.net/Critical_Damage_Enrichment"
     ]
   },
@@ -44905,7 +44967,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Defense_Enrichment",
       "https://wiki.hypixel.net/Defense_Enrichment"
     ]
   },
@@ -44924,7 +44986,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Ferocity_Enrichment",
       "https://wiki.hypixel.net/Ferocity_Enrichment"
     ]
   },
@@ -44943,7 +45005,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Health_Enrichment",
       "https://wiki.hypixel.net/Health_Enrichment"
     ]
   },
@@ -44962,7 +45024,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Intelligence_Enrichment",
       "https://wiki.hypixel.net/Intelligence_Enrichment"
     ]
   },
@@ -44981,7 +45043,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Magic_Find_Enrichment",
       "https://wiki.hypixel.net/Magic_Find_Enrichment"
     ]
   },
@@ -45000,7 +45062,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Sea_Creature_Chance_Enrichment",
       "https://wiki.hypixel.net/Sea_Creature_Chance_Enrichment"
     ]
   },
@@ -45019,7 +45081,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Strength_Enrichment",
       "https://wiki.hypixel.net/Strength_Enrichment"
     ]
   },
@@ -45057,7 +45119,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Speed_Enrichment",
       "https://wiki.hypixel.net/Speed_Enrichment"
     ]
   },
@@ -46050,7 +46112,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "TIGER": {
     "name": "§7[Lvl {LVL}] §6Tiger",
@@ -46274,7 +46337,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "TRAINING_DUMMY": {
     "name": "§aTraining Dummy",
@@ -46306,7 +46370,8 @@
       "A3": "",
       "B3": "PAPER;8",
       "C3": "HEMOGLASS;8"
-    }
+    },
+    "wiki": []
   },
   "TRAP_DOOR": {
     "name": "§fWooden Trapdoor",
@@ -46554,7 +46619,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "TUTTI_FRUTTI_POISON": {
     "name": "§fTutti-Frutti Flavored Poison",
@@ -46623,7 +46689,8 @@
       "A3": "SHARK_WATER_ORB;1",
       "B3": "HOTSPOT_WATER_ORB;1",
       "C3": "LAVA_WATER_ORB;1"
-    }
+    },
+    "wiki": []
   },
   "ULTIMATE_CARROT_CANDY": {
     "name": "§6Ultimate Carrot Candy",
@@ -46692,7 +46759,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "UMBERELLA": {
     "name": "§9Umberella",
@@ -46708,6 +46776,7 @@
       "C3": ""
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Umberella",
       "https://wiki.hypixel.net/Umberella"
     ]
   },
@@ -47265,7 +47334,8 @@
       "A3": "",
       "B3": "PAPER;8",
       "C3": "ENCHANTED_SPIDER_EYE;8"
-    }
+    },
+    "wiki": []
   },
   "VERMIN_BELT:1": {
     "name": "§5Vermin Belt",
@@ -47810,14 +47880,14 @@
     "name": "§5Water Orb",
     "recipe": {
       "A1": "ENCHANTED_RAW_FISH;16",
-      "B1": "ENCHANTED_WATER_LILY;8",
+      "B1": "ENCHANTED_SPONGE;8",
       "C1": "ENCHANTED_RAW_SALMON;16",
       "A2": "ENCHANTED_PRISMARINE_SHARD;16",
-      "B2": "DIVER_FRAGMENT;1",
+      "B2": "ENCHANTED_WATER_LILY;16",
       "C2": "ENCHANTED_PRISMARINE_CRYSTALS;16",
-      "A3": "ENCHANTED_SPONGE;4",
+      "A3": "ENCHANTED_CLAY_BALL;16",
       "B3": "ENCHANTED_PUFFERFISH;16",
-      "C3": "ENCHANTED_CLOWNFISH;8"
+      "C3": "ENCHANTED_CLOWNFISH;16"
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Water_Orb",
@@ -48365,7 +48435,7 @@
     ]
   },
   "WISE_DRAGON_CHESTPLATE": {
-    "name": "§f§f§6Wise Dragon Chestplate",
+    "name": "§6Wise Dragon Chestplate",
     "recipe": {
       "A1": "WISE_FRAGMENT;10",
       "B1": "",
