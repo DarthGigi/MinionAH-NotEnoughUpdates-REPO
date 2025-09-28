@@ -7533,7 +7533,7 @@
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Tropical_Fish_Hat",
-      "https://wiki.hypixel.net/Clownfish_Hat"
+      "https://wiki.hypixel.net/Tropical_Fish_Hat"
     ]
   },
   "COAL": {
@@ -12200,8 +12200,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Clownfish",
-      "https://wiki.hypixel.net/Enchanted_Clownfish"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Tropical_Fish",
+      "https://wiki.hypixel.net/Enchanted_Tropical_Fish"
     ]
   },
   "ENCHANTED_COAL_BLOCK": {
@@ -12290,8 +12290,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Cooked_Fish",
-      "https://wiki.hypixel.net/Enchanted_Cooked_Fish"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Cooked_Cod",
+      "https://wiki.hypixel.net/Enchanted_Cooked_Cod"
     ]
   },
   "ENCHANTED_COOKED_MUTTON": {
@@ -12596,8 +12596,8 @@
       "C3": "SPECKLED_MELON;32"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Glistering_Melon",
-      "https://wiki.hypixel.net/Enchanted_Glistering_Melon"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Glistering_Melon_Slice",
+      "https://wiki.hypixel.net/Enchanted_Glistering_Melon_Slice"
     ]
   },
   "ENCHANTED_GLOWSTONE": {
@@ -12686,8 +12686,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Grilled_Pork",
-      "https://wiki.hypixel.net/Enchanted_Grilled_Pork"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Cooked_Porkchop",
+      "https://wiki.hypixel.net/Enchanted_Cooked_Porkchop"
     ]
   },
   "ENCHANTED_GUNPOWDER": {
@@ -12866,8 +12866,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Lapis_Block",
-      "https://wiki.hypixel.net/Enchanted_Lapis_Block"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Lapis_Lazuli_Block",
+      "https://wiki.hypixel.net/Enchanted_Lapis_Lazuli_Block"
     ]
   },
   "ENCHANTED_LAVA_BUCKET": {
@@ -12992,8 +12992,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Mutton",
-      "https://wiki.hypixel.net/Enchanted_Mutton"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Raw_Mutton",
+      "https://wiki.hypixel.net/Enchanted_Raw_Mutton"
     ]
   },
   "ENCHANTED_MYCELIUM": {
@@ -13172,8 +13172,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Pork",
-      "https://wiki.hypixel.net/Enchanted_Pork"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Raw_Porkchop",
+      "https://wiki.hypixel.net/Enchanted_Raw_Porkchop"
     ]
   },
   "ENCHANTED_POTATO": {
@@ -13267,7 +13267,7 @@
     ]
   },
   "ENCHANTED_QUARTZ": {
-    "name": "§aEnchanted Quartz",
+    "name": "§aEnchanted Nether Quartz",
     "recipe": {
       "A1": "",
       "B1": "QUARTZ;32",
@@ -13280,8 +13280,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Quartz",
-      "https://wiki.hypixel.net/Enchanted_Quartz"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Nether_Quartz",
+      "https://wiki.hypixel.net/Enchanted_Nether_Quartz"
     ]
   },
   "ENCHANTED_QUARTZ_BLOCK": {
@@ -13388,8 +13388,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Raw_Fish",
-      "https://wiki.hypixel.net/Enchanted_Raw_Fish"
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Raw_Cod",
+      "https://wiki.hypixel.net/Enchanted_Raw_Cod"
     ]
   },
   "ENCHANTED_RAW_SALMON": {
@@ -17401,7 +17401,7 @@
   "FROG_MASK:1": {
     "name": "§5Frog Mask",
     "recipe": {
-      "A1": "SKYBLOCK_CARNIVAL_POINT;200",
+      "A1": "SKYBLOCK_CARNIVAL_POINT;2000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -27118,7 +27118,7 @@
     ]
   },
   "MELON_BLOCK": {
-    "name": "§fMelon Block",
+    "name": "§fMelon",
     "recipe": {
       "A1": "MELON;1",
       "B1": "MELON;1",
@@ -27131,6 +27131,7 @@
       "C3": "MELON;1"
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Melon",
       "https://wiki.hypixel.net/Melon"
     ]
   },
@@ -27508,7 +27509,8 @@
       "count": 10
     },
     "wiki": [
-      "https://wiki.hypixel.net/Melon"
+      "https://hypixel-skyblock.fandom.com/wiki/Melon_Slice",
+      "https://wiki.hypixel.net/Melon_Slice"
     ]
   },
   "MENDER_CROWN": {
@@ -35483,7 +35485,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://wiki.hypixel.net/Redstone"
+      "https://hypixel-skyblock.fandom.com/wiki/Redstone_Dust",
+      "https://wiki.hypixel.net/Redstone_Dust"
     ]
   },
   "REDSTONE_BLOCK": {
@@ -40756,7 +40759,7 @@
     ]
   },
   "SPECKLED_MELON": {
-    "name": "§fGlistering Melon",
+    "name": "§fGlistering Melon Slice",
     "recipe": {
       "A1": "GOLD_NUGGET;1",
       "B1": "GOLD_NUGGET;1",
