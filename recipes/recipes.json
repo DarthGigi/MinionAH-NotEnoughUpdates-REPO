@@ -258,7 +258,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Abiphone_Flip+:_Clockwork"
+    ]
   },
   "ABIPHONE_FLIP_PLUS_FLOWER": {
     "name": "§6Abiphone Flip+: Flower",
@@ -274,7 +276,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Abiphone_Flip+:_Flower"
+    ]
   },
   "ABIPHONE_FLIP_PLUS_LUNAR": {
     "name": "§6Abiphone Flip+: Lunar",
@@ -290,7 +294,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Abiphone_Flip+:_Lunar"
+    ]
   },
   "ABIPHONE_FLIP_VOLCANO": {
     "name": "§6Abiphone Flip: Volcano",
@@ -3757,6 +3763,25 @@
       "https://wiki.hypixel.net/Black_Coffee"
     ]
   },
+  "BLACK_WOOLEN_YARN:1": {
+    "name": "§9Black Woolen Yarn",
+    "recipe": {
+      "A1": "DARK_CANDY;100.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Black_Woolen_Yarn",
+      "https://wiki.hypixel.net/Black_Woolen_Yarn"
+    ]
+  },
   "BLAZE_BELT": {
     "name": "§9Blaze Belt",
     "recipe": {
@@ -4515,6 +4540,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Bone_Reaver",
       "https://wiki.hypixel.net/Bone_Reaver"
+    ]
+  },
+  "BOO_STONE:1": {
+    "name": "§9Boo Stone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;10000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Boo_Stone",
+      "https://wiki.hypixel.net/Boo_Stone"
     ]
   },
   "BOOK": {
@@ -8624,15 +8668,15 @@
   "COW_GENERATOR_11": {
     "name": "§9Cow Minion XI",
     "recipe": {
-      "A1": "ENCHANTED_LEATHER;32",
-      "B1": "ENCHANTED_LEATHER;32",
-      "C1": "ENCHANTED_LEATHER;32",
-      "A2": "ENCHANTED_LEATHER;32",
+      "A1": "ENCHANTED_LEATHER;64",
+      "B1": "ENCHANTED_LEATHER;64",
+      "C1": "ENCHANTED_LEATHER;64",
+      "A2": "ENCHANTED_LEATHER;64",
       "B2": "COW_GENERATOR_10;1",
-      "C2": "ENCHANTED_LEATHER;32",
-      "A3": "ENCHANTED_LEATHER;32",
-      "B3": "ENCHANTED_LEATHER;32",
-      "C3": "ENCHANTED_LEATHER;32"
+      "C2": "ENCHANTED_LEATHER;64",
+      "A3": "ENCHANTED_LEATHER;64",
+      "B3": "ENCHANTED_LEATHER;64",
+      "C3": "ENCHANTED_LEATHER;64"
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Cow_Minion",
@@ -11169,6 +11213,63 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Edible_Mace",
       "https://wiki.hypixel.net/Edible_Mace"
+    ]
+  },
+  "EERIE": {
+    "name": "§7[Lvl {LVL}] §fEerie",
+    "recipe": {
+      "A1": "EPHEMERAL_GRATITUDE;2",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Eerie_Pet",
+      "https://wiki.hypixel.net/Eerie_Pet"
+    ]
+  },
+  "EERIE_TOY:1": {
+    "name": "§5Eerie Toy",
+    "recipe": {
+      "A1": "NIGHTMARE_NULLIFIER;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Eerie_Toy",
+      "https://wiki.hypixel.net/Eerie_Toy"
+    ]
+  },
+  "EERIE_TREAT:1": {
+    "name": "§9Eerie Treat",
+    "recipe": {
+      "A1": "SEWER_FISH;10",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Eerie_Treat",
+      "https://wiki.hypixel.net/Eerie_Treat"
     ]
   },
   "EFFICIENCY": {
@@ -14714,6 +14815,25 @@
     },
     "wiki": []
   },
+  "EXPIRED_PUMPKIN:30": {
+    "name": "§aExpired Pumpkin",
+    "recipe": {
+      "A1": "DARK_CANDY;1.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 30
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Expired_Pumpkin",
+      "https://wiki.hypixel.net/Expired_Pumpkin"
+    ]
+  },
   "EXPLOSIVE_ARROW:64": {
     "name": "§9Explosive Arrow",
     "recipe": {
@@ -16856,7 +16976,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "FLINT_SHOVEL": {
     "name": "§fFlint Shovel",
@@ -19827,6 +19948,307 @@
       "https://wiki.hypixel.net/Great_Carrot_Candy"
     ]
   },
+  "GREAT_SPOOK": {
+    "name": "§fEnchanted Book",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;30000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "GREAT_SPOOK_ARTIFACT:1": {
+    "name": "§9Great Spook Artifact",
+    "recipe": {
+      "A1": "GREAT_SPOOK_RING;1",
+      "B1": "BREAD;2",
+      "C1": "BUILDER_ONION;1",
+      "A2": "CHEESE_FUEL;1",
+      "B2": "BUILDER_LETTUCE;1",
+      "C2": "COOKED_BEEF;1",
+      "A3": "FRENCH_FRIES;1",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Artifact",
+      "https://wiki.hypixel.net/Great_Spook_Artifact"
+    ]
+  },
+  "GREAT_SPOOK_BELT:1": {
+    "name": "§5Great Spook Belt",
+    "recipe": {
+      "A1": "ROGUE_FLESH;2",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Belt",
+      "https://wiki.hypixel.net/Great_Spook_Belt"
+    ]
+  },
+  "GREAT_SPOOK_BOOTS:1": {
+    "name": "§5Great Spook Boots",
+    "recipe": {
+      "A1": "SWEET_FLESH;12",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Boots",
+      "https://wiki.hypixel.net/Great_Spook_Boots"
+    ]
+  },
+  "GREAT_SPOOK_CHESTPLATE:1": {
+    "name": "§5Great Spook Chestplate",
+    "recipe": {
+      "A1": "DECAYED_BAT;5",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Chestplate",
+      "https://wiki.hypixel.net/Great_Spook_Chestplate"
+    ]
+  },
+  "GREAT_SPOOK_CLOAK:1": {
+    "name": "§5Great Spook Cloak",
+    "recipe": {
+      "A1": "PRECIOUS;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Cloak",
+      "https://wiki.hypixel.net/Great_Spook_Cloak"
+    ]
+  },
+  "GREAT_SPOOK_GLOVES:1": {
+    "name": "§5Great Spook Gloves",
+    "recipe": {
+      "A1": "BETRAYAL_HEAD;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Gloves",
+      "https://wiki.hypixel.net/Great_Spook_Gloves"
+    ]
+  },
+  "GREAT_SPOOK_HELMET:1": {
+    "name": "§5Great Spook Helmet",
+    "recipe": {
+      "A1": "WET_PUMPKIN;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Helmet",
+      "https://wiki.hypixel.net/Great_Spook_Helmet"
+    ]
+  },
+  "GREAT_SPOOK_LEGGINGS:1": {
+    "name": "§5Great Spook Leggings",
+    "recipe": {
+      "A1": "POISONED_CANDY;5",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Leggings",
+      "https://wiki.hypixel.net/Great_Spook_Leggings"
+    ]
+  },
+  "GREAT_SPOOK_NECKLACE:1": {
+    "name": "§5Great Spook Necklace",
+    "recipe": {
+      "A1": "OBSCURE_ENDING;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Necklace",
+      "https://wiki.hypixel.net/Great_Spook_Necklace"
+    ]
+  },
+  "GREAT_SPOOK_POTION:1": {
+    "name": "§fGreat Spook Potion",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;20000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Potion",
+      "https://wiki.hypixel.net/Great_Spook_Potion"
+    ]
+  },
+  "GREAT_SPOOK_REFORGING_MANUAL:1": {
+    "name": "§5Great Spook Reforging Manual",
+    "recipe": {
+      "A1": "THE_SOUP_PAINTING;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Reforging_Manual",
+      "https://wiki.hypixel.net/Great_Spook_Reforging_Manual"
+    ]
+  },
+  "GREAT_SPOOK_RING:1": {
+    "name": "§aGreat Spook Ring",
+    "recipe": {
+      "A1": "GREAT_SPOOK_TALISMAN;1",
+      "B1": "FREE_SPIDER;2",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Ring",
+      "https://wiki.hypixel.net/Great_Spook_Ring"
+    ]
+  },
+  "GREAT_SPOOK_STAFF:1": {
+    "name": "§6Great Spook Staff",
+    "recipe": {
+      "A1": "FROZEN_SPIDER;10",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Staff",
+      "https://wiki.hypixel.net/Great_Spook_Staff"
+    ]
+  },
+  "GREAT_SPOOK_SWORD:1": {
+    "name": "§6Great Spook Sword",
+    "recipe": {
+      "A1": "DEAD_SEED;5",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Sword",
+      "https://wiki.hypixel.net/Great_Spook_Sword"
+    ]
+  },
+  "GREAT_SPOOK_TALISMAN:1": {
+    "name": "§fGreat Spook Talisman",
+    "recipe": {
+      "A1": "FAIRY_WINGS;5",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Talisman",
+      "https://wiki.hypixel.net/Great_Spook_Talisman"
+    ]
+  },
   "GREAT_WHITE_TOOTH_MEAL": {
     "name": "§6Great White Tooth Meal",
     "recipe": {
@@ -19879,78 +20301,6 @@
       "count": 1
     },
     "wiki": []
-  },
-  "GRIFFIN_UPGRADE_STONE_EPIC": {
-    "name": "§5Griffin Upgrade Stone",
-    "recipe": {
-      "A1": "GRIFFIN_FEATHER;16",
-      "B1": "ENCHANTED_GOLD_BLOCK;6",
-      "C1": "GRIFFIN_FEATHER;16",
-      "A2": "ENCHANTED_ANCIENT_CLAW;2",
-      "B2": "BASE_GRIFFIN_UPGRADE_STONE;1",
-      "C2": "ENCHANTED_ANCIENT_CLAW;2",
-      "A3": "GRIFFIN_FEATHER;16",
-      "B3": "ENCHANTED_GOLD_BLOCK;6",
-      "C3": "GRIFFIN_FEATHER;16"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Griffin_Upgrade_Stone",
-      "https://wiki.hypixel.net/Griffin_Upgrade_Stone"
-    ]
-  },
-  "GRIFFIN_UPGRADE_STONE_LEGENDARY": {
-    "name": "§6Griffin Upgrade Stone",
-    "recipe": {
-      "A1": "GRIFFIN_FEATHER;32",
-      "B1": "ENCHANTED_ANCIENT_CLAW;8",
-      "C1": "GRIFFIN_FEATHER;32",
-      "A2": "ENCHANTED_GOLD_BLOCK;64",
-      "B2": "BASE_GRIFFIN_UPGRADE_STONE;1",
-      "C2": "ENCHANTED_GOLD_BLOCK;64",
-      "A3": "GRIFFIN_FEATHER;32",
-      "B3": "ENCHANTED_ANCIENT_CLAW;8",
-      "C3": "GRIFFIN_FEATHER;32"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Griffin_Upgrade_Stone",
-      "https://wiki.hypixel.net/Griffin_Upgrade_Stone"
-    ]
-  },
-  "GRIFFIN_UPGRADE_STONE_RARE": {
-    "name": "§9Griffin Upgrade Stone",
-    "recipe": {
-      "A1": "GRIFFIN_FEATHER;4",
-      "B1": "ENCHANTED_GOLD_BLOCK;2",
-      "C1": "GRIFFIN_FEATHER;4",
-      "A2": "ANCIENT_CLAW;32",
-      "B2": "BASE_GRIFFIN_UPGRADE_STONE;1",
-      "C2": "ANCIENT_CLAW;32",
-      "A3": "GRIFFIN_FEATHER;4",
-      "B3": "ENCHANTED_GOLD_BLOCK;2",
-      "C3": "GRIFFIN_FEATHER;4"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Griffin_Upgrade_Stone",
-      "https://wiki.hypixel.net/Griffin_Upgrade_Stone"
-    ]
-  },
-  "GRIFFIN_UPGRADE_STONE_UNCOMMON": {
-    "name": "§aGriffin Upgrade Stone",
-    "recipe": {
-      "A1": "GRIFFIN_FEATHER;2",
-      "B1": "ENCHANTED_GOLD;24",
-      "C1": "GRIFFIN_FEATHER;2",
-      "A2": "ANCIENT_CLAW;16",
-      "B2": "BASE_GRIFFIN_UPGRADE_STONE;1",
-      "C2": "ANCIENT_CLAW;16",
-      "A3": "GRIFFIN_FEATHER;2",
-      "B3": "ENCHANTED_GOLD;24",
-      "C3": "GRIFFIN_FEATHER;2"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Griffin_Upgrade_Stone",
-      "https://wiki.hypixel.net/Griffin_Upgrade_Stone"
-    ]
   },
   "GROWTH_BOOTS": {
     "name": "§9Boots of Growth",
@@ -34994,6 +35344,25 @@
       "https://wiki.hypixel.net/Rancher%27s_Boots"
     ]
   },
+  "RAW_FISH:1": {
+    "name": "§fRaw Cod",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;10",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Raw_Cod",
+      "https://wiki.hypixel.net/Raw_Cod"
+    ]
+  },
   "RAZOR_SHARP_SHARK_TOOTH_NECKLACE": {
     "name": "§6Razor-sharp Shark Tooth Necklace",
     "recipe": {
@@ -37592,6 +37961,25 @@
       "https://wiki.hypixel.net/Saving_Grace"
     ]
   },
+  "SCARE_FRAGMENT:1": {
+    "name": "§9Scare Fragment",
+    "recipe": {
+      "A1": "DARK_CANDY;10.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Scare_Fragment",
+      "https://wiki.hypixel.net/Scare_Fragment"
+    ]
+  },
   "SCARF_GRIMOIRE": {
     "name": "§6Scarf's Grimoire",
     "recipe": {
@@ -37645,6 +38033,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Scarleton_Premium",
       "https://wiki.hypixel.net/Scarleton_Premium"
+    ]
+  },
+  "SCARY_GRIMOIRE:1": {
+    "name": "§5Scary Grimoire",
+    "recipe": {
+      "A1": "SIRIUS_BOOK;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Scary_Grimoire",
+      "https://wiki.hypixel.net/Scary_Grimoire"
     ]
   },
   "SCAVENGER": {
@@ -37735,24 +38142,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Scornclaw_Brew",
       "https://wiki.hypixel.net/Scornclaw_Brew"
-    ]
-  },
-  "SCORPION_BOW": {
-    "name": "§5Scorpion Bow",
-    "recipe": {
-      "A1": "",
-      "B1": "ENCHANTED_EMERALD;32",
-      "C1": "TARANTULA_SILK;16",
-      "A2": "ENCHANTED_GOLD;32",
-      "B2": "",
-      "C2": "TARANTULA_SILK;16",
-      "A3": "",
-      "B3": "ENCHANTED_EMERALD;32",
-      "C3": "TARANTULA_SILK;16"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Scorpion_Bow",
-      "https://wiki.hypixel.net/Scorpion_Bow"
     ]
   },
   "SCOURGE_CLOAK": {
@@ -39484,6 +39873,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Slayer©_Energy_Drink",
       "https://wiki.hypixel.net/Slayer©_Energy_Drink"
+    ]
+  },
+  "SLEEPY_HOLLOW:1": {
+    "name": "§5Sleepy Hollow",
+    "recipe": {
+      "A1": "DARK_CANDY;150.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sleepy_Hollow",
+      "https://wiki.hypixel.net/Sleepy_Hollow"
     ]
   },
   "SLIME_BALL": {
@@ -41280,24 +41688,6 @@
       "https://wiki.hypixel.net/Spider_Hat"
     ]
   },
-  "SPIDER_QUEENS_STINGER": {
-    "name": "§5Spider Queen's Stinger",
-    "recipe": {
-      "A1": "",
-      "B1": "ENCHANTED_DARK_OAK_LOG;6",
-      "C1": "SOUL_STRING;6",
-      "A2": "ENCHANTED_SPIDER_EYE;6",
-      "B2": "",
-      "C2": "SOUL_STRING;6",
-      "A3": "",
-      "B3": "ENCHANTED_DARK_OAK_LOG;6",
-      "C3": "SOUL_STRING;6"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Spider_Queen%27s_Stinger",
-      "https://wiki.hypixel.net/Spider_Queen%27s_Stinger"
-    ]
-  },
   "SPIDER_RING": {
     "name": "§9Spider Ring",
     "recipe": {
@@ -41570,6 +41960,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Spooky_Leggings",
       "https://wiki.hypixel.net/Spooky_Leggings"
+    ]
+  },
+  "SPOOKY_TREE:1": {
+    "name": "§f§f§5Great Spook Tree",
+    "recipe": {
+      "A1": "DARK_CANDY;170.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Tree",
+      "https://wiki.hypixel.net/Great_Spook_Tree"
     ]
   },
   "SPOOKY_WATER_ORB": {
@@ -43341,24 +43750,6 @@
       "https://wiki.hypixel.net/⚚_Shadow_Fury"
     ]
   },
-  "STARRED_SPIDER_QUEENS_STINGER": {
-    "name": "§5⚚ Spider Queen's Stinger",
-    "recipe": {
-      "A1": "",
-      "B1": "ENCHANTED_DARK_OAK_LOG;30",
-      "C1": "SOUL_STRING;50",
-      "A2": "DARK_QUEENS_SOUL_DROP;1",
-      "B2": "SPIDER_QUEENS_STINGER;1",
-      "C2": "SOUL_STRING;50",
-      "A3": "",
-      "B3": "ENCHANTED_DARK_OAK_LOG;30",
-      "C3": "SOUL_STRING;50"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/⚚_Spider_Queen%27s_Stinger",
-      "https://wiki.hypixel.net/⚚_Spider_Queen%27s_Stinger"
-    ]
-  },
   "STARRED_SPIRIT_MASK": {
     "name": "§6⚚ Spirit Mask",
     "recipe": {
@@ -43409,23 +43800,6 @@
     },
     "wiki": [
       "https://wiki.hypixel.net/⚚_Spirit_Boots"
-    ]
-  },
-  "STARRED_VENOMS_TOUCH": {
-    "name": "§5⚚ Venom's Touch",
-    "recipe": {
-      "A1": "",
-      "B1": "ENCHANTED_SPIDER_EYE;64",
-      "C1": "SOUL_STRING;50",
-      "A2": "DARK_QUEENS_SOUL_DROP;2",
-      "B2": "VENOMS_TOUCH;1",
-      "C2": "SOUL_STRING;50",
-      "A3": "",
-      "B3": "ENCHANTED_SPIDER_EYE;64",
-      "C3": "SOUL_STRING;50"
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/⚚_Venom%27s_Touch"
     ]
   },
   "STARRED_YETI_SWORD": {
@@ -44690,24 +45064,6 @@
       "https://wiki.hypixel.net/Sweet_Axe"
     ]
   },
-  "SWORD_OF_REVELATIONS": {
-    "name": "§5Sword of Revelations",
-    "recipe": {
-      "A1": "GRIFFIN_FEATHER;32",
-      "B1": "ENCHANTED_ANCIENT_CLAW;8",
-      "C1": "GRIFFIN_FEATHER;32",
-      "A2": "GRIFFIN_FEATHER;32",
-      "B2": "ENCHANTED_GOLD_BLOCK;8",
-      "C2": "GRIFFIN_FEATHER;32",
-      "A3": "GRIFFIN_FEATHER;32",
-      "B3": "STICK;1",
-      "C3": "GRIFFIN_FEATHER;32"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Sword_of_Revelations",
-      "https://wiki.hypixel.net/Sword_Of_Revelations"
-    ]
-  },
   "SYNTHESIZER_V1": {
     "name": "§f§f§5Synthesizer v1",
     "recipe": {
@@ -44761,6 +45117,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Synthesizer_v3",
       "https://wiki.hypixel.net/Synthesizer_V3"
     ]
+  },
+  "SYPHON": {
+    "name": "§fEnchanted Book",
+    "recipe": {
+      "A1": "DARK_CANDY;200.0",
+      "B1": "SKYBLOCK_COIN;9700000.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "TABASCO;2": {
     "name": "§fEnchanted Book",
