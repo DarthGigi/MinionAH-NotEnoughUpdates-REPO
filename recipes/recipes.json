@@ -5440,7 +5440,7 @@
     ]
   },
   "CACTUS_KNIFE": {
-    "name": "§5Cactus Knife",
+    "name": "§aCactus Knife Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_GOLD_MEDAL;1",
       "B1": "JACOBS_TICKET;32",
@@ -8113,7 +8113,7 @@
     "wiki": []
   },
   "COCO_CHOPPER": {
-    "name": "§5Cocoa Chopper",
+    "name": "§aCocoa Chopper Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_GOLD_MEDAL;1",
       "B1": "JACOBS_TICKET;32",
@@ -8523,7 +8523,7 @@
     ]
   },
   "CONDENSED_FERMENTO": {
-    "name": "§6Condensed Fermento",
+    "name": "§5Condensed Fermento",
     "recipe": {
       "A1": "FERMENTO;1",
       "B1": "FERMENTO;1",
@@ -9118,7 +9118,7 @@
     ]
   },
   "CROPIE_BOOTS": {
-    "name": "§9Cropie Boots",
+    "name": "§aCropie Boots",
     "recipe": {
       "A1": "CROPIE;10",
       "B1": "",
@@ -9136,7 +9136,7 @@
     ]
   },
   "CROPIE_CHESTPLATE": {
-    "name": "§9Cropie Chestplate",
+    "name": "§aCropie Chestplate",
     "recipe": {
       "A1": "CROPIE;10",
       "B1": "MELON_CHESTPLATE;1",
@@ -9154,7 +9154,7 @@
     ]
   },
   "CROPIE_HELMET": {
-    "name": "§9Cropie Helmet",
+    "name": "§aCropie Helmet",
     "recipe": {
       "A1": "CROPIE;10",
       "B1": "ENCHANTED_HAY_BALE;8",
@@ -9172,7 +9172,7 @@
     ]
   },
   "CROPIE_LEGGINGS": {
-    "name": "§9Cropie Leggings",
+    "name": "§aCropie Leggings",
     "recipe": {
       "A1": "CROPIE;10",
       "B1": "ENCHANTED_HAY_BALE;8",
@@ -15532,7 +15532,7 @@
     ]
   },
   "FERMENTO_BOOTS": {
-    "name": "§6Fermento Boots",
+    "name": "§5Fermento Boots",
     "recipe": {
       "A1": "CONDENSED_FERMENTO;1",
       "B1": "",
@@ -15550,7 +15550,7 @@
     ]
   },
   "FERMENTO_CHESTPLATE": {
-    "name": "§6Fermento Chestplate",
+    "name": "§5Fermento Chestplate",
     "recipe": {
       "A1": "CONDENSED_FERMENTO;1",
       "B1": "SQUASH_CHESTPLATE;1",
@@ -15568,7 +15568,7 @@
     ]
   },
   "FERMENTO_HELMET": {
-    "name": "§6Fermento Helmet",
+    "name": "§5Fermento Helmet",
     "recipe": {
       "A1": "CONDENSED_FERMENTO;1",
       "B1": "ENCHANTED_SUGAR_CANE;32",
@@ -15586,7 +15586,7 @@
     ]
   },
   "FERMENTO_LEGGINGS": {
-    "name": "§6Fermento Leggings",
+    "name": "§5Fermento Leggings",
     "recipe": {
       "A1": "CONDENSED_FERMENTO;1",
       "B1": "ENCHANTED_SUGAR_CANE;32",
@@ -17722,7 +17722,7 @@
     ]
   },
   "FUNGI_CUTTER": {
-    "name": "§5Fungi Cutter",
+    "name": "§aFungi Cutter Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_GOLD_MEDAL;1",
       "B1": "JACOBS_TICKET;32",
@@ -27522,7 +27522,7 @@
     ]
   },
   "MELON_DICER": {
-    "name": "§5Melon Dicer",
+    "name": "§aMelon Dicer Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_GOLD_MEDAL;1",
       "B1": "JACOBS_TICKET;32",
@@ -27541,7 +27541,7 @@
     ]
   },
   "MELON_DICER_2": {
-    "name": "§5Melon Dicer 2.0",
+    "name": "§9Melon Dicer Mk. II",
     "recipe": {
       "A1": "ENCHANTED_MELON_BLOCK;8",
       "B1": "ENCHANTED_MELON_BLOCK;8",
@@ -27559,7 +27559,7 @@
     ]
   },
   "MELON_DICER_3": {
-    "name": "§6Melon Dicer 3.0",
+    "name": "§5Melon Dicer Mk. III",
     "recipe": {
       "A1": "ENCHANTED_MELON_BLOCK;16",
       "B1": "ENCHANTED_MELON_BLOCK;16",
@@ -34233,7 +34233,7 @@
     ]
   },
   "PUMPKIN_DICER": {
-    "name": "§5Pumpkin Dicer",
+    "name": "§aPumpkin Dicer Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_GOLD_MEDAL;1",
       "B1": "JACOBS_TICKET;32",
@@ -34252,7 +34252,7 @@
     ]
   },
   "PUMPKIN_DICER_2": {
-    "name": "§5Pumpkin Dicer 2.0",
+    "name": "§9Pumpkin Dicer Mk. II",
     "recipe": {
       "A1": "POLISHED_PUMPKIN;2",
       "B1": "POLISHED_PUMPKIN;2",
@@ -34270,7 +34270,7 @@
     ]
   },
   "PUMPKIN_DICER_3": {
-    "name": "§6Pumpkin Dicer 3.0",
+    "name": "§5Pumpkin Dicer Mk. III",
     "recipe": {
       "A1": "POLISHED_PUMPKIN;4",
       "B1": "POLISHED_PUMPKIN;4",
@@ -42314,7 +42314,7 @@
     "wiki": []
   },
   "SQUASH_BOOTS": {
-    "name": "§5Squash Boots",
+    "name": "§9Squash Boots",
     "recipe": {
       "A1": "SQUASH;10",
       "B1": "",
@@ -42332,7 +42332,7 @@
     ]
   },
   "SQUASH_CHESTPLATE": {
-    "name": "§5Squash Chestplate",
+    "name": "§9Squash Chestplate",
     "recipe": {
       "A1": "SQUASH;10",
       "B1": "CROPIE_CHESTPLATE;1",
@@ -42350,7 +42350,7 @@
     ]
   },
   "SQUASH_HELMET": {
-    "name": "§5Squash Helmet",
+    "name": "§9Squash Helmet",
     "recipe": {
       "A1": "SQUASH;10",
       "B1": "POLISHED_PUMPKIN;8",
@@ -42368,7 +42368,7 @@
     ]
   },
   "SQUASH_LEGGINGS": {
-    "name": "§5Squash Leggings",
+    "name": "§9Squash Leggings",
     "recipe": {
       "A1": "SQUASH;10",
       "B1": "POLISHED_PUMPKIN;8",
@@ -46016,7 +46016,7 @@
     ]
   },
   "THEORETICAL_HOE_CANE_1": {
-    "name": "§fTuring Sugar Cane Hoe",
+    "name": "§aTuring Sugar Cane Hoe Mk. I",
     "recipe": {
       "A1": "SUGAR_CANE;64",
       "B1": "SUGAR_CANE;64",
@@ -46034,7 +46034,7 @@
     ]
   },
   "THEORETICAL_HOE_CANE_2": {
-    "name": "§aTuring Sugar Cane Hoe",
+    "name": "§9Turing Sugar Cane Hoe Mk. II",
     "recipe": {
       "A1": "JACOBS_TICKET;16",
       "B1": "ENCHANTED_SUGAR;64",
@@ -46052,7 +46052,7 @@
     ]
   },
   "THEORETICAL_HOE_CANE_3": {
-    "name": "§9Turing Sugar Cane Hoe",
+    "name": "§5Turing Sugar Cane Hoe Mk. III",
     "recipe": {
       "A1": "JACOBS_TICKET;64",
       "B1": "ENCHANTED_SUGAR_CANE;64",
@@ -46070,7 +46070,7 @@
     ]
   },
   "THEORETICAL_HOE_CARROT_1": {
-    "name": "§fGauss Carrot Hoe",
+    "name": "§aGauss Carrot Hoe Mk. I",
     "recipe": {
       "A1": "CARROT_ITEM;64",
       "B1": "CARROT_ITEM;64",
@@ -46088,7 +46088,7 @@
     ]
   },
   "THEORETICAL_HOE_CARROT_2": {
-    "name": "§aGauss Carrot Hoe",
+    "name": "§9Gauss Carrot Hoe Mk. II",
     "recipe": {
       "A1": "JACOBS_TICKET;16",
       "B1": "ENCHANTED_CARROT;64",
@@ -46106,7 +46106,7 @@
     ]
   },
   "THEORETICAL_HOE_CARROT_3": {
-    "name": "§9Gauss Carrot Hoe",
+    "name": "§5Gauss Carrot Hoe Mk. III",
     "recipe": {
       "A1": "JACOBS_TICKET;64",
       "B1": "ENCHANTED_GOLDEN_CARROT;64",
@@ -46124,7 +46124,7 @@
     ]
   },
   "THEORETICAL_HOE_POTATO_1": {
-    "name": "§fPythagorean Potato Hoe",
+    "name": "§aPythagorean Potato Hoe Mk. I",
     "recipe": {
       "A1": "POTATO_ITEM;64",
       "B1": "POTATO_ITEM;64",
@@ -46142,7 +46142,7 @@
     ]
   },
   "THEORETICAL_HOE_POTATO_2": {
-    "name": "§aPythagorean Potato Hoe",
+    "name": "§9Pythagorean Potato Hoe Mk. II",
     "recipe": {
       "A1": "JACOBS_TICKET;16",
       "B1": "ENCHANTED_POTATO;64",
@@ -46160,7 +46160,7 @@
     ]
   },
   "THEORETICAL_HOE_POTATO_3": {
-    "name": "§9Pythagorean Potato Hoe",
+    "name": "§5Pythagorean Potato Hoe Mk. III",
     "recipe": {
       "A1": "JACOBS_TICKET;64",
       "B1": "ENCHANTED_BAKED_POTATO;64",
@@ -46178,7 +46178,7 @@
     ]
   },
   "THEORETICAL_HOE_WARTS_1": {
-    "name": "§fNewton Nether Warts Hoe",
+    "name": "§aNewton Nether Wart Hoe Mk. I",
     "recipe": {
       "A1": "NETHER_STALK;64",
       "B1": "NETHER_STALK;64",
@@ -46196,7 +46196,7 @@
     ]
   },
   "THEORETICAL_HOE_WARTS_2": {
-    "name": "§aNewton Nether Warts Hoe",
+    "name": "§9Newton Nether Wart Hoe Mk. II",
     "recipe": {
       "A1": "JACOBS_TICKET;16",
       "B1": "ENCHANTED_NETHER_STALK;64",
@@ -46214,7 +46214,7 @@
     ]
   },
   "THEORETICAL_HOE_WARTS_3": {
-    "name": "§9Newton Nether Warts Hoe",
+    "name": "§5Newton Nether Wart Hoe Mk. III",
     "recipe": {
       "A1": "JACOBS_TICKET;64",
       "B1": "MUTANT_NETHER_STALK;64",
@@ -46232,7 +46232,7 @@
     ]
   },
   "THEORETICAL_HOE_WHEAT_1": {
-    "name": "§fEuclid's Wheat Hoe",
+    "name": "§aEuclid's Wheat Hoe Mk. I",
     "recipe": {
       "A1": "WHEAT;64",
       "B1": "WHEAT;64",
@@ -46250,7 +46250,7 @@
     ]
   },
   "THEORETICAL_HOE_WHEAT_2": {
-    "name": "§aEuclid's Wheat Hoe",
+    "name": "§9Euclid's Wheat Hoe Mk. II",
     "recipe": {
       "A1": "JACOBS_TICKET;16",
       "B1": "ENCHANTED_WHEAT;16",
@@ -46268,7 +46268,7 @@
     ]
   },
   "THEORETICAL_HOE_WHEAT_3": {
-    "name": "§9Euclid's Wheat Hoe",
+    "name": "§5Euclid's Wheat Hoe Mk. III",
     "recipe": {
       "A1": "JACOBS_TICKET;64",
       "B1": "ENCHANTED_HAY_BALE;16",
