@@ -12431,24 +12431,6 @@
       "https://wiki.hypixel.net/Enchanted_Cooked_Salmon"
     ]
   },
-  "ENCHANTED_COOKIE": {
-    "name": "§9Enchanted Cookie",
-    "recipe": {
-      "A1": "",
-      "B1": "ENCHANTED_COCOA;32",
-      "C1": "",
-      "A2": "ENCHANTED_COCOA;32",
-      "B2": "WHEAT;32",
-      "C2": "ENCHANTED_COCOA;32",
-      "A3": "",
-      "B3": "ENCHANTED_COCOA;32",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Cookie",
-      "https://wiki.hypixel.net/Enchanted_Cookie"
-    ]
-  },
   "ENCHANTED_DANDELION": {
     "name": "§aEnchanted Dandelion",
     "recipe": {
@@ -12755,24 +12737,6 @@
       "https://wiki.hypixel.net/Enchanted_Gold_Block"
     ]
   },
-  "ENCHANTED_GOLDEN_CARROT": {
-    "name": "§9Enchanted Golden Carrot",
-    "recipe": {
-      "A1": "",
-      "B1": "ENCHANTED_CARROT;32",
-      "C1": "",
-      "A2": "ENCHANTED_CARROT;32",
-      "B2": "GOLDEN_CARROT;32",
-      "C2": "ENCHANTED_CARROT;32",
-      "A3": "",
-      "B3": "ENCHANTED_CARROT;32",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Golden_Carrot",
-      "https://wiki.hypixel.net/Enchanted_Golden_Carrot"
-    ]
-  },
   "ENCHANTED_GRILLED_PORK": {
     "name": "§9Enchanted Cooked Porkchop",
     "recipe": {
@@ -12843,42 +12807,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Hay_Bale",
       "https://wiki.hypixel.net/Enchanted_Hay_Bale"
-    ]
-  },
-  "ENCHANTED_HUGE_MUSHROOM_1": {
-    "name": "§9Enchanted Brown Mushroom Block",
-    "recipe": {
-      "A1": "ENCHANTED_BROWN_MUSHROOM;8",
-      "B1": "ENCHANTED_BROWN_MUSHROOM;8",
-      "C1": "",
-      "A2": "ENCHANTED_BROWN_MUSHROOM;8",
-      "B2": "ENCHANTED_BROWN_MUSHROOM;8",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Brown_Mushroom_Block",
-      "https://wiki.hypixel.net/Enchanted_Brown_Mushroom_Block"
-    ]
-  },
-  "ENCHANTED_HUGE_MUSHROOM_2": {
-    "name": "§9Enchanted Red Mushroom Block",
-    "recipe": {
-      "A1": "ENCHANTED_RED_MUSHROOM;8",
-      "B1": "ENCHANTED_RED_MUSHROOM;8",
-      "C1": "",
-      "A2": "ENCHANTED_RED_MUSHROOM;8",
-      "B2": "ENCHANTED_RED_MUSHROOM;8",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Red_Mushroom_Block",
-      "https://wiki.hypixel.net/Enchanted_Red_Mushroom_Block"
     ]
   },
   "ENCHANTED_ICE": {
@@ -15537,9 +15465,9 @@
       "A1": "CONDENSED_FERMENTO;1",
       "B1": "",
       "C1": "CONDENSED_FERMENTO;1",
-      "A2": "ENCHANTED_HUGE_MUSHROOM_2;32",
+      "A2": "ENCHANTED_HUGE_MUSHROOM_2;16",
       "B2": "SQUASH_BOOTS;1",
-      "C2": "ENCHANTED_HUGE_MUSHROOM_1;32",
+      "C2": "ENCHANTED_HUGE_MUSHROOM_1;16",
       "A3": "",
       "B3": "",
       "C3": ""
@@ -15555,9 +15483,9 @@
       "A1": "CONDENSED_FERMENTO;1",
       "B1": "SQUASH_CHESTPLATE;1",
       "C1": "CONDENSED_FERMENTO;1",
-      "A2": "ENCHANTED_HUGE_MUSHROOM_2;32",
+      "A2": "ENCHANTED_HUGE_MUSHROOM_2;16",
       "B2": "ENCHANTED_SUGAR_CANE;32",
-      "C2": "ENCHANTED_HUGE_MUSHROOM_1;32",
+      "C2": "ENCHANTED_HUGE_MUSHROOM_1;16",
       "A3": "MUTANT_NETHER_STALK;15",
       "B3": "ENCHANTED_CACTUS;25",
       "C3": "MUTANT_NETHER_STALK;15"
@@ -15573,9 +15501,9 @@
       "A1": "CONDENSED_FERMENTO;1",
       "B1": "ENCHANTED_SUGAR_CANE;32",
       "C1": "CONDENSED_FERMENTO;1",
-      "A2": "ENCHANTED_HUGE_MUSHROOM_2;32",
+      "A2": "ENCHANTED_HUGE_MUSHROOM_2;16",
       "B2": "SQUASH_HELMET;1",
-      "C2": "ENCHANTED_HUGE_MUSHROOM_1;32",
+      "C2": "ENCHANTED_HUGE_MUSHROOM_1;16",
       "A3": "",
       "B3": "",
       "C3": ""
@@ -15591,9 +15519,9 @@
       "A1": "CONDENSED_FERMENTO;1",
       "B1": "ENCHANTED_SUGAR_CANE;32",
       "C1": "CONDENSED_FERMENTO;1",
-      "A2": "ENCHANTED_HUGE_MUSHROOM_2;32",
+      "A2": "ENCHANTED_HUGE_MUSHROOM_2;16",
       "B2": "SQUASH_LEGGINGS;1",
-      "C2": "ENCHANTED_HUGE_MUSHROOM_1;32",
+      "C2": "ENCHANTED_HUGE_MUSHROOM_1;16",
       "A3": "MUTANT_NETHER_STALK;20",
       "B3": "",
       "C3": "MUTANT_NETHER_STALK;20"
@@ -27540,42 +27468,6 @@
       "https://wiki.hypixel.net/Melon_Dicer"
     ]
   },
-  "MELON_DICER_2": {
-    "name": "§9Melon Dicer Mk. II",
-    "recipe": {
-      "A1": "ENCHANTED_MELON_BLOCK;8",
-      "B1": "ENCHANTED_MELON_BLOCK;8",
-      "C1": "ENCHANTED_MELON_BLOCK;8",
-      "A2": "ENCHANTED_MELON_BLOCK;8",
-      "B2": "MELON_DICER;1",
-      "C2": "ENCHANTED_MELON_BLOCK;8",
-      "A3": "ENCHANTED_MELON_BLOCK;8",
-      "B3": "ENCHANTED_MELON_BLOCK;8",
-      "C3": "ENCHANTED_MELON_BLOCK;8"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Melon_Dicer_2.0",
-      "https://wiki.hypixel.net/Melon_Dicer_2.0"
-    ]
-  },
-  "MELON_DICER_3": {
-    "name": "§5Melon Dicer Mk. III",
-    "recipe": {
-      "A1": "ENCHANTED_MELON_BLOCK;16",
-      "B1": "ENCHANTED_MELON_BLOCK;16",
-      "C1": "ENCHANTED_MELON_BLOCK;16",
-      "A2": "ENCHANTED_MELON_BLOCK;16",
-      "B2": "MELON_DICER_2;1",
-      "C2": "ENCHANTED_MELON_BLOCK;16",
-      "A3": "ENCHANTED_MELON_BLOCK;16",
-      "B3": "ENCHANTED_MELON_BLOCK;16",
-      "C3": "ENCHANTED_MELON_BLOCK;16"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Melon_Dicer_3.0",
-      "https://wiki.hypixel.net/Melon_Dicer_3.0"
-    ]
-  },
   "MELON_GENERATOR_1": {
     "name": "§9Melon Minion I",
     "recipe": {
@@ -34249,42 +34141,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Pumpkin_Dicer",
       "https://wiki.hypixel.net/Pumpkin_Dicer"
-    ]
-  },
-  "PUMPKIN_DICER_2": {
-    "name": "§9Pumpkin Dicer Mk. II",
-    "recipe": {
-      "A1": "POLISHED_PUMPKIN;2",
-      "B1": "POLISHED_PUMPKIN;2",
-      "C1": "POLISHED_PUMPKIN;2",
-      "A2": "POLISHED_PUMPKIN;2",
-      "B2": "PUMPKIN_DICER;1",
-      "C2": "POLISHED_PUMPKIN;2",
-      "A3": "POLISHED_PUMPKIN;2",
-      "B3": "POLISHED_PUMPKIN;2",
-      "C3": "POLISHED_PUMPKIN;2"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Pumpkin_Dicer_2.0",
-      "https://wiki.hypixel.net/Pumpkin_Dicer_2.0"
-    ]
-  },
-  "PUMPKIN_DICER_3": {
-    "name": "§5Pumpkin Dicer Mk. III",
-    "recipe": {
-      "A1": "POLISHED_PUMPKIN;4",
-      "B1": "POLISHED_PUMPKIN;4",
-      "C1": "POLISHED_PUMPKIN;4",
-      "A2": "POLISHED_PUMPKIN;4",
-      "B2": "PUMPKIN_DICER_2;1",
-      "C2": "POLISHED_PUMPKIN;4",
-      "A3": "POLISHED_PUMPKIN;4",
-      "B3": "POLISHED_PUMPKIN;4",
-      "C3": "POLISHED_PUMPKIN;4"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Pumpkin_Dicer_3.0",
-      "https://wiki.hypixel.net/Pumpkin_Dicer_3.0"
     ]
   },
   "PUMPKIN_GENERATOR_1": {
@@ -46033,42 +45889,6 @@
       "https://wiki.hypixel.net/Turing_Sugar_Cane_Hoe"
     ]
   },
-  "THEORETICAL_HOE_CANE_2": {
-    "name": "§9Turing Sugar Cane Hoe Mk. II",
-    "recipe": {
-      "A1": "JACOBS_TICKET;16",
-      "B1": "ENCHANTED_SUGAR;64",
-      "C1": "JACOBS_TICKET;16",
-      "A2": "ENCHANTED_SUGAR;64",
-      "B2": "THEORETICAL_HOE_CANE_1;1",
-      "C2": "ENCHANTED_SUGAR;64",
-      "A3": "JACOBS_TICKET;16",
-      "B3": "ENCHANTED_SUGAR;64",
-      "C3": "JACOBS_TICKET;16"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Turing_Sugar_Cane_Hoe",
-      "https://wiki.hypixel.net/Turing_Sugar_Cane_Hoe"
-    ]
-  },
-  "THEORETICAL_HOE_CANE_3": {
-    "name": "§5Turing Sugar Cane Hoe Mk. III",
-    "recipe": {
-      "A1": "JACOBS_TICKET;64",
-      "B1": "ENCHANTED_SUGAR_CANE;64",
-      "C1": "JACOBS_TICKET;64",
-      "A2": "ENCHANTED_SUGAR_CANE;64",
-      "B2": "THEORETICAL_HOE_CANE_2;1",
-      "C2": "ENCHANTED_SUGAR_CANE;64",
-      "A3": "JACOBS_TICKET;64",
-      "B3": "ENCHANTED_SUGAR_CANE;64",
-      "C3": "JACOBS_TICKET;64"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Turing_Sugar_Cane_Hoe",
-      "https://wiki.hypixel.net/Turing_Sugar_Cane_Hoe"
-    ]
-  },
   "THEORETICAL_HOE_CARROT_1": {
     "name": "§aGauss Carrot Hoe Mk. I",
     "recipe": {
@@ -46081,42 +45901,6 @@
       "A3": "CARROT_ITEM;64",
       "B3": "CARROT_ITEM;64",
       "C3": "CARROT_ITEM;64"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Gauss_Carrot_Hoe",
-      "https://wiki.hypixel.net/Gauss_Carrot_Hoe"
-    ]
-  },
-  "THEORETICAL_HOE_CARROT_2": {
-    "name": "§9Gauss Carrot Hoe Mk. II",
-    "recipe": {
-      "A1": "JACOBS_TICKET;16",
-      "B1": "ENCHANTED_CARROT;64",
-      "C1": "JACOBS_TICKET;16",
-      "A2": "ENCHANTED_CARROT;64",
-      "B2": "THEORETICAL_HOE_CARROT_1;1",
-      "C2": "ENCHANTED_CARROT;64",
-      "A3": "JACOBS_TICKET;16",
-      "B3": "ENCHANTED_CARROT;64",
-      "C3": "JACOBS_TICKET;16"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Gauss_Carrot_Hoe",
-      "https://wiki.hypixel.net/Gauss_Carrot_Hoe"
-    ]
-  },
-  "THEORETICAL_HOE_CARROT_3": {
-    "name": "§5Gauss Carrot Hoe Mk. III",
-    "recipe": {
-      "A1": "JACOBS_TICKET;64",
-      "B1": "ENCHANTED_GOLDEN_CARROT;64",
-      "C1": "JACOBS_TICKET;64",
-      "A2": "ENCHANTED_GOLDEN_CARROT;64",
-      "B2": "THEORETICAL_HOE_CARROT_2;1",
-      "C2": "ENCHANTED_GOLDEN_CARROT;64",
-      "A3": "JACOBS_TICKET;64",
-      "B3": "ENCHANTED_GOLDEN_CARROT;64",
-      "C3": "JACOBS_TICKET;64"
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Gauss_Carrot_Hoe",
@@ -46141,42 +45925,6 @@
       "https://wiki.hypixel.net/Pythagorean_Potato_Hoe"
     ]
   },
-  "THEORETICAL_HOE_POTATO_2": {
-    "name": "§9Pythagorean Potato Hoe Mk. II",
-    "recipe": {
-      "A1": "JACOBS_TICKET;16",
-      "B1": "ENCHANTED_POTATO;64",
-      "C1": "JACOBS_TICKET;16",
-      "A2": "ENCHANTED_POTATO;64",
-      "B2": "THEORETICAL_HOE_POTATO_1;1",
-      "C2": "ENCHANTED_POTATO;64",
-      "A3": "JACOBS_TICKET;16",
-      "B3": "ENCHANTED_POTATO;64",
-      "C3": "JACOBS_TICKET;16"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Pythagorean_Potato_Hoe",
-      "https://wiki.hypixel.net/Pythagorean_Potato_Hoe"
-    ]
-  },
-  "THEORETICAL_HOE_POTATO_3": {
-    "name": "§5Pythagorean Potato Hoe Mk. III",
-    "recipe": {
-      "A1": "JACOBS_TICKET;64",
-      "B1": "ENCHANTED_BAKED_POTATO;64",
-      "C1": "JACOBS_TICKET;64",
-      "A2": "ENCHANTED_BAKED_POTATO;64",
-      "B2": "THEORETICAL_HOE_POTATO_2;1",
-      "C2": "ENCHANTED_BAKED_POTATO;64",
-      "A3": "JACOBS_TICKET;64",
-      "B3": "ENCHANTED_BAKED_POTATO;64",
-      "C3": "JACOBS_TICKET;64"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Pythagorean_Potato_Hoe",
-      "https://wiki.hypixel.net/Pythagorean_Potato_Hoe"
-    ]
-  },
   "THEORETICAL_HOE_WARTS_1": {
     "name": "§aNewton Nether Wart Hoe Mk. I",
     "recipe": {
@@ -46195,42 +45943,6 @@
       "https://wiki.hypixel.net/Newton_Nether_Warts_Hoe"
     ]
   },
-  "THEORETICAL_HOE_WARTS_2": {
-    "name": "§9Newton Nether Wart Hoe Mk. II",
-    "recipe": {
-      "A1": "JACOBS_TICKET;16",
-      "B1": "ENCHANTED_NETHER_STALK;64",
-      "C1": "JACOBS_TICKET;16",
-      "A2": "ENCHANTED_NETHER_STALK;64",
-      "B2": "THEORETICAL_HOE_WARTS_1;1",
-      "C2": "ENCHANTED_NETHER_STALK;64",
-      "A3": "JACOBS_TICKET;16",
-      "B3": "ENCHANTED_NETHER_STALK;64",
-      "C3": "JACOBS_TICKET;16"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Newton_Nether_Warts_Hoe",
-      "https://wiki.hypixel.net/Newton_Nether_Warts_Hoe"
-    ]
-  },
-  "THEORETICAL_HOE_WARTS_3": {
-    "name": "§5Newton Nether Wart Hoe Mk. III",
-    "recipe": {
-      "A1": "JACOBS_TICKET;64",
-      "B1": "MUTANT_NETHER_STALK;64",
-      "C1": "JACOBS_TICKET;64",
-      "A2": "MUTANT_NETHER_STALK;64",
-      "B2": "THEORETICAL_HOE_WARTS_2;1",
-      "C2": "MUTANT_NETHER_STALK;64",
-      "A3": "JACOBS_TICKET;64",
-      "B3": "MUTANT_NETHER_STALK;64",
-      "C3": "JACOBS_TICKET;64"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Newton_Nether_Warts_Hoe",
-      "https://wiki.hypixel.net/Newton_Nether_Warts_Hoe"
-    ]
-  },
   "THEORETICAL_HOE_WHEAT_1": {
     "name": "§aEuclid's Wheat Hoe Mk. I",
     "recipe": {
@@ -46243,42 +45955,6 @@
       "A3": "WHEAT;64",
       "B3": "WHEAT;64",
       "C3": "WHEAT;64"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Euclid%27s_Wheat_Hoe",
-      "https://wiki.hypixel.net/Euclid%27s_Wheat_Hoe"
-    ]
-  },
-  "THEORETICAL_HOE_WHEAT_2": {
-    "name": "§9Euclid's Wheat Hoe Mk. II",
-    "recipe": {
-      "A1": "JACOBS_TICKET;16",
-      "B1": "ENCHANTED_WHEAT;16",
-      "C1": "JACOBS_TICKET;16",
-      "A2": "ENCHANTED_WHEAT;16",
-      "B2": "THEORETICAL_HOE_WHEAT_1;1",
-      "C2": "ENCHANTED_WHEAT;16",
-      "A3": "JACOBS_TICKET;16",
-      "B3": "ENCHANTED_WHEAT;16",
-      "C3": "JACOBS_TICKET;16"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Euclid%27s_Wheat_Hoe",
-      "https://wiki.hypixel.net/Euclid%27s_Wheat_Hoe"
-    ]
-  },
-  "THEORETICAL_HOE_WHEAT_3": {
-    "name": "§5Euclid's Wheat Hoe Mk. III",
-    "recipe": {
-      "A1": "JACOBS_TICKET;64",
-      "B1": "ENCHANTED_HAY_BALE;16",
-      "C1": "JACOBS_TICKET;64",
-      "A2": "ENCHANTED_HAY_BALE;16",
-      "B2": "THEORETICAL_HOE_WHEAT_2;1",
-      "C2": "ENCHANTED_HAY_BALE;16",
-      "A3": "JACOBS_TICKET;64",
-      "B3": "ENCHANTED_HAY_BALE;16",
-      "C3": "JACOBS_TICKET;64"
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Euclid%27s_Wheat_Hoe",
