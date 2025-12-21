@@ -1560,6 +1560,38 @@
       "https://wiki.hypixel.net/Anvil"
     ]
   },
+  "AQUAMASTER_HYDROMAX": {
+    "name": "§6AquaMaster™ Hydromax",
+    "recipe": {
+      "A1": "AQUAMASTER_X;undefined",
+      "B1": "IRIDIUM;undefined",
+      "C1": "SKYBLOCK_COPPER;2500",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "AQUAMASTER_X": {
+    "name": "§5AquaMaster™ X",
+    "recipe": {
+      "A1": "HYDRO_CAN_ULTRA_3000;undefined",
+      "B1": "SKYBLOCK_COPPER;1000",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "ARACHNE_CRYSTAL": {
     "name": "§9Arachne Crystal",
     "recipe": {
@@ -4379,6 +4411,78 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Bloodbadge",
       "https://wiki.hypixel.net/Bloodbadge"
+    ]
+  },
+  "BLOSSOM_BELT": {
+    "name": "§5Blossom Belt",
+    "recipe": {
+      "A1": "LOTUS_BELT;undefined",
+      "B1": "SKYBLOCK_COPPER;5000",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Blossom_Belt"
+    ]
+  },
+  "BLOSSOM_BRACELET": {
+    "name": "§5Blossom Bracelet",
+    "recipe": {
+      "A1": "LOTUS_BRACELET;undefined",
+      "B1": "SKYBLOCK_COPPER;2500",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Blossom_Bracelet"
+    ]
+  },
+  "BLOSSOM_CLOAK": {
+    "name": "§5Blossom Cloak",
+    "recipe": {
+      "A1": "LOTUS_CLOAK;undefined",
+      "B1": "SKYBLOCK_COPPER;10000",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Blossom_Cloak"
+    ]
+  },
+  "BLOSSOM_NECKLACE": {
+    "name": "§5Blossom Necklace",
+    "recipe": {
+      "A1": "LOTUS_NECKLACE;undefined",
+      "B1": "SKYBLOCK_COPPER;7500",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Blossom_Necklace"
     ]
   },
   "BLUE_GIFT_TALISMAN:1": {
@@ -9207,6 +9311,24 @@
       "https://wiki.hypixel.net/Cropie_Talisman"
     ]
   },
+  "CROPSHOT_GARDEN_CHIP": {
+    "name": "§9Cropshot Chip",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Cropshot_Chip"
+    ]
+  },
   "CROWN_OF_AVARICE": {
     "name": "§6Crown of Avarice",
     "recipe": {
@@ -12159,24 +12281,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Cactus",
       "https://wiki.hypixel.net/Enchanted_Cactus"
-    ]
-  },
-  "ENCHANTED_CACTUS_GREEN": {
-    "name": "§aEnchanted Cactus Green",
-    "recipe": {
-      "A1": "",
-      "B1": "INK_SACK:2;32",
-      "C1": "",
-      "A2": "INK_SACK:2;32",
-      "B2": "INK_SACK:2;32",
-      "C2": "INK_SACK:2;32",
-      "A3": "",
-      "B3": "INK_SACK:2;32",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Cactus_Green",
-      "https://wiki.hypixel.net/Enchanted_Cactus_Green"
     ]
   },
   "ENCHANTED_CAKE": {
@@ -21677,6 +21781,54 @@
       "https://hypixel-skyblock.fandom.com/wiki/Empty_Hurricane_Bottle",
       "https://wiki.hypixel.net/Empty_Hurricane_Bottle"
     ]
+  },
+  "HYDRO_CAN_1000": {
+    "name": "§fHydroCan™ 1000",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "HYDRO_CAN_TURBO_2000": {
+    "name": "§aHydroCan™ Turbo 2000",
+    "recipe": {
+      "A1": "HYDRO_CAN_1000;undefined",
+      "B1": "SKYBLOCK_COPPER;200",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "HYDRO_CAN_ULTRA_3000": {
+    "name": "§9HydroCan™ Ultra 3000",
+    "recipe": {
+      "A1": "HYDRO_CAN_TURBO_2000;undefined",
+      "B1": "SKYBLOCK_COPPER;500",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "HYPER_CATALYST": {
     "name": "§5Hyper Catalyst",
@@ -32934,6 +33086,24 @@
       "C3": ""
     }
   },
+  "PLANT_DIAGNOSTICS_TOOL": {
+    "name": "§9Plant Diagnostics Tool",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;50",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Plant_Diagnostics_Tool"
+    ]
+  },
   "PLASMA_BUCKET": {
     "name": "§dPlasma Bucket",
     "recipe": {
@@ -41022,6 +41192,24 @@
       "https://wiki.hypixel.net/Souls_Rebound"
     ]
   },
+  "SOWLEDGE_GARDEN_CHIP": {
+    "name": "§9Sowledge Chip",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;200",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Sowledge_Chip"
+    ]
+  },
   "SPECKLED_MELON": {
     "name": "§fGlistering Melon Slice",
     "recipe": {
@@ -44645,6 +44833,22 @@
     },
     "wiki": []
   },
+  "SUNFLOWER_GENERATOR_12": {
+    "name": "§9Sunflower Minion XII",
+    "recipe": {
+      "A1": "SUNFLOWER_GENERATOR_11;undefined",
+      "B1": "COMPACTED_SUNFLOWER;32",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "SUPER_CLEAVER": {
     "name": "§9Super Cleaver",
     "recipe": {
@@ -45910,33 +46114,51 @@
   "THEORETICAL_HOE_POTATO_1": {
     "name": "§aPythagorean Potato Hoe Mk. I",
     "recipe": {
-      "A1": "POTATO_ITEM;64",
-      "B1": "POTATO_ITEM;64",
-      "C1": "POTATO_ITEM;64",
-      "A2": "POTATO_ITEM;64",
-      "B2": "THEORETICAL_HOE;1",
-      "C2": "POTATO_ITEM;64",
-      "A3": "POTATO_ITEM;64",
-      "B3": "POTATO_ITEM;64",
-      "C3": "POTATO_ITEM;64"
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Pythagorean_Potato_Hoe",
       "https://wiki.hypixel.net/Pythagorean_Potato_Hoe"
     ]
   },
+  "THEORETICAL_HOE_SUNFLOWER_1": {
+    "name": "§aEclipse Hoe Mk. I",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "THEORETICAL_HOE_WARTS_1": {
     "name": "§aNewton Nether Wart Hoe Mk. I",
     "recipe": {
-      "A1": "NETHER_STALK;64",
-      "B1": "NETHER_STALK;64",
-      "C1": "NETHER_STALK;64",
-      "A2": "NETHER_STALK;64",
-      "B2": "THEORETICAL_HOE;1",
-      "C2": "NETHER_STALK;64",
-      "A3": "NETHER_STALK;64",
-      "B3": "NETHER_STALK;64",
-      "C3": "NETHER_STALK;64"
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Newton_Nether_Warts_Hoe",
@@ -45946,20 +46168,37 @@
   "THEORETICAL_HOE_WHEAT_1": {
     "name": "§aEuclid's Wheat Hoe Mk. I",
     "recipe": {
-      "A1": "WHEAT;64",
-      "B1": "WHEAT;64",
-      "C1": "WHEAT;64",
-      "A2": "WHEAT;64",
-      "B2": "THEORETICAL_HOE;1",
-      "C2": "WHEAT;64",
-      "A3": "WHEAT;64",
-      "B3": "WHEAT;64",
-      "C3": "WHEAT;64"
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Euclid%27s_Wheat_Hoe",
       "https://wiki.hypixel.net/Euclid%27s_Wheat_Hoe"
     ]
+  },
+  "THEORETICAL_HOE_WILD_ROSE_1": {
+    "name": "§aWild Rose Hoe Mk. I",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "THIN_GLASS": {
     "name": "§fGlass Pane",
@@ -46752,6 +46991,21 @@
       "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Carrot_Candy_Upgrade",
       "https://wiki.hypixel.net/Ultimate_Carrot_Candy_Upgrade"
     ]
+  },
+  "ULTIMATE_CROP_FEVER;1": {
+    "name": "§fEnchanted Book",
+    "recipe": {
+      "A1": "COMPACTED_MOONFLOWER;2",
+      "B1": "COMPACTED_MOONFLOWER;2",
+      "C1": "COMPACTED_MOONFLOWER;2",
+      "A2": "COMPACTED_MOONFLOWER;2",
+      "B2": "JUKEBOX;1",
+      "C2": "COMPACTED_MOONFLOWER;2",
+      "A3": "COMPACTED_MOONFLOWER;2",
+      "B3": "COMPACTED_MOONFLOWER;2",
+      "C3": "COMPACTED_MOONFLOWER;2"
+    },
+    "wiki": []
   },
   "ULTIMATE_HABANERO_TACTICS;4": {
     "name": "§fEnchanted Book",
