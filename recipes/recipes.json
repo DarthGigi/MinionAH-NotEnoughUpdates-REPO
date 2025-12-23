@@ -2749,24 +2749,6 @@
       "https://hypixel-skyblock.fandom.com/wiki/Banner"
     ]
   },
-  "BASE_GRIFFIN_UPGRADE_STONE": {
-    "name": "§fBase Griffin Upgrade Stone",
-    "recipe": {
-      "A1": "GRIFFIN_FEATHER;2",
-      "B1": "ENCHANTED_GOLD;4",
-      "C1": "GRIFFIN_FEATHER;2",
-      "A2": "ENCHANTED_GOLD;4",
-      "B2": "ENCHANTED_COBBLESTONE;8",
-      "C2": "ENCHANTED_GOLD;4",
-      "A3": "GRIFFIN_FEATHER;2",
-      "B3": "ENCHANTED_GOLD;4",
-      "C3": "GRIFFIN_FEATHER;2"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Base_Griffin_Upgrade_Stone",
-      "https://wiki.hypixel.net/Base_Griffin_Upgrade_Stone"
-    ]
-  },
   "BASIC_GARDENING_AXE:1": {
     "name": "§aBasic Gardening Axe",
     "recipe": {
@@ -32750,24 +32732,6 @@
       "https://wiki.hypixel.net/Sharpened_Claws"
     ]
   },
-  "PET_ITEM_TEXTBOOK": {
-    "name": "§6Textbook",
-    "recipe": {
-      "A1": "ENCHANTED_LAPIS_LAZULI_BLOCK;1",
-      "B1": "ENCHANTED_LAPIS_LAZULI_BLOCK;1",
-      "C1": "ENCHANTED_LAPIS_LAZULI_BLOCK;1",
-      "A2": "ENCHANTED_LAPIS_LAZULI_BLOCK;1",
-      "B2": "ENCHANTED_PAPER;64",
-      "C2": "ENCHANTED_LAPIS_LAZULI_BLOCK;1",
-      "A3": "ENCHANTED_LAPIS_LAZULI_BLOCK;1",
-      "B3": "ENCHANTED_LAPIS_LAZULI_BLOCK;1",
-      "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK;1"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Textbook",
-      "https://wiki.hypixel.net/Textbook"
-    ]
-  },
   "PET_ITEM_TIER_BOOST": {
     "name": "§6Tier Boost",
     "recipe": {
@@ -44833,6 +44797,51 @@
     },
     "wiki": []
   },
+  "SUNFLOWER_GENERATOR_1": {
+    "name": "§9Sunflower Minion I",
+    "recipe": {
+      "A1": "DOUBLE_PLANT;16",
+      "B1": "DOUBLE_PLANT;16",
+      "C1": "DOUBLE_PLANT;16",
+      "A2": "DOUBLE_PLANT;16",
+      "B2": "WOOD_HOE;1",
+      "C2": "DOUBLE_PLANT;16",
+      "A3": "DOUBLE_PLANT;16",
+      "B3": "DOUBLE_PLANT;16",
+      "C3": "DOUBLE_PLANT;16"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_10": {
+    "name": "§9Sunflower Minion X",
+    "recipe": {
+      "A1": "COMPACTED_SUNFLOWER;1",
+      "B1": "COMPACTED_SUNFLOWER;1",
+      "C1": "COMPACTED_SUNFLOWER;1",
+      "A2": "COMPACTED_SUNFLOWER;1",
+      "B2": "SUNFLOWER_GENERATOR_9;1",
+      "C2": "COMPACTED_SUNFLOWER;1",
+      "A3": "COMPACTED_SUNFLOWER;1",
+      "B3": "COMPACTED_SUNFLOWER;1",
+      "C3": "COMPACTED_SUNFLOWER;1"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_11": {
+    "name": "§9Sunflower Minion XI",
+    "recipe": {
+      "A1": "COMPACTED_SUNFLOWER;2",
+      "B1": "COMPACTED_SUNFLOWER;2",
+      "C1": "COMPACTED_SUNFLOWER;2",
+      "A2": "COMPACTED_SUNFLOWER;2",
+      "B2": "SUNFLOWER_GENERATOR_10;1",
+      "C2": "COMPACTED_SUNFLOWER;2",
+      "A3": "COMPACTED_SUNFLOWER;2",
+      "B3": "COMPACTED_SUNFLOWER;2",
+      "C3": "COMPACTED_SUNFLOWER;2"
+    },
+    "wiki": []
+  },
   "SUNFLOWER_GENERATOR_12": {
     "name": "§9Sunflower Minion XII",
     "recipe": {
@@ -44846,6 +44855,126 @@
       "B3": "",
       "C3": "",
       "count": 1
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_2": {
+    "name": "§9Sunflower Minion II",
+    "recipe": {
+      "A1": "DOUBLE_PLANT;20",
+      "B1": "DOUBLE_PLANT;20",
+      "C1": "DOUBLE_PLANT;20",
+      "A2": "DOUBLE_PLANT;20",
+      "B2": "SUNFLOWER_GENERATOR_1;1",
+      "C2": "DOUBLE_PLANT;20",
+      "A3": "DOUBLE_PLANT;20",
+      "B3": "DOUBLE_PLANT;20",
+      "C3": "DOUBLE_PLANT;20"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_3": {
+    "name": "§9Sunflower Minion III",
+    "recipe": {
+      "A1": "DOUBLE_PLANT;40",
+      "B1": "DOUBLE_PLANT;40",
+      "C1": "DOUBLE_PLANT;40",
+      "A2": "DOUBLE_PLANT;40",
+      "B2": "SUNFLOWER_GENERATOR_2;1",
+      "C2": "DOUBLE_PLANT;40",
+      "A3": "DOUBLE_PLANT;40",
+      "B3": "DOUBLE_PLANT;40",
+      "C3": "DOUBLE_PLANT;40"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_4": {
+    "name": "§9Sunflower Minion IV",
+    "recipe": {
+      "A1": "DOUBLE_PLANT;64",
+      "B1": "DOUBLE_PLANT;64",
+      "C1": "DOUBLE_PLANT;64",
+      "A2": "DOUBLE_PLANT;64",
+      "B2": "SUNFLOWER_GENERATOR_3;1",
+      "C2": "DOUBLE_PLANT;64",
+      "A3": "DOUBLE_PLANT;64",
+      "B3": "DOUBLE_PLANT;64",
+      "C3": "DOUBLE_PLANT;64"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_5": {
+    "name": "§9Sunflower Minion V",
+    "recipe": {
+      "A1": "ENCHANTED_SUNFLOWER;1",
+      "B1": "ENCHANTED_SUNFLOWER;1",
+      "C1": "ENCHANTED_SUNFLOWER;1",
+      "A2": "ENCHANTED_SUNFLOWER;1",
+      "B2": "SUNFLOWER_GENERATOR_4;1",
+      "C2": "ENCHANTED_SUNFLOWER;1",
+      "A3": "ENCHANTED_SUNFLOWER;1",
+      "B3": "ENCHANTED_SUNFLOWER;1",
+      "C3": "ENCHANTED_SUNFLOWER;1"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_6": {
+    "name": "§9Sunflower Minion VI",
+    "recipe": {
+      "A1": "ENCHANTED_SUNFLOWER;3",
+      "B1": "ENCHANTED_SUNFLOWER;3",
+      "C1": "ENCHANTED_SUNFLOWER;3",
+      "A2": "ENCHANTED_SUNFLOWER;3",
+      "B2": "SUNFLOWER_GENERATOR_5;1",
+      "C2": "ENCHANTED_SUNFLOWER;3",
+      "A3": "ENCHANTED_SUNFLOWER;3",
+      "B3": "ENCHANTED_SUNFLOWER;3",
+      "C3": "ENCHANTED_SUNFLOWER;3"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_7": {
+    "name": "§9Sunflower Minion VII",
+    "recipe": {
+      "A1": "ENCHANTED_SUNFLOWER;8",
+      "B1": "ENCHANTED_SUNFLOWER;8",
+      "C1": "ENCHANTED_SUNFLOWER;8",
+      "A2": "ENCHANTED_SUNFLOWER;8",
+      "B2": "SUNFLOWER_GENERATOR_6;1",
+      "C2": "ENCHANTED_SUNFLOWER;8",
+      "A3": "ENCHANTED_SUNFLOWER;8",
+      "B3": "ENCHANTED_SUNFLOWER;8",
+      "C3": "ENCHANTED_SUNFLOWER;8"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_8": {
+    "name": "§9Sunflower Minion VIII",
+    "recipe": {
+      "A1": "ENCHANTED_SUNFLOWER;16",
+      "B1": "ENCHANTED_SUNFLOWER;16",
+      "C1": "ENCHANTED_SUNFLOWER;16",
+      "A2": "ENCHANTED_SUNFLOWER;16",
+      "B2": "SUNFLOWER_GENERATOR_7;1",
+      "C2": "ENCHANTED_SUNFLOWER;16",
+      "A3": "ENCHANTED_SUNFLOWER;16",
+      "B3": "ENCHANTED_SUNFLOWER;16",
+      "C3": "ENCHANTED_SUNFLOWER;16"
+    },
+    "wiki": []
+  },
+  "SUNFLOWER_GENERATOR_9": {
+    "name": "§9Sunflower Minion IX",
+    "recipe": {
+      "A1": "ENCHANTED_SUNFLOWER;64",
+      "B1": "ENCHANTED_SUNFLOWER;64",
+      "C1": "ENCHANTED_SUNFLOWER;64",
+      "A2": "ENCHANTED_SUNFLOWER;64",
+      "B2": "SUNFLOWER_GENERATOR_8;1",
+      "C2": "ENCHANTED_SUNFLOWER;64",
+      "A3": "ENCHANTED_SUNFLOWER;64",
+      "B3": "ENCHANTED_SUNFLOWER;64",
+      "C3": "ENCHANTED_SUNFLOWER;64"
     },
     "wiki": []
   },
