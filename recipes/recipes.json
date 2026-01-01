@@ -4714,6 +4714,22 @@
       "https://wiki.hypixel.net/Boots_Of_The_Pack"
     ]
   },
+  "BOTANICAL_GREENHOUSE_SKIN": {
+    "name": "§9Botanical Garden Greenhouse Skin",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "BOTTLE_OF_JYRRE": {
     "name": "§f§cLost Bottle of Jyrre",
     "recipe": {
@@ -5528,8 +5544,8 @@
   "CACTUS_KNIFE": {
     "name": "§aCactus Knife Mk. I",
     "recipe": {
-      "A1": "SKYBLOCK_GOLD_MEDAL;1",
-      "B1": "JACOBS_TICKET;32",
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -8201,8 +8217,8 @@
   "COCO_CHOPPER": {
     "name": "§aCocoa Chopper Mk. I",
     "recipe": {
-      "A1": "SKYBLOCK_GOLD_MEDAL;1",
-      "B1": "JACOBS_TICKET;32",
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -8695,6 +8711,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Corrupted_Bait",
       "https://wiki.hypixel.net/Corrupted_Bait"
     ]
+  },
+  "COUNTRY_GREENHOUSE_SKIN": {
+    "name": "§aCountry Greenhouse Skin",
+    "recipe": {
+      "A1": "SKYBLOCK_GEM;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "COW_AXE": {
     "name": "§aCow Axe",
@@ -17738,8 +17770,8 @@
   "FUNGI_CUTTER": {
     "name": "§aFungi Cutter Mk. I",
     "recipe": {
-      "A1": "SKYBLOCK_GOLD_MEDAL;1",
-      "B1": "JACOBS_TICKET;32",
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -24016,7 +24048,8 @@
       "A3": "WOOD;1",
       "B3": "WOOD;1",
       "C3": "WOOD;1"
-    }
+    },
+    "wiki": []
   },
   "JUMBO_BACKPACK": {
     "name": "§6Jumbo Backpack",
@@ -27292,6 +27325,24 @@
       "https://wiki.hypixel.net/Twilight_Dagger"
     ]
   },
+  "MECHAMIND_GARDEN_CHIP": {
+    "name": "§9Mechamind Chip",
+    "recipe": {
+      "A1": "SKYBLOCK_GOLD_MEDAL;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Mechamind_Chip"
+    ]
+  },
   "MEDIUM_AGRONOMY_SACK": {
     "name": "§9Medium Agronomy Sack",
     "recipe": {
@@ -27586,8 +27637,8 @@
   "MELON_DICER": {
     "name": "§aMelon Dicer Mk. I",
     "recipe": {
-      "A1": "SKYBLOCK_GOLD_MEDAL;1",
-      "B1": "JACOBS_TICKET;32",
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -28930,6 +28981,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Moody_Grappleshot",
       "https://wiki.hypixel.net/Moody_Grappleshot"
     ]
+  },
+  "MOON_GREENHOUSE_SKIN": {
+    "name": "§9Moon Greenhouse Skin",
+    "recipe": {
+      "A1": "SKYBLOCK_GEM;500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "MOONGLADE_ARTIFACT:1": {
     "name": "§9Moonglade Artifact",
@@ -31001,6 +31068,22 @@
       "https://wiki.hypixel.net/Orange_Chestplate"
     ]
   },
+  "ORCHARD_GREENHOUSE_SKIN": {
+    "name": "§aOrchard Greenhouse Skin",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;2500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "ORNATE_ZOMBIE_SWORD": {
     "name": "§5Ornate Zombie Sword",
     "recipe": {
@@ -31017,6 +31100,24 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Ornate_Zombie_Sword",
       "https://wiki.hypixel.net/Ornate_Zombie_Sword"
+    ]
+  },
+  "OVERDRIVE_GARDEN_CHIP": {
+    "name": "§9Overdrive Chip",
+    "recipe": {
+      "A1": "SKYBLOCK_GOLD_MEDAL;2",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Overdrive_Chip"
     ]
   },
   "OVERFLUX_POWER_ORB": {
@@ -32352,6 +32453,24 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Pesthunter_Badge",
       "https://wiki.hypixel.net/Pesthunter_Badge"
+    ]
+  },
+  "PESTHUNTER_RELIC:1": {
+    "name": "§6Pesthunter Relic",
+    "recipe": {
+      "A1": "SKYBLOCK_PEST;200",
+      "B1": "PESTHUNTER_ARTIFACT;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Pesthunter_Relic"
     ]
   },
   "PESTHUNTER_RING:1": {
@@ -34261,8 +34380,8 @@
   "PUMPKIN_DICER": {
     "name": "§aPumpkin Dicer Mk. I",
     "recipe": {
-      "A1": "SKYBLOCK_GOLD_MEDAL;1",
-      "B1": "JACOBS_TICKET;32",
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -46185,25 +46304,6 @@
       "https://wiki.hypixel.net/The_Art_Of_War"
     ]
   },
-  "THEORETICAL_HOE": {
-    "name": "§fMathematical Hoe Blueprint",
-    "recipe": {
-      "A1": "SKYBLOCK_GOLD_MEDAL;1",
-      "B1": "JACOBS_TICKET;32",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Mathematical_Hoe_Blueprint",
-      "https://wiki.hypixel.net/Mathematical_Hoe_Blueprint"
-    ]
-  },
   "THEORETICAL_HOE_CANE_1": {
     "name": "§aTuring Sugar Cane Hoe Mk. I",
     "recipe": {
@@ -47761,6 +47861,24 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Vermin_Belt",
       "https://wiki.hypixel.net/Vermin_Belt"
+    ]
+  },
+  "VERMIN_PEST_TRAP:1": {
+    "name": "§6Vermin Trap",
+    "recipe": {
+      "A1": "SKYBLOCK_PEST;200",
+      "B1": "FIRE_IN_A_BOTTLE;1",
+      "C1": "MOUSE_PEST_TRAP;1",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Vermin_Trap"
     ]
   },
   "VERY_CRUDE_GABAGOOL": {
