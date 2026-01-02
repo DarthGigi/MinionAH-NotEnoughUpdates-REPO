@@ -14931,24 +14931,6 @@
       "C3": ""
     }
   },
-  "EXPORTABLE_CARROTS": {
-    "name": "§aExportable Carrots",
-    "recipe": {
-      "A1": "",
-      "B1": "VOLT_CRUX;1",
-      "C1": "",
-      "A2": "",
-      "B2": "NEARLY_WHOLE_CARROT;2",
-      "C2": "",
-      "A3": "",
-      "B3": "SCRIBE_CRUX;1",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Exportable_Carrots",
-      "https://wiki.hypixel.net/Exportable_Carrots"
-    ]
-  },
   "EYE_OF_ENDER": {
     "name": "§fEye of Ender",
     "recipe": {
