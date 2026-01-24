@@ -3311,6 +3311,101 @@
       "https://wiki.hypixel.net/Bigger_Teeth"
     ]
   },
+  "BINGO_ARTIFACT": {
+    "name": "§9Bingo Artifact",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;150",
+      "B1": "BINGO_RING;undefined",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bingo_Artifact",
+      "https://wiki.hypixel.net/Bingo_Artifact"
+    ]
+  },
+  "BINGO_DISPLAY": {
+    "name": "§fBingo Display",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;50",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bingo_Display",
+      "https://wiki.hypixel.net/Bingo_Display"
+    ]
+  },
+  "BINGO_RELIC": {
+    "name": "§5Bingo Relic",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;200",
+      "B1": "BINGO_ARTIFACT;undefined",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bingo_Relic",
+      "https://wiki.hypixel.net/Bingo_Relic"
+    ]
+  },
+  "BINGO_RING": {
+    "name": "§aBingo Ring",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;150",
+      "B1": "BINGO_TALISMAN;undefined",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bingo_Ring",
+      "https://wiki.hypixel.net/Bingo_Ring"
+    ]
+  },
+  "BINGO_TALISMAN": {
+    "name": "§fBingo Talisman",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bingo_Talisman",
+      "https://wiki.hypixel.net/Bingo_Talisman"
+    ]
+  },
   "BIOFUEL": {
     "name": "§9Biofuel",
     "recipe": {
@@ -4628,6 +4723,25 @@
       "https://wiki.hypixel.net/Bone_Reaver"
     ]
   },
+  "BONZO_STATUE": {
+    "name": "§aBonzo Statue",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;30",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bonzo_Statue",
+      "https://wiki.hypixel.net/Bonzo_Statue"
+    ]
+  },
   "BOO_STONE:1": {
     "name": "§9Boo Stone",
     "recipe": {
@@ -4678,6 +4792,25 @@
       "B3": "",
       "C3": ""
     }
+  },
+  "BOOK_OF_STATS": {
+    "name": "§5Book of Stats",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;5",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Book_of_Stats",
+      "https://wiki.hypixel.net/Book_Of_Stats"
+    ]
   },
   "BOOKSHELF": {
     "name": "§fBookshelf",
@@ -8486,6 +8619,25 @@
       "https://wiki.hypixel.net/Talisman_Of_Coins"
     ]
   },
+  "COLLECTION_DISPLAY": {
+    "name": "§aCollection Display",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;30",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Collection_Display",
+      "https://wiki.hypixel.net/Collection_Display"
+    ]
+  },
   "COLOSSAL_EXP_BOTTLE": {
     "name": "§5Colossal Experience Bottle",
     "recipe": {
@@ -11068,6 +11220,44 @@
       "https://wiki.hypixel.net/Ditto_Blob"
     ]
   },
+  "DITTO_SKIN": {
+    "name": "§5Ditto Skin",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Ditto_Skin",
+      "https://wiki.hypixel.net/Ditto_Skin"
+    ]
+  },
+  "DITTO_SKULL": {
+    "name": "§5Ditto Skull",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;50",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Ditto_Skull",
+      "https://wiki.hypixel.net/Ditto_Skull"
+    ]
+  },
   "DR_PAPER": {
     "name": "§aDctr. Paper",
     "recipe": {
@@ -11278,6 +11468,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Dwarven_Sack",
       "https://wiki.hypixel.net/Dwarven_Sack"
+    ]
+  },
+  "DYE_BINGO_BLUE": {
+    "name": "§1Bingo Blue Dye",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Bingo_Blue_Dye",
+      "https://wiki.hypixel.net/Bingo_Blue_Dye"
     ]
   },
   "DYE_PURE_BLACK": {
@@ -19458,7 +19667,8 @@
       "A3": "GOLD_INGOT;1",
       "B3": "GOLD_INGOT;1",
       "C3": "GOLD_INGOT;1"
-    }
+    },
+    "wiki": []
   },
   "GOLDEN_APPLE-1": {
     "name": "§aEnchanted Golden Apple",
@@ -19508,6 +19718,25 @@
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Carrot"
+    ]
+  },
+  "GOLDEN_DANTE_STATUE": {
+    "name": "§5Golden Dante Statue",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Dante_Statue",
+      "https://wiki.hypixel.net/Golden_Dante_Statue"
     ]
   },
   "GOLDEN_FRAGMENT:1": {
@@ -22975,108 +23204,6 @@
       "https://wiki.hypixel.net/Infinityboom_TNT"
     ]
   },
-  "INK_SACK-1": {
-    "name": "§fRose Red",
-    "recipe": {
-      "A1": "RED_ROSE;1",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Rose_Red"
-    ]
-  },
-  "INK_SACK-10": {
-    "name": "§fLime Dye",
-    "recipe": {
-      "A1": "INK_SACK:2;1",
-      "B1": "INK_SACK:15;1",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Lime_Dye"
-    ]
-  },
-  "INK_SACK-11": {
-    "name": "§fDandelion Yellow",
-    "recipe": {
-      "A1": "YELLOW_FLOWER;1",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Dandelion_Yellow"
-    ]
-  },
-  "INK_SACK-12": {
-    "name": "§fLight Blue Dye",
-    "recipe": {
-      "A1": "INK_SACK:4;1",
-      "B1": "INK_SACK:15;1",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Light_Blue_Dye"
-    ]
-  },
-  "INK_SACK-13": {
-    "name": "§fMagenta Dye",
-    "recipe": {
-      "A1": "INK_SACK:4;1",
-      "B1": "INK_SACK:1;1",
-      "C1": "INK_SACK:1;1",
-      "A2": "INK_SACK:15;1",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Magenta_Dye"
-    ]
-  },
-  "INK_SACK-14": {
-    "name": "§fOrange Dye",
-    "recipe": {
-      "A1": "INK_SACK:1;1",
-      "B1": "INK_SACK:11;1",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Orange_Dye"
-    ]
-  },
   "INK_SACK-15": {
     "name": "§fBone Meal",
     "recipe": {
@@ -23141,57 +23268,6 @@
     },
     "wiki": [
       "https://wiki.hypixel.net/Cyan_Dye"
-    ]
-  },
-  "INK_SACK-7": {
-    "name": "§fLight Gray Dye",
-    "recipe": {
-      "A1": "INK_SACK;1",
-      "B1": "INK_SACK:15;1",
-      "C1": "INK_SACK:15;1",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Light_Gray_Dye"
-    ]
-  },
-  "INK_SACK-8": {
-    "name": "§fGray Dye",
-    "recipe": {
-      "A1": "INK_SACK;1",
-      "B1": "INK_SACK:15;1",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Gray_Dye"
-    ]
-  },
-  "INK_SACK-9": {
-    "name": "§fPink Dye",
-    "recipe": {
-      "A1": "INK_SACK:1;1",
-      "B1": "INK_SACK:15;1",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Pink_Dye"
     ]
   },
   "INK_WAND": {
@@ -33143,7 +33219,8 @@
       "A3": "COBBLESTONE;1",
       "B3": "REDSTONE;1",
       "C3": "COBBLESTONE;1"
-    }
+    },
+    "wiki": []
   },
   "PISTON_STICKY_BASE": {
     "name": "§fSticky Piston",
@@ -42170,6 +42247,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Sprayonator",
       "https://wiki.hypixel.net/Sprayonator"
+    ]
+  },
+  "SPRING_BOOTS": {
+    "name": "§9Spring Boots",
+    "recipe": {
+      "A1": "SKYBLOCK_BINGO_POINT;150",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Spring_Boots",
+      "https://wiki.hypixel.net/Spring_Boots"
     ]
   },
   "SPRUCE_DOOR_ITEM": {
