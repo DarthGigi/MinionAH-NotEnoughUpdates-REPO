@@ -9391,6 +9391,25 @@
       "https://wiki.hypixel.net/Creeper_Pants"
     ]
   },
+  "CROOKED_ARTIFACT": {
+    "name": "§9Crooked Artifact",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2000000",
+      "B1": "SHADY_RING;undefined",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Crooked_Artifact",
+      "https://wiki.hypixel.net/Crooked_Artifact"
+    ]
+  },
   "CROPIE_BOOTS": {
     "name": "§aCropie Boots",
     "recipe": {
@@ -19739,6 +19758,25 @@
       "https://wiki.hypixel.net/Golden_Dante_Statue"
     ]
   },
+  "GOLDEN_DRAGON": {
+    "name": "§7[Lvl {LVL} → 200] §6Golden Dragon",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;500000000",
+      "B1": "ENCHANTED_GOLD_BLOCK;50",
+      "C1": "PERFECT_SAPPHIRE_GEM;1",
+      "A2": "PERFECT_JADE_GEM;1",
+      "B2": "PERFECT_AMBER_GEM;1",
+      "C2": "PERFECT_AMETHYST_GEM;1",
+      "A3": "PERFECT_TOPAZ_GEM;1",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Dragon_Pet",
+      "https://wiki.hypixel.net/Golden_Dragon_Pet"
+    ]
+  },
   "GOLDEN_FRAGMENT:1": {
     "name": "§5Golden Fragment",
     "recipe": {
@@ -23970,6 +24008,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Jacob%27s_Ticket",
       "https://wiki.hypixel.net/Jacob%27s_Ticket"
+    ]
+  },
+  "JADE_DRAGON": {
+    "name": "§7[Lvl {LVL}] §6Jade Dragon",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;500000000",
+      "B1": "SHINIEST;1",
+      "C1": "FIGSTONE;100",
+      "A2": "MANGCORE;100",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Jade_Dragon_Pet",
+      "https://wiki.hypixel.net/Jade_Dragon_Pet"
     ]
   },
   "JALAPENO_BOOK": {
@@ -37404,6 +37461,25 @@
       "https://wiki.hypixel.net/Rookie_Pickaxe"
     ]
   },
+  "ROSE_DRAGON": {
+    "name": "§7[Lvl {LVL}] §6Rose Dragon",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;500000000",
+      "B1": "SKYBLOCK_COPPER;20000",
+      "C1": "CONDENSED_HELIANTHUS;5",
+      "A2": "ALL_IN_ALOE;1",
+      "B2": "GLASSCORN;1",
+      "C2": "DEVOURER;1",
+      "A3": "PHANTOMLEAF;1",
+      "B3": "TIMESTALK;1",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Rose_Dragon_Pet",
+      "https://wiki.hypixel.net/Rose_Dragon_Pet"
+    ]
+  },
   "ROSETTA_BOOTS": {
     "name": "§aRosetta's Boots",
     "recipe": {
@@ -38479,6 +38555,25 @@
       "https://wiki.hypixel.net/Sea_Lantern_Hat"
     ]
   },
+  "SEAL_OF_THE_FAMILY": {
+    "name": "§5Seal of the Family",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;10000000",
+      "B1": "CROOKED_ARTIFACT;undefined",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Seal_of_the_Family",
+      "https://wiki.hypixel.net/Seal_Of_The_Family"
+    ]
+  },
   "SEAL_PERSONALITY:1": {
     "name": "§fSeal Minion Skin",
     "recipe": {
@@ -38643,6 +38738,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Shadow_Goggles",
       "https://wiki.hypixel.net/Shadow_Goggles"
+    ]
+  },
+  "SHADY_RING": {
+    "name": "§aShady Ring",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;500000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Shady_Ring",
+      "https://wiki.hypixel.net/Shady_Ring"
     ]
   },
   "SHAMAN_SWORD": {
