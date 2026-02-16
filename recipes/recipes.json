@@ -19773,7 +19773,7 @@
     ]
   },
   "GOLDEN_DRAGON": {
-    "name": "§7[Lvl {LVL} → 200] §6Golden Dragon",
+    "name": "§7[Lvl {LVL}] §6Golden Dragon",
     "recipe": {
       "A1": "SKYBLOCK_COIN;500000000",
       "B1": "ENCHANTED_GOLD_BLOCK;50",
