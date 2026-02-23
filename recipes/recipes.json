@@ -2033,7 +2033,7 @@
     ]
   },
   "ATOMINIZER": {
-    "name": "§f§f§5Atominizer",
+    "name": "§5Atominizer",
     "recipe": {
       "A1": "SKYBLOCK_COIN;95000",
       "B1": "ENCHANTED_MYCELIUM;500",
