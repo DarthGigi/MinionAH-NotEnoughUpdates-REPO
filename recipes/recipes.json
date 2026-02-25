@@ -1760,7 +1760,7 @@
   "ARROW": {
     "name": "§fFlint Arrow",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;200",
+      "A1": "SKYBLOCK_COIN;40",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -4415,25 +4415,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Blood_Donor_Talisman",
       "https://wiki.hypixel.net/Blood_Donor_Talisman"
-    ]
-  },
-  "BLOOD_GOD_CREST:1": {
-    "name": "§fBlood God Crest",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;1000000",
-      "B1": "ENCHANTED_PORK;32",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Blood_God_Crest",
-      "https://wiki.hypixel.net/Blood_God_Crest"
     ]
   },
   "BLOOD_SOAKED_COINS": {
@@ -9932,11 +9913,11 @@
       "https://wiki.hypixel.net/Travel_Scroll_To_The_End"
     ]
   },
-  "DANTE_RING:1": {
-    "name": "§fDante Ring",
+  "DANTE_RING": {
+    "name": "§fDante's Ring",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;2000000",
-      "B1": "",
+      "A1": "SKYBLOCK_COIN;1000000",
+      "B1": "SHINY_SHARD;128",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -9969,7 +9950,7 @@
       "https://wiki.hypixel.net/Dark_Bait"
     ]
   },
-  "DARK_GOGGLES": {
+  "DARK_GOGGLES:1": {
     "name": "§9Dark Goggles",
     "recipe": {
       "A1": "SKYBLOCK_COIN;80000",
@@ -10297,11 +10278,11 @@
     },
     "wiki": []
   },
-  "DEATH_BOW": {
+  "DEATH_BOW:1": {
     "name": "§5Death Bow",
     "recipe": {
       "A1": "SKYBLOCK_COIN;5000000",
-      "B1": "SUPER_UNDEAD_BOW;undefined",
+      "B1": "SUPER_UNDEAD_BOW;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -11450,6 +11431,24 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Dull_Shark_Tooth_Necklace",
       "https://wiki.hypixel.net/Dull_Shark_Tooth_Necklace"
+    ]
+  },
+  "DUNGEONBREAKER:1": {
+    "name": "§cDungeonbreaker",
+    "recipe": {
+      "A1": "ESSENCE_WITHER;500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Dungeonbreaker"
     ]
   },
   "DWARVEN_COMPACTOR": {
@@ -18487,11 +18486,11 @@
       "https://wiki.hypixel.net/Ghoul_Buster"
     ]
   },
-  "GIANT_CLEAVER": {
+  "GIANT_CLEAVER:1": {
     "name": "§6Giant Cleaver",
     "recipe": {
       "A1": "SKYBLOCK_COIN;5000000",
-      "B1": "HYPER_CLEAVER;undefined",
+      "B1": "HYPER_CLEAVER;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -19101,6 +19100,25 @@
       "https://wiki.hypixel.net/Block_Of_Gold"
     ]
   },
+  "GOLD_BONZO_HEAD:1": {
+    "name": "§cGolden Bonzo Head",
+    "recipe": {
+      "A1": "ESSENCE_GOLD;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Bonzo_Head",
+      "https://wiki.hypixel.net/Golden_Bonzo_Head"
+    ]
+  },
   "GOLD_BOOTS": {
     "name": "§fGolden Boots",
     "recipe": {
@@ -19589,6 +19607,44 @@
       "https://wiki.hypixel.net/Golden_Leggings"
     ]
   },
+  "GOLD_LIVID_HEAD:1": {
+    "name": "§cGolden Livid Head",
+    "recipe": {
+      "A1": "ESSENCE_GOLD;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Livid_Head",
+      "https://wiki.hypixel.net/Golden_Livid_Head"
+    ]
+  },
+  "GOLD_NECRON_HEAD:1": {
+    "name": "§cGolden Necron Head",
+    "recipe": {
+      "A1": "ESSENCE_GOLD;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Necron_Head",
+      "https://wiki.hypixel.net/Golden_Necron_Head"
+    ]
+  },
   "GOLD_PICKAXE": {
     "name": "§fGolden Pickaxe",
     "recipe": {
@@ -19620,6 +19676,63 @@
       "C3": ""
     },
     "wiki": []
+  },
+  "GOLD_PROFESSOR_HEAD:1": {
+    "name": "§cGolden Professor Head",
+    "recipe": {
+      "A1": "ESSENCE_GOLD;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Professor_Head",
+      "https://wiki.hypixel.net/Golden_Professor_Head"
+    ]
+  },
+  "GOLD_SADAN_HEAD:1": {
+    "name": "§cGolden Sadan Head",
+    "recipe": {
+      "A1": "ESSENCE_GOLD;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Sadan_Head",
+      "https://wiki.hypixel.net/Golden_Sadan_Head"
+    ]
+  },
+  "GOLD_SCARF_HEAD:1": {
+    "name": "§cGolden Scarf Head",
+    "recipe": {
+      "A1": "ESSENCE_GOLD;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Scarf_Head",
+      "https://wiki.hypixel.net/Golden_Scarf_Head"
+    ]
   },
   "GOLD_SPADE": {
     "name": "§fGolden Shovel",
@@ -19653,6 +19766,25 @@
     },
     "wiki": [
       "https://wiki.hypixel.net/Golden_Sword"
+    ]
+  },
+  "GOLD_THORN_HEAD:1": {
+    "name": "§cGolden Thorn Head",
+    "recipe": {
+      "A1": "ESSENCE_GOLD;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Golden_Thorn_Head",
+      "https://wiki.hypixel.net/Golden_Thorn_Head"
     ]
   },
   "GOLD_TIPPED_ARROW:64": {
@@ -22134,11 +22266,11 @@
       "https://wiki.hypixel.net/Hyper_Catalyst_Upgrade"
     ]
   },
-  "HYPER_CLEAVER": {
+  "HYPER_CLEAVER:1": {
     "name": "§5Hyper Cleaver",
     "recipe": {
       "A1": "SKYBLOCK_COIN;800000",
-      "B1": "SUPER_CLEAVER;undefined",
+      "B1": "SUPER_CLEAVER;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -23128,7 +23260,7 @@
       "https://wiki.hypixel.net/Inferno_Vertex"
     ]
   },
-  "INFINI_TORCH": {
+  "INFINI_TORCH:1": {
     "name": "§5InfiniTorch™",
     "recipe": {
       "A1": "SKYBLOCK_COIN;100000",
@@ -25196,8 +25328,8 @@
       "https://wiki.hypixel.net/Yellow_Lamp"
     ]
   },
-  "LANTERN": {
-    "name": "§9Lantern",
+  "LANTERN:1": {
+    "name": "§fDwarven Lantern",
     "recipe": {
       "A1": "SKYBLOCK_COIN;10000",
       "B1": "",
@@ -28059,11 +28191,11 @@
       "https://wiki.hypixel.net/Melon_Slice"
     ]
   },
-  "MENDER_CROWN": {
+  "MENDER_CROWN:1": {
     "name": "§5Mender Crown",
     "recipe": {
       "A1": "SKYBLOCK_COIN;5000000",
-      "B1": "MENDER_FEDORA;undefined",
+      "B1": "MENDER_FEDORA;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -28078,11 +28210,11 @@
       "https://wiki.hypixel.net/Mender_Crown"
     ]
   },
-  "MENDER_FEDORA": {
+  "MENDER_FEDORA:1": {
     "name": "§5Mender Fedora",
     "recipe": {
       "A1": "SKYBLOCK_COIN;800000",
-      "B1": "MENDER_HELMET;undefined",
+      "B1": "MENDER_HELMET;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -28097,7 +28229,7 @@
       "https://wiki.hypixel.net/Mender_Fedora"
     ]
   },
-  "MENDER_HELMET": {
+  "MENDER_HELMET:1": {
     "name": "§9Mender Helmet",
     "recipe": {
       "A1": "SKYBLOCK_COIN;80000",
@@ -28234,6 +28366,25 @@
     "recipe": {
       "A1": "SKYBLOCK_COIN;800000",
       "B1": "STONE_CHESTPLATE;undefined",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Metal_Chestplate",
+      "https://wiki.hypixel.net/Metal_Chestplate"
+    ]
+  },
+  "METAL_CHESTPLATE:1": {
+    "name": "§5Metal Chestplate",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;800000",
+      "B1": "STONE_CHESTPLATE;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -33228,24 +33379,6 @@
       "https://wiki.hypixel.net/Pig_Minion_IX"
     ]
   },
-  "PIGGY_BANK": {
-    "name": "§aPiggy Bank",
-    "recipe": {
-      "A1": "ENCHANTED_PORK;5",
-      "B1": "ENCHANTED_PORK;5",
-      "C1": "ENCHANTED_PORK;5",
-      "A2": "ENCHANTED_PORK;5",
-      "B2": "CHEST;1",
-      "C2": "ENCHANTED_PORK;5",
-      "A3": "ENCHANTED_PORK;5",
-      "B3": "ENCHANTED_PORK;5",
-      "C3": "ENCHANTED_PORK;5"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Piggy_Bank",
-      "https://wiki.hypixel.net/Piggy_Bank"
-    ]
-  },
   "PIGMAN_SWORD": {
     "name": "§6Pigman Sword",
     "recipe": {
@@ -33751,7 +33884,7 @@
   "POTION": {
     "name": "§fWater Bottle",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;30000",
+      "A1": "SKYBLOCK_COIN;6",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -37368,6 +37501,25 @@
       "https://wiki.hypixel.net/Rod_Of_The_Sea"
     ]
   },
+  "ROGUE_SWORD": {
+    "name": "§fRogue Sword",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Rogue_Sword",
+      "https://wiki.hypixel.net/Rogue_Sword"
+    ]
+  },
   "ROOFED_FOREST_BIOME_STICK": {
     "name": "§fRoofed Forest Biome Stick",
     "recipe": {
@@ -38721,11 +38873,11 @@
       "https://wiki.hypixel.net/Serrated_Claws"
     ]
   },
-  "SHADOW_GOGGLES": {
+  "SHADOW_GOGGLES:1": {
     "name": "§5Shadow Goggles",
     "recipe": {
       "A1": "SKYBLOCK_COIN;800000",
-      "B1": "DARK_GOGGLES;undefined",
+      "B1": "DARK_GOGGLES;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -39300,8 +39452,8 @@
       "https://wiki.hypixel.net/Shiniest"
     ]
   },
-  "SHINY_ORB:1": {
-    "name": "§6Shiny Orb",
+  "SHINY_ORB": {
+    "name": "§fShiny Orb",
     "recipe": {
       "A1": "SKYBLOCK_COIN;5000",
       "B1": "",
@@ -39340,15 +39492,16 @@
   "SHINY_ROD": {
     "name": "§6Shiny Rod",
     "recipe": {
-      "A1": "",
+      "A1": "SHINY_SHARD;128",
       "B1": "",
-      "C1": "SHINY_SHARD;1",
+      "C1": "",
       "A2": "",
-      "B2": "SHINY_SHARD;1",
-      "C2": "STRING;1",
-      "A3": "SHINY_SHARD;1",
+      "B2": "",
+      "C2": "",
+      "A3": "",
       "B3": "",
-      "C3": "CARROT_ITEM;1"
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Shiny_Rod",
@@ -44183,11 +44336,11 @@
       "https://wiki.hypixel.net/Steak_Stake"
     ]
   },
-  "STEEL_CHESTPLATE": {
+  "STEEL_CHESTPLATE:1": {
     "name": "§5Steel Chestplate",
     "recipe": {
       "A1": "SKYBLOCK_COIN;5000000",
-      "B1": "METAL_CHESTPLATE;undefined",
+      "B1": "METAL_CHESTPLATE;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -44391,6 +44544,25 @@
     }
   },
   "STONE_CHESTPLATE": {
+    "name": "§9Stone Chestplate",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;80000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Stone_Chestplate",
+      "https://wiki.hypixel.net/Stone_Chestplate"
+    ]
+  },
+  "STONE_CHESTPLATE:1": {
     "name": "§9Stone Chestplate",
     "recipe": {
       "A1": "SKYBLOCK_COIN;80000",
@@ -45297,11 +45469,11 @@
     },
     "wiki": []
   },
-  "SUPER_CLEAVER": {
+  "SUPER_CLEAVER:1": {
     "name": "§9Super Cleaver",
     "recipe": {
       "A1": "SKYBLOCK_COIN;80000",
-      "B1": "",
+      "B1": "CLEAVER;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -45405,11 +45577,11 @@
     },
     "wiki": []
   },
-  "SUPER_UNDEAD_BOW": {
+  "SUPER_UNDEAD_BOW:1": {
     "name": "§5Super Undead Bow",
     "recipe": {
       "A1": "SKYBLOCK_COIN;800000",
-      "B1": "UNDEAD_BOW;undefined",
+      "B1": "UNDEAD_BOW;1",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -45446,6 +45618,24 @@
     "name": "§9Superboom TNT",
     "recipe": {
       "A1": "SKYBLOCK_COIN;2500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Superboom_Tnt"
+    ]
+  },
+  "SUPERBOOM_TNT:1": {
+    "name": "§9Superboom TNT",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;3000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -46501,12 +46691,12 @@
       "https://wiki.hypixel.net/Tessellated_Ender_Pearl"
     ]
   },
-  "THE_ART_OF_WAR:1": {
+  "THE_ART_OF_WAR": {
     "name": "§6The Art of War",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;7500000",
-      "B1": "ENCHANTED_GRILLED_PORK;2",
-      "C1": "",
+      "A1": "SKYBLOCK_COIN;5000000",
+      "B1": "ENCHANTED_GRILLED_PORK;undefined",
+      "C1": "SHINY_SHARD;256",
       "A2": "",
       "B2": "",
       "C2": "",
@@ -47503,7 +47693,7 @@
       "https://wiki.hypixel.net/Umberella"
     ]
   },
-  "UNDEAD_BOW": {
+  "UNDEAD_BOW:1": {
     "name": "§9Undead Bow",
     "recipe": {
       "A1": "SKYBLOCK_COIN;80000",
@@ -49320,11 +49510,11 @@
       "https://wiki.hypixel.net/Wither_Bow"
     ]
   },
-  "WITHER_GOGGLES": {
+  "WITHER_GOGGLES:1": {
     "name": "§5Wither Goggles",
     "recipe": {
       "A1": "SKYBLOCK_COIN;5000000",
-      "B1": "SHADOW_GOGGLES;undefined",
+      "B1": "SHADOW_GOGGLES;1",
       "C1": "",
       "A2": "",
       "B2": "",
