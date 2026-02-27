@@ -18534,6 +18534,22 @@
       "https://wiki.hypixel.net/Giant_Frog_Treat"
     ]
   },
+  "GIANT_PIG_EAR": {
+    "name": "§6Giant Pig's Ear",
+    "recipe": {
+      "A1": "ENCHANTED_GRILLED_PORK;undefined",
+      "B1": "SHINY_SHARD;32",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "GILLSPLASH_BELT": {
     "name": "§6Gillsplash Belt",
     "recipe": {
@@ -25813,6 +25829,22 @@
       "https://wiki.hypixel.net/Large_Nether_Sack"
     ]
   },
+  "LARGE_PIG_EAR": {
+    "name": "§5Large Pig's Ear",
+    "recipe": {
+      "A1": "ENCHANTED_PORK;64",
+      "B1": "SHINY_SHARD;32",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "LARGE_SLAYER_SACK": {
     "name": "§5Large Slayer Sack",
     "recipe": {
@@ -27790,6 +27822,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Medium_Nether_Sack",
       "https://wiki.hypixel.net/Medium_Nether_Sack"
     ]
+  },
+  "MEDIUM_PIG_EAR": {
+    "name": "§9Medium Pig's Ear",
+    "recipe": {
+      "A1": "ENCHANTED_PORK;32",
+      "B1": "SHINY_SHARD;32",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "MEDIUM_POCKET_BLACK_HOLE:1": {
     "name": "§9Medium Pocket Black Hole",
@@ -40800,6 +40848,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Small_Nether_Sack",
       "https://wiki.hypixel.net/Small_Nether_Sack"
     ]
+  },
+  "SMALL_PIG_EAR": {
+    "name": "§aSmall Pig's Ear",
+    "recipe": {
+      "A1": "ENCHANTED_PORK;16",
+      "B1": "SHINY_SHARD;32",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "SMALL_POCKET_BLACK_HOLE:1": {
     "name": "§aSmall Pocket Black Hole",
