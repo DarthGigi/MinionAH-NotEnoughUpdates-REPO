@@ -4288,6 +4288,22 @@
       "https://wiki.hypixel.net/Blazetekk™_Ham_Radio"
     ]
   },
+  "BLENDED_FISH_MIXIN:1": {
+    "name": "§9Blended Fish Mixin",
+    "recipe": {
+      "A1": "WATERBORNE_LICE;128",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "BLESSED_BAIT": {
     "name": "§aBlessed Bait",
     "recipe": {
@@ -18550,6 +18566,22 @@
     },
     "wiki": []
   },
+  "GIANT_WITCH_CAULDRON:1": {
+    "name": "§6Giant Witch Cauldron",
+    "recipe": {
+      "A1": "SHIELD_DUST;64",
+      "B1": "PIXIE_DUST;64",
+      "C1": "RUFFLED_FEATHER;64",
+      "A2": "BRITTLE_POWDER;64",
+      "B2": "DIRTY_FINGERNAILS;64",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "GILLSPLASH_BELT": {
     "name": "§6Gillsplash Belt",
     "recipe": {
@@ -25901,6 +25933,22 @@
       "https://wiki.hypixel.net/Winter_Sack"
     ]
   },
+  "LARGE_WITCH_CAULDRON:1": {
+    "name": "§5Large Witch Cauldron",
+    "recipe": {
+      "A1": "SMOLDERING_EMBERS;64",
+      "B1": "WARMED_FLAKES;64",
+      "C1": "NEVER_MELT_ICE;64",
+      "A2": "GLACIATED_BRAINS;64",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "LARVA_HOOK:1.0": {
     "name": "§aLarva Hook",
     "recipe": {
@@ -27875,6 +27923,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Medium_Slayer_Sack",
       "https://wiki.hypixel.net/Medium_Slayer_Sack"
     ]
+  },
+  "MEDIUM_WITCH_CAULDRON:1": {
+    "name": "§9Medium Witch Cauldron",
+    "recipe": {
+      "A1": "WATERBORNE_LICE;64",
+      "B1": "CONSOLE_PANEL;64",
+      "C1": "JAWBREAKER;64",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "MELON_BARN_SKIN:1": {
     "name": "§6Melon Barn Skin",
@@ -33225,6 +33289,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Pig_Axe",
       "https://wiki.hypixel.net/Pig_Axe"
     ]
+  },
+  "PIG_BRAIN_MIXIN:1": {
+    "name": "§9Pig Brain Mixin",
+    "recipe": {
+      "A1": "FROG_LEGS;128",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "PIG_GENERATOR_1": {
     "name": "§9Pig Minion I",
@@ -40901,6 +40981,22 @@
       "https://hypixel-skyblock.fandom.com/wiki/Small_Slayer_Sack",
       "https://wiki.hypixel.net/Small_Slayer_Sack"
     ]
+  },
+  "SMALL_WITCH_CAULDRON:1": {
+    "name": "§aSmall Witch Cauldron",
+    "recipe": {
+      "A1": "SPIDER_EGG;64",
+      "B1": "FUNNY_BONE;64",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "SMITE": {
     "name": "§fEnchanted Book",
@@ -49600,6 +49696,86 @@
       "https://hypixel-skyblock.fandom.com/wiki/Storm%27s_Leggings",
       "https://wiki.hypixel.net/Storm%27s_Leggings"
     ]
+  },
+  "WITCH": {
+    "name": "§7[Lvl {LVL}] §fWitch",
+    "recipe": {
+      "A1": "FESTERING_FLY;64",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "WITCH_ARTIFACT:1": {
+    "name": "§9Witch's Artifact",
+    "recipe": {
+      "A1": "WITCH_RING;1",
+      "B1": "SMOLDERING_EMBERS;64",
+      "C1": "SPELL_SOOT;64",
+      "A2": "GELATINOUS_GLOOP;64",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "WITCH_RING:1": {
+    "name": "§aWitch's Ring",
+    "recipe": {
+      "A1": "WITCH_TALISMAN;1",
+      "B1": "VOID_OOZE;64",
+      "C1": "FROG_LEGS;64",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "WITCH_SACK:1": {
+    "name": "§5Witch's Sack",
+    "recipe": {
+      "A1": "FESTERING_FLY;16",
+      "B1": "SPIDER_EGG;16",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "WITCH_TALISMAN:1": {
+    "name": "§fWitch's Talisman",
+    "recipe": {
+      "A1": "FESTERING_FLY;32",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "WITHER_BOW": {
     "name": "§aWither Bow",
