@@ -33271,6 +33271,25 @@
       "https://wiki.hypixel.net/Tier_Boost"
     ]
   },
+  "PIG": {
+    "name": "§7[Lvl {LVL}] §fPig",
+    "recipe": {
+      "A1": "ENCHANTED_PORK;32",
+      "B1": "SHINY_SHARD;64",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Pig_Pet",
+      "https://wiki.hypixel.net/Pig_Pet"
+    ]
+  },
   "PIG_AXE": {
     "name": "§aPig Axe",
     "recipe": {
