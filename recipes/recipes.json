@@ -3447,8 +3447,8 @@
   "BIOHAZARD_BOOTS:1": {
     "name": "§aBiohazard Boots",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;40",
-      "B1": "MUSHROOM_BOOTS;1",
+      "A1": "MUSHROOM_BOOTS;1",
+      "B1": "SKYBLOCK_PEST;40",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -3466,8 +3466,8 @@
   "BIOHAZARD_HELMET:1": {
     "name": "§aBiohazard Helmet",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;50",
-      "B1": "MUSHROOM_HELMET;1",
+      "A1": "MUSHROOM_HELMET;1",
+      "B1": "SKYBLOCK_PEST;50",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -3485,8 +3485,8 @@
   "BIOHAZARD_LEGGINGS:1": {
     "name": "§aBiohazard Leggings",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;70",
-      "B1": "MUSHROOM_LEGGINGS;1",
+      "A1": "MUSHROOM_LEGGINGS;1",
+      "B1": "SKYBLOCK_PEST;70",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -3504,8 +3504,8 @@
   "BIOHAZARD_SUIT:1": {
     "name": "§aBiohazard Suit",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;80",
-      "B1": "MUSHROOM_CHESTPLATE;1",
+      "A1": "MUSHROOM_CHESTPLATE;1",
+      "B1": "SKYBLOCK_PEST;80",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -29383,7 +29383,7 @@
   "MOON_GREENHOUSE_SKIN": {
     "name": "§9Moon Greenhouse Skin",
     "recipe": {
-      "A1": "SKYBLOCK_GEM;500",
+      "A1": "SKYBLOCK_GEM;400",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -29492,8 +29492,8 @@
   "MOUSE_PEST_TRAP:1": {
     "name": "§5Mouse Trap",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;75",
-      "B1": "PEST_TRAP;1",
+      "A1": "PEST_TRAP;1",
+      "B1": "SKYBLOCK_PEST;75",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -31471,7 +31471,7 @@
   "ORCHARD_GREENHOUSE_SKIN": {
     "name": "§aOrchard Greenhouse Skin",
     "recipe": {
-      "A1": "SKYBLOCK_COPPER;2500",
+      "A1": "SKYBLOCK_COPPER;3000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -32822,8 +32822,8 @@
   "PESTHUNTER_ARTIFACT:1": {
     "name": "§5Pesthunter Artifact",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;100",
-      "B1": "PESTHUNTER_RING;1",
+      "A1": "PESTHUNTER_RING;1",
+      "B1": "SKYBLOCK_PEST;100",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -32860,8 +32860,8 @@
   "PESTHUNTER_RELIC:1": {
     "name": "§6Pesthunter Relic",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;200",
-      "B1": "PESTHUNTER_ARTIFACT;1",
+      "A1": "PESTHUNTER_ARTIFACT;1",
+      "B1": "SKYBLOCK_PEST;200",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -32878,8 +32878,8 @@
   "PESTHUNTER_RING:1": {
     "name": "§9Pesthunter Ring",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;50",
-      "B1": "PESTHUNTER_BADGE;1",
+      "A1": "PESTHUNTER_BADGE;1",
+      "B1": "SKYBLOCK_PEST;50",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -32894,8 +32894,46 @@
       "https://wiki.hypixel.net/Pesthunter_Ring"
     ]
   },
+  "PESTHUNTERS_BELT:1": {
+    "name": "§9Pesthunter's Belt",
+    "recipe": {
+      "A1": "SKYBLOCK_PEST;40",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Pesthunter%27s_Belt",
+      "https://wiki.hypixel.net/Pesthunter%27s_Belt"
+    ]
+  },
+  "PESTHUNTERS_CLOAK:1": {
+    "name": "§9Pesthunter's Cloak",
+    "recipe": {
+      "A1": "SKYBLOCK_PEST;40",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Pesthunter%27s_Cloak",
+      "https://wiki.hypixel.net/Pesthunter%27s_Cloak"
+    ]
+  },
   "PESTHUNTERS_GLOVES:1": {
-    "name": "§9Squeaky Pesthunter's Gloves",
+    "name": "§9Pesthunter's Gloves",
     "recipe": {
       "A1": "SKYBLOCK_PEST;40",
       "B1": "",
@@ -32930,6 +32968,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Pesthunter%27s_Lair_Barn_Skin",
       "https://wiki.hypixel.net/Pesthunter%27s_Lair_Barn_Skin"
+    ]
+  },
+  "PESTHUNTERS_NECKLACE:1": {
+    "name": "§9Pesthunter's Necklace",
+    "recipe": {
+      "A1": "SKYBLOCK_PEST;40",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Pesthunter%27s_Necklace",
+      "https://wiki.hypixel.net/Pesthunter%27s_Necklace"
     ]
   },
   "PESTHUNTING_GUIDE:1": {
@@ -45499,7 +45556,7 @@
     ]
   },
   "SUNDER": {
-    "name": "§9Enchanted Book",
+    "name": "§fEnchanted Book",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;10",
       "B1": "",
@@ -47462,6 +47519,25 @@
       "count": 1
     },
     "wiki": []
+  },
+  "TRADING_POST_BARN_SKIN:1": {
+    "name": "§aTrading Post Barn Skin",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;1000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Trading_Post_Barn_Skin",
+      "https://wiki.hypixel.net/Trading_Post_Barn_Skin"
+    ]
   },
   "TRAINING_DUMMY": {
     "name": "§aTraining Dummy",
