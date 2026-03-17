@@ -18553,8 +18553,8 @@
   "GIANT_PIG_EAR": {
     "name": "§6Giant Pig's Ear",
     "recipe": {
-      "A1": "ENCHANTED_GRILLED_PORK;undefined",
-      "B1": "SHINY_SHARD;32",
+      "A1": "SHINY_SHARD;256",
+      "B1": "ENCHANTED_GRILLED_PORK;undefined",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -25864,8 +25864,8 @@
   "LARGE_PIG_EAR": {
     "name": "§5Large Pig's Ear",
     "recipe": {
-      "A1": "ENCHANTED_PORK;64",
-      "B1": "SHINY_SHARD;32",
+      "A1": "SHINY_SHARD;128",
+      "B1": "ENCHANTED_PORK;64",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -27874,8 +27874,8 @@
   "MEDIUM_PIG_EAR": {
     "name": "§9Medium Pig's Ear",
     "recipe": {
-      "A1": "ENCHANTED_PORK;32",
-      "B1": "SHINY_SHARD;32",
+      "A1": "SHINY_SHARD;64",
+      "B1": "ENCHANTED_PORK;32",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -33331,8 +33331,8 @@
   "PIG": {
     "name": "§7[Lvl {LVL}] §fPig",
     "recipe": {
-      "A1": "ENCHANTED_PORK;32",
-      "B1": "SHINY_SHARD;64",
+      "A1": "SHINY_SHARD;64",
+      "B1": "ENCHANTED_PORK;32",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -41008,8 +41008,8 @@
   "SMALL_PIG_EAR": {
     "name": "§aSmall Pig's Ear",
     "recipe": {
-      "A1": "ENCHANTED_PORK;16",
-      "B1": "SHINY_SHARD;32",
+      "A1": "SHINY_SHARD;32",
+      "B1": "ENCHANTED_PORK;16",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -46978,8 +46978,8 @@
     "name": "§6The Art of War",
     "recipe": {
       "A1": "SKYBLOCK_COIN;5000000",
-      "B1": "ENCHANTED_GRILLED_PORK;undefined",
-      "C1": "SHINY_SHARD;256",
+      "B1": "SHINY_SHARD;256",
+      "C1": "ENCHANTED_GRILLED_PORK;undefined",
       "A2": "",
       "B2": "",
       "C2": "",
