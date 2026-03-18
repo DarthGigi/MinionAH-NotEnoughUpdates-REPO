@@ -36803,15 +36803,16 @@
   "REFORGE_ANVIL": {
     "name": "§5Reforge Anvil",
     "recipe": {
-      "A1": "ENCHANTED_OBSIDIAN;64",
-      "B1": "ENCHANTED_OBSIDIAN;64",
-      "C1": "ENCHANTED_OBSIDIAN;64",
+      "A1": "SKYBLOCK_COIN;2000000",
+      "B1": "",
+      "C1": "",
       "A2": "",
-      "B2": "ENCHANTED_OBSIDIAN;64",
+      "B2": "",
       "C2": "",
-      "A3": "ENCHANTED_IRON;64",
-      "B3": "ENCHANTED_IRON;64",
-      "C3": "ENCHANTED_IRON;64"
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Reforge_Anvil",
