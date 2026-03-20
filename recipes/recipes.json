@@ -3873,7 +3873,7 @@
     ]
   },
   "BLACK_WOOLEN_YARN:1": {
-    "name": "§9Black Woolen Yarn",
+    "name": "§dBlack Woolen Yarn",
     "recipe": {
       "A1": "DARK_CANDY;100.0",
       "B1": "",
@@ -26859,7 +26859,7 @@
     ]
   },
   "MAGIC_TOP_HAT:1": {
-    "name": "§6Magic Top Hat",
+    "name": "§dMagic Top Hat",
     "recipe": {
       "A1": "SKYBLOCK_NORTH_STAR;500",
       "B1": "VOLCANIC_ROCK;10",
@@ -29269,7 +29269,7 @@
     ]
   },
   "MIXED_MITE_GEL": {
-    "name": "§6Mixed Mite Gel",
+    "name": "§dMixed Mite Gel",
     "recipe": {
       "A1": "",
       "B1": "MITE_GEL;32",
@@ -32582,7 +32582,7 @@
     ]
   },
   "PERFECTLY_CUT_DIAMOND": {
-    "name": "§f§f§6Perfectly Cut Diamond",
+    "name": "§6Perfectly Cut Diamond",
     "recipe": {
       "A1": "ESSENCE_DIAMOND;1000",
       "B1": "REFINED_DIAMOND;2",
@@ -42679,7 +42679,7 @@
     ]
   },
   "SPOOKY_TREE:1": {
-    "name": "§f§f§5Great Spook Tree",
+    "name": "§5Great Spook Tree",
     "recipe": {
       "A1": "DARK_CANDY;170.0",
       "B1": "",
@@ -43632,7 +43632,7 @@
     "wiki": []
   },
   "STAINED_GLASS_PANE-15": {
-    "name": "§fBlack Stained Glass Pane",
+    "name": " ",
     "recipe": {
       "A1": "SKYBLOCK_COIN;16",
       "B1": "",
@@ -46063,7 +46063,7 @@
     ]
   },
   "SYNTHESIZER_V1": {
-    "name": "§f§f§5Synthesizer v1",
+    "name": "§5Synthesizer v1",
     "recipe": {
       "A1": "X;64",
       "B1": "",
@@ -46081,7 +46081,7 @@
     ]
   },
   "SYNTHESIZER_V2": {
-    "name": "§f§f§5Synthesizer v2",
+    "name": "§5Synthesizer v2",
     "recipe": {
       "A1": "Y;64",
       "B1": "Y;64",
@@ -46099,7 +46099,7 @@
     ]
   },
   "SYNTHESIZER_V3": {
-    "name": "§f§f§5Synthesizer v3",
+    "name": "§5Synthesizer v3",
     "recipe": {
       "A1": "Z;64",
       "B1": "Z;64",
