@@ -1593,7 +1593,7 @@
     "wiki": []
   },
   "ARACHNE_CRYSTAL": {
-    "name": "§9Arachne Crystal",
+    "name": "§5Arachne Crystal",
     "recipe": {
       "A1": "ARACHNE_FRAGMENT;3",
       "B1": "ENCHANTED_SPIDER_EYE;8",
@@ -8833,6 +8833,54 @@
       "A3": "",
       "B3": "",
       "C3": ""
+    },
+    "wiki": []
+  },
+  "COPPER_ARTIFACT:1": {
+    "name": "§9Copper Artifact",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;50000",
+      "B1": "COPPER_RING;undefined",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "COPPER_RING:1": {
+    "name": "§aCopper Ring",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;20000",
+      "B1": "COPPER_TALISMAN;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "COPPER_TALISMAN:1": {
+    "name": "§fCopper Talisman",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -28531,7 +28579,7 @@
     ]
   },
   "METEOR_SHARD": {
-    "name": "§9Meteor Shard",
+    "name": "§9Meteor Chunk",
     "recipe": {
       "A1": "SILVER_FANG;10",
       "B1": "STARFALL;5",
@@ -29514,7 +29562,7 @@
     "name": "§9Glowing Mush Mixin",
     "recipe": {
       "A1": "FULL_CHUM_BUCKET;64",
-      "B1": "GLOWING_MUSHROOM;80",
+      "B1": "GLOWING_MUSHROOM;32",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -36799,25 +36847,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Polished_Titanium_Pickaxe",
       "https://wiki.hypixel.net/Polished_Titanium_Pickaxe"
-    ]
-  },
-  "REFORGE_ANVIL": {
-    "name": "§5Reforge Anvil",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;2000000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Reforge_Anvil",
-      "https://wiki.hypixel.net/Reforge_Anvil"
     ]
   },
   "REHEATED_GUMMY_POLAR_BEAR": {
@@ -45833,6 +45862,22 @@
       "https://wiki.hypixel.net/Mystical_Mushroom_Soup"
     ]
   },
+  "SUPER_SCORCHER:1": {
+    "name": "§5Super Scorcher",
+    "recipe": {
+      "A1": "SKYBLOCK_MOTE;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "SUPER_SCRUBBER": {
     "name": "§9Super Scrubber",
     "recipe": {
@@ -47931,23 +47976,6 @@
       "C3": "COMPACTED_MOONFLOWER;2"
     },
     "wiki": []
-  },
-  "ULTIMATE_HABANERO_TACTICS;4": {
-    "name": "§fEnchanted Book",
-    "recipe": {
-      "A1": "STUFFED_CHILI_PEPPER;1",
-      "B1": "ENCHANTED_HUGE_MUSHROOM_1;64",
-      "C1": "STUFFED_CHILI_PEPPER;1",
-      "A2": "ENCHANTED_RABBIT_HIDE;8",
-      "B2": "PLASMA;4",
-      "C2": "ENCHANTED_RABBIT_HIDE;8",
-      "A3": "STUFFED_CHILI_PEPPER;1",
-      "B3": "ENCHANTED_HUGE_MUSHROOM_1;64",
-      "C3": "STUFFED_CHILI_PEPPER;1"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
-    ]
   },
   "ULTIMATE_REFRIGERATE": {
     "name": "§fEnchanted Book",
