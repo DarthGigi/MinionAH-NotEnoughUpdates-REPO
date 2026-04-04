@@ -12316,7 +12316,7 @@
   "EMPTY_CHUM_BUCKET:1": {
     "name": "§fEmpty Chum Bucket",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;1940",
+      "A1": "SKYBLOCK_COIN;2000",
       "B1": "GLOWING_MUSHROOM;8",
       "C1": "",
       "A2": "",
@@ -18883,6 +18883,22 @@
       "https://wiki.hypixel.net/Glossy_Mineral_Talisman"
     ]
   },
+  "GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL": {
+    "name": "§9Travel Scroll to the Glowing Mushroom Cave",
+    "recipe": {
+      "A1": "FULL_CHUM_BUCKET;64",
+      "B1": "GLOWING_MUSHROOM;32",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "GLOWSTONE": {
     "name": "§fGlowstone",
     "recipe": {
@@ -19120,7 +19136,7 @@
   "GLOWY_CHUM_BAIT:16": {
     "name": "§aGlowy Chum Bait",
     "recipe": {
-      "A1": "FULL_CHUM_BUCKET;1",
+      "A1": "FULL_CHUM_BUCKET;undefined",
       "B1": "GLOWING_MUSHROOM;4",
       "C1": "",
       "A2": "",
@@ -29562,7 +29578,7 @@
     "name": "§9Glowing Mush Mixin",
     "recipe": {
       "A1": "FULL_CHUM_BUCKET;64",
-      "B1": "GLOWING_MUSHROOM;32",
+      "B1": "GLOWING_MUSHROOM;80",
       "C1": "",
       "A2": "",
       "B2": "",
