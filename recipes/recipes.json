@@ -15086,7 +15086,10 @@
       "B3": "INK_SACK:4;1",
       "C3": "INK_SACK:4;1"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Experience_Bottle",
+      "https://wiki.hypixel.net/Experience_Bottle"
+    ]
   },
   "EXPERIENCE": {
     "name": "§fEnchanted Book",
