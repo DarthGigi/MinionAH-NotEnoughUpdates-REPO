@@ -1574,7 +1574,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/AquaMaster_Hydromax"
+    ]
   },
   "AQUAMASTER_X": {
     "name": "§5AquaMaster™ X",
@@ -1590,7 +1592,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/AquaMaster_X"
+    ]
   },
   "ARACHNE_CRYSTAL": {
     "name": "§5Arachne Crystal",
@@ -4303,7 +4307,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Blended_Fish_Mixin"
+    ]
   },
   "BLESSED_BAIT": {
     "name": "§aBlessed Bait",
@@ -8840,7 +8846,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Copper_Artifact"
+    ]
   },
   "COPPER_RING:1": {
     "name": "§aCopper Ring",
@@ -8856,7 +8864,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Copper_Ring"
+    ]
   },
   "COPPER_TALISMAN:1": {
     "name": "§fCopper Talisman",
@@ -8872,7 +8882,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Copper_Talisman"
+    ]
   },
   "CORRUPT_SOIL": {
     "name": "§5Corrupt Soil",
@@ -18603,7 +18615,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Giant_Pig%27s_Ear"
+    ]
   },
   "GIANT_WITCH_CAULDRON:1": {
     "name": "§6Giant Witch Cauldron",
@@ -18619,7 +18633,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Giant_Witch_Cauldron"
+    ]
   },
   "GILLSPLASH_BELT": {
     "name": "§6Gillsplash Belt",
@@ -18886,7 +18902,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Travel_Scroll_to_the_Glowing_Mushroom_Cave"
+    ]
   },
   "GLOWSTONE": {
     "name": "§fGlowstone",
@@ -25924,7 +25942,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Large_Pig%27s_Ear"
+    ]
   },
   "LARGE_SLAYER_SACK": {
     "name": "§5Large Slayer Sack",
@@ -25996,7 +26016,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Large_Witch_Cauldron"
+    ]
   },
   "LARVA_HOOK:1.0": {
     "name": "§aLarva Hook",
@@ -27935,7 +27957,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Medium_Pig%27s_Ear"
+    ]
   },
   "MEDIUM_POCKET_BLACK_HOLE:1": {
     "name": "§9Medium Pocket Black Hole",
@@ -27988,7 +28012,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Medium_Witch_Cauldron"
+    ]
   },
   "MELON_BARN_SKIN:1": {
     "name": "§6Melon Barn Skin",
@@ -33232,7 +33258,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Pig_Brain_Mixin"
+    ]
   },
   "PIG_GENERATOR_1": {
     "name": "§9Pig Minion I",
@@ -40781,7 +40809,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Pig%27s_Ear"
+    ]
   },
   "SMALL_POCKET_BLACK_HOLE:1": {
     "name": "§aSmall Pocket Black Hole",
@@ -40834,7 +40864,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Witch_Cauldron"
+    ]
   },
   "SMITE": {
     "name": "§fEnchanted Book",
@@ -45305,7 +45337,9 @@
       "B3": "DOUBLE_PLANT;16",
       "C3": "DOUBLE_PLANT;16"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_10": {
     "name": "§9Sunflower Minion X",
@@ -45320,7 +45354,9 @@
       "B3": "COMPACTED_SUNFLOWER;1",
       "C3": "COMPACTED_SUNFLOWER;1"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_11": {
     "name": "§9Sunflower Minion XI",
@@ -45335,7 +45371,9 @@
       "B3": "COMPACTED_SUNFLOWER;2",
       "C3": "COMPACTED_SUNFLOWER;2"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_12": {
     "name": "§9Sunflower Minion XII",
@@ -45351,7 +45389,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_2": {
     "name": "§9Sunflower Minion II",
@@ -45366,7 +45406,9 @@
       "B3": "DOUBLE_PLANT;20",
       "C3": "DOUBLE_PLANT;20"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_3": {
     "name": "§9Sunflower Minion III",
@@ -45381,7 +45423,9 @@
       "B3": "DOUBLE_PLANT;40",
       "C3": "DOUBLE_PLANT;40"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_4": {
     "name": "§9Sunflower Minion IV",
@@ -45396,7 +45440,9 @@
       "B3": "DOUBLE_PLANT;64",
       "C3": "DOUBLE_PLANT;64"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_5": {
     "name": "§9Sunflower Minion V",
@@ -45411,7 +45457,9 @@
       "B3": "ENCHANTED_SUNFLOWER;1",
       "C3": "ENCHANTED_SUNFLOWER;1"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_6": {
     "name": "§9Sunflower Minion VI",
@@ -45426,7 +45474,9 @@
       "B3": "ENCHANTED_SUNFLOWER;3",
       "C3": "ENCHANTED_SUNFLOWER;3"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_7": {
     "name": "§9Sunflower Minion VII",
@@ -45441,7 +45491,9 @@
       "B3": "ENCHANTED_SUNFLOWER;8",
       "C3": "ENCHANTED_SUNFLOWER;8"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_8": {
     "name": "§9Sunflower Minion VIII",
@@ -45456,7 +45508,9 @@
       "B3": "ENCHANTED_SUNFLOWER;16",
       "C3": "ENCHANTED_SUNFLOWER;16"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUNFLOWER_GENERATOR_9": {
     "name": "§9Sunflower Minion IX",
@@ -45471,7 +45525,9 @@
       "B3": "ENCHANTED_SUNFLOWER;64",
       "C3": "ENCHANTED_SUNFLOWER;64"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sunflower_Minion"
+    ]
   },
   "SUPER_CLEAVER:1": {
     "name": "§9Super Cleaver",
@@ -45579,7 +45635,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Super_Scorcher"
+    ]
   },
   "SUPER_SCRUBBER": {
     "name": "§9Super Scrubber",
@@ -45595,7 +45653,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Super_Scrubber"
+    ]
   },
   "SUPER_UNDEAD_BOW:1": {
     "name": "§5Super Undead Bow",
@@ -46801,7 +46861,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Eclipse_Hoe_Mk._I"
+    ]
   },
   "THEORETICAL_HOE_WARTS_1": {
     "name": "§aNewton Nether Wart Hoe Mk. I",
@@ -46855,7 +46917,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Wild_Rose_Hoe_Mk._I"
+    ]
   },
   "THIN_GLASS": {
     "name": "§fGlass Pane",
@@ -49528,7 +49592,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Witch_Pet"
+    ]
   },
   "WITCH_ARTIFACT:1": {
     "name": "§9Witch's Artifact",
@@ -49544,7 +49610,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Witch%27s_Artifact"
+    ]
   },
   "WITCH_RING:1": {
     "name": "§aWitch's Ring",
@@ -49560,7 +49628,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Witch%27s_Ring"
+    ]
   },
   "WITCH_SACK:1": {
     "name": "§5Witch's Sack",
@@ -49576,7 +49646,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Witch%27s_Sack"
+    ]
   },
   "WITCH_TALISMAN:1": {
     "name": "§fWitch's Talisman",
@@ -49592,7 +49664,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Witch%27s_Talisman"
+    ]
   },
   "WITHER_BOW": {
     "name": "§aWither Bow",
