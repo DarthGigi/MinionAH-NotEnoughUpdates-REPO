@@ -1725,6 +1725,25 @@
       "https://wiki.hypixel.net/Yog_Leggings"
     ]
   },
+  "ARMOR_SHOWCASE:1": {
+    "name": "§aArmor Stand",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Armor_Stand",
+      "https://wiki.hypixel.net/Armor_Stand"
+    ]
+  },
   "ARMOR_STAND": {
     "name": "§fArmor Stand",
     "recipe": {
@@ -7149,6 +7168,25 @@
     },
     "wiki": []
   },
+  "CHEST_SHELVES:1": {
+    "name": "§fChest Storage",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;15000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Chest_Storage",
+      "https://wiki.hypixel.net/Chest_Storage"
+    ]
+  },
   "CHESTPLATE_OF_THE_PACK": {
     "name": "§5Chestplate of the Pack",
     "recipe": {
@@ -9211,6 +9249,25 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Barn_Skins",
       "https://wiki.hypixel.net/Cozy_Cottage_Barn_Skin"
+    ]
+  },
+  "CRAFTING_PLUS:1": {
+    "name": "§9Crafting Table+",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;10000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Crafting_Table+",
+      "https://wiki.hypixel.net/Crafting_Table+"
     ]
   },
   "CREEPER_GENERATOR_1": {
@@ -14386,6 +14443,25 @@
       "https://wiki.hypixel.net/Enchanted_Wool"
     ]
   },
+  "ENCHANTING_PLUS:1": {
+    "name": "§9Enchanting Table+",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;10000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Enchanting_Table+",
+      "https://wiki.hypixel.net/Enchanting_Table+"
+    ]
+  },
   "ENCHANTMENT_TABLE": {
     "name": "§fEnchantment Table",
     "recipe": {
@@ -15293,6 +15369,25 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Extremely_Real_Shuriken",
       "https://wiki.hypixel.net/Extremely_Real_Shuriken"
+    ]
+  },
+  "FANCY_FLOWER_POT:1": {
+    "name": "§fFlower Pot",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;150",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Flower_Pot",
+      "https://wiki.hypixel.net/Flower_Pot"
     ]
   },
   "FANCY_SWORD": {
@@ -16476,6 +16571,25 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Firedust_Dagger",
       "https://wiki.hypixel.net/Firedust_Dagger"
+    ]
+  },
+  "FIREPLACE:1": {
+    "name": "§fFireplace",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;10000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fireplace",
+      "https://wiki.hypixel.net/Fireplace"
     ]
   },
   "FIREWORK": {
@@ -18091,6 +18205,25 @@
       "C3": "COBBLESTONE;1"
     },
     "wiki": []
+  },
+  "FURNACE_PLUS:1": {
+    "name": "§9Furnace+",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;15000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Furnace+",
+      "https://wiki.hypixel.net/Furnace+"
+    ]
   },
   "FUTURE_CALORIES": {
     "name": "§fFuture Calories Talisman",
@@ -38454,6 +38587,25 @@
       "https://wiki.hypixel.net/Scare_Fragment"
     ]
   },
+  "SCARECROW:1": {
+    "name": "§fScarecrow",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;120",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Scarecrow",
+      "https://wiki.hypixel.net/Scarecrow"
+    ]
+  },
   "SCARF_GRIMOIRE": {
     "name": "§6Scarf's Grimoire",
     "recipe": {
@@ -49008,6 +49160,25 @@
       "https://wiki.hypixel.net/Water_Orb"
     ]
   },
+  "WEAPON_RACK:1": {
+    "name": "§aWeapon Rack",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Weapon_Rack",
+      "https://wiki.hypixel.net/Weapon_Rack"
+    ]
+  },
   "WEATHER_NODE": {
     "name": "§aWeather Node",
     "recipe": {
@@ -49922,6 +50093,25 @@
       "C3": ""
     },
     "wiki": []
+  },
+  "WOOD_CHEST:1": {
+    "name": "§aWood Chest+",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;15000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Wood_Chest+",
+      "https://wiki.hypixel.net/Wood_Chest+"
+    ]
   },
   "WOOD_DOOR": {
     "name": "§fOak Door",
