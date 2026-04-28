@@ -3,13 +3,13 @@ name: Automated Wiki Updates
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'  # 2:00 AM UTC
+    - cron: "0 2 * * *" # 2:00 AM UTC
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
 
-    if: ${{ github.repository_id == '247692460' }}
+    if: ${{ github.repository_id == '928022928' }}
 
     steps:
       - name: Checkout repository
