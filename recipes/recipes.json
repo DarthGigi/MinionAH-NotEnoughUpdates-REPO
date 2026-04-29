@@ -5028,6 +5028,22 @@
     },
     "wiki": []
   },
+  "BREAD_BOWL:1": {
+    "name": "§cBread Bowl",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;10000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "BREWING_STAND_ITEM": {
     "name": "§fBrewing Stand",
     "recipe": {
@@ -7494,6 +7510,25 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Chilled_Pristine_Potato",
       "https://wiki.hypixel.net/Chilled_Pristine_Potato"
+    ]
+  },
+  "CHISEL": {
+    "name": "§fChisel",
+    "recipe": {
+      "A1": "ESSENCE_FOSSIL;5",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Chisel",
+      "https://wiki.hypixel.net/Chisel"
     ]
   },
   "CHRONO_PICKAXE": {
@@ -15772,6 +15807,38 @@
       "https://wiki.hypixel.net/Farming_Talisman"
     ]
   },
+  "FARMING_TOOLKIT": {
+    "name": "§9Farming Toolkit",
+    "recipe": {
+      "A1": "SKYBLOCK_COPPER;500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "FEAST": {
+    "name": "§fEnchanted Book",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;25",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "FEATHER_ARTIFACT": {
     "name": "§9Feather Artifact",
     "recipe": {
@@ -16397,6 +16464,22 @@
       "https://hypixelskyblock.minecraft.wiki/w/Gemstone",
       "https://wiki.hypixel.net/Gemstone"
     ]
+  },
+  "FINNS_FOCACCIA:1": {
+    "name": "§aFinn's Focaccia",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;50",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "FINWAVE_BELT": {
     "name": "§5Finwave Belt",
@@ -17931,6 +18014,86 @@
       "https://hypixelskyblock.minecraft.wiki/w/Fractured_Mithril_Pickaxe",
       "https://wiki.hypixel.net/Fractured_Mithril_Pickaxe"
     ]
+  },
+  "FRESHLY_BAKED_ARTIFACT:1": {
+    "name": "§9Freshly Baked Artifact",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;250",
+      "B1": "FRESHLY_BAKED_RING;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "FRESHLY_BAKED_HEIRLOOM:1": {
+    "name": "§6Freshly Baked Heirloom",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;1000",
+      "B1": "FRESHLY_BAKED_RELIC;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "FRESHLY_BAKED_RELIC:1": {
+    "name": "§5Freshly Baked Relic",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;500",
+      "B1": "FRESHLY_BAKED_ARTIFACT;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "FRESHLY_BAKED_RING:1": {
+    "name": "§aFreshly Baked Ring",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;100",
+      "B1": "FRESHLY_BAKED_TALISMAN;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "FRESHLY_BAKED_TALISMAN:1": {
+    "name": "§fFreshly Baked Talisman",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;25",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "FRESHLY_MINTED_COINS:1": {
     "name": "§9Freshly-Minted Coins",
@@ -38770,6 +38933,22 @@
       "https://wiki.hypixel.net/Scornclaw_Brew"
     ]
   },
+  "SCOTTS_CONTACT_BAKED_IN_BREAD:1": {
+    "name": "§5Scott's Contact Baked In Bread",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "SCOURGE_CLOAK": {
     "name": "§5Scourge Cloak",
     "recipe": {
@@ -42061,78 +42240,6 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Maxor%27s_Leggings",
       "https://wiki.hypixel.net/Maxor%27s_Leggings"
-    ]
-  },
-  "SPEEDSTER_BOOTS": {
-    "name": "§5Speedster Boots",
-    "recipe": {
-      "A1": "ENCHANTED_SUGAR_CANE;1",
-      "B1": "",
-      "C1": "ENCHANTED_SUGAR_CANE;1",
-      "A2": "ENCHANTED_SUGAR_CANE;1",
-      "B2": "",
-      "C2": "ENCHANTED_SUGAR_CANE;1",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Speedster_Boots",
-      "https://wiki.hypixel.net/Speedster_Boots"
-    ]
-  },
-  "SPEEDSTER_CHESTPLATE": {
-    "name": "§5Speedster Chestplate",
-    "recipe": {
-      "A1": "ENCHANTED_SUGAR_CANE;1",
-      "B1": "",
-      "C1": "ENCHANTED_SUGAR_CANE;1",
-      "A2": "ENCHANTED_SUGAR_CANE;1",
-      "B2": "ENCHANTED_SUGAR_CANE;1",
-      "C2": "ENCHANTED_SUGAR_CANE;1",
-      "A3": "ENCHANTED_SUGAR_CANE;1",
-      "B3": "ENCHANTED_SUGAR_CANE;1",
-      "C3": "ENCHANTED_SUGAR_CANE;1"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Speedster_Chestplate",
-      "https://wiki.hypixel.net/Speedster_Chestplate"
-    ]
-  },
-  "SPEEDSTER_HELMET": {
-    "name": "§5Speedster Helmet",
-    "recipe": {
-      "A1": "ENCHANTED_SUGAR_CANE;1",
-      "B1": "ENCHANTED_SUGAR_CANE;1",
-      "C1": "ENCHANTED_SUGAR_CANE;1",
-      "A2": "ENCHANTED_SUGAR_CANE;1",
-      "B2": "",
-      "C2": "ENCHANTED_SUGAR_CANE;1",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Speedster_Helmet",
-      "https://wiki.hypixel.net/Speedster_Helmet"
-    ]
-  },
-  "SPEEDSTER_LEGGINGS": {
-    "name": "§5Speedster Leggings",
-    "recipe": {
-      "A1": "ENCHANTED_SUGAR_CANE;1",
-      "B1": "ENCHANTED_SUGAR_CANE;1",
-      "C1": "ENCHANTED_SUGAR_CANE;1",
-      "A2": "ENCHANTED_SUGAR_CANE;1",
-      "B2": "",
-      "C2": "ENCHANTED_SUGAR_CANE;1",
-      "A3": "ENCHANTED_SUGAR_CANE;1",
-      "B3": "",
-      "C3": "ENCHANTED_SUGAR_CANE;1"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Speedster_Leggings",
-      "https://wiki.hypixel.net/Speedster_Leggings"
     ]
   },
   "SPEEDY_LINE:1": {
@@ -46053,7 +46160,7 @@
   "SUSPICIOUS_SCRAP": {
     "name": "§9Suspicious Scrap",
     "recipe": {
-      "A1": "SKYBLOCK_FOSSIL_DUST;500",
+      "A1": "ESSENCE_FOSSIL;100",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -46908,6 +47015,22 @@
       "https://hypixelskyblock.minecraft.wiki/w/Barn_Skins",
       "https://wiki.hypixel.net/Tavern_Barn_Skin"
     ]
+  },
+  "TEDS_CONTACT_BAKED_IN_BREAD:1": {
+    "name": "§5Ted's Contact Baked In Bread",
+    "recipe": {
+      "A1": "SKYBLOCK_KERNEL;500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "TELEPORTER_PILL": {
     "name": "§9Teleporter Pill",
