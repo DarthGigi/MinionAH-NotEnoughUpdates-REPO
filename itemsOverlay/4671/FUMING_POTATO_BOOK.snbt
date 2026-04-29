@@ -4,6 +4,7 @@
 			id: "FUMING_POTATO_BOOK"
 		},
 		"minecraft:enchantment_glint_override": 1b,
+		"minecraft:item_model": "minecraft:written_book",
 		"minecraft:tooltip_display": {
 			hidden_components: [
 				"minecraft:jukebox_playable",
@@ -25,6 +26,6 @@
 	id: "minecraft:book",
 	source: {
 		dataVersion: 4671,
-		modVersion: "Firmament 44.0.1+mc1.21.11"
+		modVersion: "Firmament 44.1.0-dev+mc1.21.11+g84c3679e"
 	}
 }
