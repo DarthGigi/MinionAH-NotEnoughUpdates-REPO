@@ -5042,7 +5042,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bread_Bowl"
+    ]
   },
   "BREWING_STAND_ITEM": {
     "name": "§fBrewing Stand",
@@ -15821,7 +15823,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Farming_Toolkit"
+    ]
   },
   "FEAST": {
     "name": "§fEnchanted Book",
@@ -16479,7 +16483,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Finn%27s_Focaccia"
+    ]
   },
   "FINWAVE_BELT": {
     "name": "§5Finwave Belt",
@@ -18029,7 +18035,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Artifact"
+    ]
   },
   "FRESHLY_BAKED_HEIRLOOM:1": {
     "name": "§6Freshly Baked Heirloom",
@@ -18045,7 +18053,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Heirloom"
+    ]
   },
   "FRESHLY_BAKED_RELIC:1": {
     "name": "§5Freshly Baked Relic",
@@ -18061,7 +18071,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Relic"
+    ]
   },
   "FRESHLY_BAKED_RING:1": {
     "name": "§aFreshly Baked Ring",
@@ -18077,7 +18089,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Ring"
+    ]
   },
   "FRESHLY_BAKED_TALISMAN:1": {
     "name": "§fFreshly Baked Talisman",
@@ -18093,7 +18107,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Talisman"
+    ]
   },
   "FRESHLY_MINTED_COINS:1": {
     "name": "§9Freshly-Minted Coins",
@@ -38947,7 +38963,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Scott%27s_Contact_Baked_In_Bread"
+    ]
   },
   "SCOURGE_CLOAK": {
     "name": "§5Scourge Cloak",
@@ -47030,7 +47048,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ted%27s_Contact_Baked_In_Bread"
+    ]
   },
   "TELEPORTER_PILL": {
     "name": "§9Teleporter Pill",
