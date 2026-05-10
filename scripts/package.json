@@ -1,14 +1,14 @@
 {
   "name": "minionah-notenoughupdates-repo",
   "module": "index.ts",
-  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.3.13"
+  },
+  "peerDependencies": {
+    "typescript": "^6.0.3"
+  },
   "scripts": {
     "update-recipes": "bun update-recipes.ts"
   },
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  }
+  "type": "module"
 }
