@@ -28844,7 +28844,7 @@
     ]
   },
   "MERCENARY_BOOTS": {
-    "name": "§f§f§9Mercenary Boots",
+    "name": "§9Mercenary Boots",
     "recipe": {
       "A1": "SKYBLOCK_COIN;30000",
       "B1": "",
@@ -28882,7 +28882,7 @@
     ]
   },
   "MERCENARY_HELMET": {
-    "name": "§f§f§9Mercenary Helmet",
+    "name": "§9Mercenary Helmet",
     "recipe": {
       "A1": "SKYBLOCK_COIN;35000",
       "B1": "",
@@ -28901,7 +28901,7 @@
     ]
   },
   "MERCENARY_LEGGINGS": {
-    "name": "§f§f§9Mercenary Leggings",
+    "name": "§9Mercenary Leggings",
     "recipe": {
       "A1": "SKYBLOCK_COIN;45000",
       "B1": "",
