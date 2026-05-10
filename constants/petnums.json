@@ -236,6 +236,56 @@
         }
       }
     },
+    "UNCOMMON": {
+      "1": {
+        "otherNums": [
+          0.75,
+          0.35
+        ],
+        "statNums": {
+          "STRENGTH": 0.5,
+          "FISHING_SPEED": 0.5,
+          "SEA_CREATURE_CHANCE": 0.05
+        }
+      },
+      "100": {
+        "otherNums": [
+          75,
+          35
+        ],
+        "statNums": {
+          "STRENGTH": 50,
+          "FISHING_SPEED": 50,
+          "SEA_CREATURE_CHANCE": 5
+        }
+      }
+    },
+    "RARE": {
+      "1": {
+        "otherNums": [
+          0.75,
+          0.35,
+          0.1
+        ],
+        "statNums": {
+          "STRENGTH": 0.5,
+          "FISHING_SPEED": 0.5,
+          "SEA_CREATURE_CHANCE": 0.05
+        }
+      },
+      "100": {
+        "otherNums": [
+          75,
+          35,
+          10
+        ],
+        "statNums": {
+          "STRENGTH": 50,
+          "FISHING_SPEED": 50,
+          "SEA_CREATURE_CHANCE": 5
+        }
+      }
+    },
     "EPIC": {
       "1": {
         "otherNums": [
@@ -672,7 +722,8 @@
         ],
         "statNums": {
           "HEALTH": 1.0,
-          "STRENGTH": 0.25
+          "STRENGTH": 0.25,
+          "SPEED": 0.75
         }
       },
       "100": {
@@ -682,7 +733,8 @@
         ],
         "statNums": {
           "HEALTH": 100.0,
-          "STRENGTH": 25.0
+          "STRENGTH": 25.0,
+          "SPEED": 75.0
         }
       }
     },
@@ -690,23 +742,25 @@
       "1": {
         "otherNums": [
           5.2,
-          5.1,
-          101.5
+          101.5,
+          5.1
         ],
         "statNums": {
           "HEALTH": 1.0,
-          "STRENGTH": 0.25
+          "STRENGTH": 0.25,
+          "SPEED": 0.75
         }
       },
       "100": {
         "otherNums": [
           25,
-          15,
-          250
+          250,
+          15
         ],
         "statNums": {
           "HEALTH": 100.0,
-          "STRENGTH": 25.0
+          "STRENGTH": 25.0,
+          "SPEED": 75.0
         }
       }
     },
@@ -742,10 +796,10 @@
       "1": {
         "otherNums": [
           5.2,
+          101.5,
           5.1,
           10.3,
-          0.1,
-          101.5
+          0.1
         ],
         "statNums": {
           "HEALTH": 1.0,
@@ -756,10 +810,10 @@
       "100": {
         "otherNums": [
           25,
+          250,
           15,
           40,
-          1,
-          250
+          1
         ],
         "statNums": {
           "HEALTH": 100.0,
@@ -772,11 +826,11 @@
       "1": {
         "otherNums": [
           5.2,
+          101.5,
           5.1,
           10.3,
           0.1,
-          10.4,
-          101.5
+          10.4
         ],
         "statNums": {
           "HEALTH": 1.0,
@@ -787,11 +841,11 @@
       "100": {
         "otherNums": [
           25,
+          250,
           15,
           40,
           1,
-          50,
-          250
+          50
         ],
         "statNums": {
           "HEALTH": 100.0,
@@ -804,11 +858,11 @@
       "1": {
         "otherNums": [
           5.2,
+          101.5,
           5.1,
           10.3,
           0.1,
-          10.4,
-          101.5
+          10.4
         ],
         "statNums": {
           "HEALTH": 1.0,
@@ -819,11 +873,11 @@
       "100": {
         "otherNums": [
           25,
+          250,
           15,
           40,
           1,
-          50,
-          250
+          50
         ],
         "statNums": {
           "HEALTH": 100.0,
@@ -2940,14 +2994,14 @@
         "otherNums": [],
         "statNums": {
           "INTELLIGENCE": 0.5,
-          "SPEED": 0.25
+          "SPEED": 1
         }
       },
       "100": {
         "otherNums": [],
         "statNums": {
           "INTELLIGENCE": 50.0,
-          "SPEED": 25.0
+          "SPEED": 100.0
         }
       }
     },
@@ -2956,54 +3010,58 @@
         "otherNums": [],
         "statNums": {
           "INTELLIGENCE": 0.5,
-          "SPEED": 0.25
+          "SPEED": 1.0
         }
       },
       "100": {
         "otherNums": [],
         "statNums": {
           "INTELLIGENCE": 50.0,
-          "SPEED": 25.0
+          "SPEED": 100.0
         }
       }
     },
     "RARE": {
       "1": {
         "otherNums": [
-          1.1
+          1.2,
+          1.05
         ],
         "statNums": {
           "INTELLIGENCE": 0.5,
-          "SPEED": 0.25
+          "SPEED": 1.0
         }
       },
       "100": {
         "otherNums": [
-          110
+          20,
+          5
         ],
         "statNums": {
           "INTELLIGENCE": 50.0,
-          "SPEED": 25.0
+          "SPEED": 100.0
         }
       }
     },
     "EPIC": {
       "1": {
         "otherNums": [
-          1.2
+          1.2,
+          1.05
         ],
         "statNums": {
           "INTELLIGENCE": 0.5,
-          "SPEED": 0.25
+          "SPEED": 1.0
         }
       },
       "100": {
         "otherNums": [
-          120
+          20,
+          5
         ],
         "statNums": {
           "INTELLIGENCE": 50.0,
-          "SPEED": 25.0
+          "SPEED": 100.0
         }
       }
     },
@@ -3011,21 +3069,23 @@
       "1": {
         "otherNums": [
           1.2,
-          0.2
+          1.05,
+          0.5
         ],
         "statNums": {
           "INTELLIGENCE": 0.5,
-          "SPEED": 0.25
+          "SPEED": 1.0
         }
       },
       "100": {
         "otherNums": [
-          120,
-          25
+          20,
+          5,
+          5
         ],
         "statNums": {
           "INTELLIGENCE": 50.0,
-          "SPEED": 25.0
+          "SPEED": 100.0
         }
       }
     }
@@ -5346,22 +5406,24 @@
     "LEGENDARY": {
       "1": {
         "otherNums": [
-          1.5,
-          0.4
+          0.1,
+          1,
+          0.8
         ],
         "statNums": {
-          "INTELLIGENCE": 1.0,
-          "SPEED": 0.5
+          "INTELLIGENCE": 0.75,
+          "SPEED": 1.5
         }
       },
       "100": {
         "otherNums": [
-          150,
-          40
+          1,
+          10,
+          7
         ],
         "statNums": {
-          "INTELLIGENCE": 100.0,
-          "SPEED": 50.0
+          "INTELLIGENCE": 75,
+          "SPEED": 150
         }
       }
     }
