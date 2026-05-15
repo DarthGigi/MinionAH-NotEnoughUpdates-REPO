@@ -1599,9 +1599,9 @@
   "ARACHNE_CRYSTAL": {
     "name": "§5Arachne Crystal",
     "recipe": {
-      "A1": "ARACHNE_FRAGMENT;3",
-      "B1": "ENCHANTED_SPIDER_EYE;8",
-      "C1": "ENCHANTED_STRING;30",
+      "A1": "ARACHNE_FRAGMENT;2",
+      "B1": "ENCHANTED_SPIDER_EYE;16",
+      "C1": "ENCHANTED_STRING;16",
       "A2": "",
       "B2": "",
       "C2": "",
