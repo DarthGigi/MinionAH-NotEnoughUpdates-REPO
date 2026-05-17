@@ -4904,7 +4904,7 @@
     ]
   },
   "BOUNCY_ARROW:64": {
-    "name": "§9Bouncy Arrow ",
+    "name": "§9Bouncy Arrow",
     "recipe": {
       "A1": "SLIME_BLOCK;24",
       "B1": "",
