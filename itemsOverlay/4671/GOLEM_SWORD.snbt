@@ -1,9 +1,8 @@
 {
 	components: {
 		"minecraft:custom_data": {
-			id: "BLAZE_LEGGINGS"
+			id: "GOLEM_SWORD"
 		},
-		"minecraft:dyed_color": 16243251,
 		"minecraft:tooltip_display": {
 			hidden_components: [
 				"minecraft:jukebox_playable",
@@ -24,9 +23,9 @@
 		}
 	},
 	count: 1,
-	id: "minecraft:leather_leggings",
+	id: "minecraft:iron_sword",
 	source: {
-		dataVersion: 4325,
-		modVersion: "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd"
+		dataVersion: 4671,
+		modVersion: "Firmament 44.2.0-dev+mc1.21.11+g610fbd78"
 	}
 }

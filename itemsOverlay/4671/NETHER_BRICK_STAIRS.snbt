@@ -1,9 +1,8 @@
 {
 	components: {
 		"minecraft:custom_data": {
-			id: "REFINED_MITHRIL_PICKAXE"
+			id: "NETHER_BRICK_STAIRS"
 		},
-		"minecraft:enchantment_glint_override": 1b,
 		"minecraft:tooltip_display": {
 			hidden_components: [
 				"minecraft:jukebox_playable",
@@ -19,14 +18,12 @@
 				"minecraft:block_entity_data",
 				"minecraft:dyed_color"
 			]
-		},
-		"minecraft:unbreakable": {
 		}
 	},
 	count: 1,
-	id: "minecraft:diamond_pickaxe",
+	id: "minecraft:nether_brick_stairs",
 	source: {
-		dataVersion: 4325,
-		modVersion: "Firmament 3.4.0-dev+mc1.21.5+g4cd6602"
+		dataVersion: 4671,
+		modVersion: "Firmament 44.2.0-dev+mc1.21.11+g610fbd78"
 	}
 }
