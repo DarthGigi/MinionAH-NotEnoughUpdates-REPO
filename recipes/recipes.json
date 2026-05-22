@@ -30449,7 +30449,7 @@
     "wiki": []
   },
   "NETHER_BRICK_STAIRS": {
-    "name": "§fNether Bricks Stairs",
+    "name": "§fNether Brick Stairs",
     "recipe": {
       "A1": "NETHER_BRICK;1",
       "B1": "",
@@ -39902,7 +39902,7 @@
     ]
   },
   "SIGN": {
-    "name": "§fSign",
+    "name": "§fOak Sign",
     "recipe": {
       "A1": "WOOD;1",
       "B1": "WOOD;1",
