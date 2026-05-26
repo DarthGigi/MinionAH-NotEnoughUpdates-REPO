@@ -3167,7 +3167,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "BEE": {
     "name": "§7[Lvl {LVL}] §6Bee",
@@ -11376,7 +11377,8 @@
       "A3": "COBBLESTONE;1",
       "B3": "REDSTONE;1",
       "C3": "COBBLESTONE;1"
-    }
+    },
+    "wiki": []
   },
   "DITTO_BLOB": {
     "name": "§6Ditto Blob",
@@ -11590,7 +11592,8 @@
       "A3": "COBBLESTONE;1",
       "B3": "REDSTONE;1",
       "C3": "COBBLESTONE;1"
-    }
+    },
+    "wiki": []
   },
   "DULL_SHARK_TOOTH_NECKLACE": {
     "name": "§aDull Shark Tooth Necklace",
@@ -24466,7 +24469,8 @@
       "A3": "STICK;1",
       "B3": "STICK;1",
       "C3": "STICK;1"
-    }
+    },
+    "wiki": []
   },
   "JACK_O_LANTERN": {
     "name": "§fJack o' Lantern",
@@ -26431,7 +26435,8 @@
       "A3": "",
       "B3": "",
       "C3": "STRING;1"
-    }
+    },
+    "wiki": []
   },
   "LEATHER": {
     "name": "§fLeather",
@@ -30040,7 +30045,7 @@
     ]
   },
   "MUSHROOM_SOUP": {
-    "name": "§fMushroom Stew",
+    "name": "§fMushroom Soup",
     "recipe": {
       "A1": "BROWN_MUSHROOM;1",
       "B1": "RED_MUSHROOM;1",
@@ -30051,7 +30056,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "MUSIC_PANTS": {
     "name": "§5Stereo Pants",
@@ -30843,7 +30849,7 @@
     ]
   },
   "NOTE_BLOCK": {
-    "name": "§fNote Block",
+    "name": "§fNoteblock",
     "recipe": {
       "A1": "WOOD;1",
       "B1": "WOOD;1",
@@ -30854,7 +30860,8 @@
       "A3": "WOOD;1",
       "B3": "WOOD;1",
       "C3": "WOOD;1"
-    }
+    },
+    "wiki": []
   },
   "NULL_BLADE": {
     "name": "§6Null Blade",
@@ -31773,7 +31780,8 @@
       "A3": "STICK;1",
       "B3": "STICK;1",
       "C3": "STICK;1"
-    }
+    },
+    "wiki": []
   },
   "PAPER": {
     "name": "§fPaper",
@@ -31787,7 +31795,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "PARK_JUNGLE_TRAVEL_SCROLL": {
     "name": "§5Travel Scroll to Jungle Island",
@@ -44919,7 +44928,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "STONE_CHESTPLATE": {
     "name": "§9Stone Chestplate",
