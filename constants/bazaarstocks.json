@@ -736,6 +736,26 @@
     "id": "ATTRIBUTE_SHARD_GROOVY_RADAR;1"
   },
   {
+    "stock": "SHARD_LOTUS_FISH",
+    "id": "ATTRIBUTE_SHARD_LOTUS_TROPHY;1"
+  },
+  {
+    "stock": "SHARD_LOTUM",
+    "id": "ATTRIBUTE_SHARD_LILY_TRACKER;1"
+  },
+  {
+    "stock": "SHARD_TEWTIL",
+    "id": "ATTRIBUTE_SHARD_LILY_PUNCHER;1"
+  },
+  {
+    "stock": "SHARD_FLIP_FLOPPER",
+    "id": "ATTRIBUTE_SHARD_GOLDEN_FROG;1"
+  },
+  {
+    "stock": "SHARD_SEA_SHINE",
+    "id": "ATTRIBUTE_SHARD_DIAMOND_FROG;1"
+  },
+  {
     "stock": "ENCHANTMENT_CORRUPTION_5",
     "id": "CORRUPTION;5"
   },
