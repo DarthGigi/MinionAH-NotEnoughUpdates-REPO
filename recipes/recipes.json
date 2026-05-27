@@ -1560,6 +1560,24 @@
       "https://wiki.hypixel.net/Anvil"
     ]
   },
+  "APPLICANT_STATEMENT:1": {
+    "name": "§fApplicant's Statement",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Applicant%27s_Statement"
+    ]
+  },
   "AQUAMASTER_HYDROMAX": {
     "name": "§6AquaMaster™ Hydromax",
     "recipe": {
@@ -3027,24 +3045,6 @@
     },
     "wiki": [
       "https://wiki.hypixel.net/Travel_Scroll_To_The_Bayou"
-    ]
-  },
-  "BAYOU_WATER_ORB": {
-    "name": "§6Bayou Water Orb",
-    "recipe": {
-      "A1": "BUSTED_BELT_BUCKLE;8",
-      "B1": "OLD_LEATHER_BOOT;1",
-      "C1": "ALLIGATOR_SKIN;8",
-      "A2": "BRONZE_BOWL;16",
-      "B2": "WATER_ORB;1",
-      "C2": "TORN_CLOTH;16",
-      "A3": "ENCHANTED_CLAY_BLOCK;1",
-      "B3": "RUSTY_COIN;64",
-      "C3": "POISON_SAMPLE;1"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Bayou_Water_Orb",
-      "https://wiki.hypixel.net/Bayou_Water_Orb"
     ]
   },
   "BEACON_1": {
@@ -5190,7 +5190,7 @@
     ]
   },
   "BRONZE_SHIP_ENGINE:1": {
-    "name": "§9Bronze Ship Engine",
+    "name": "§aBronze Ship Engine",
     "recipe": {
       "A1": "RUSTY_COIN;64",
       "B1": "BUSTED_BELT_BUCKLE;8",
@@ -5209,7 +5209,7 @@
     ]
   },
   "BRONZE_SHIP_HELM": {
-    "name": "§9Bronze Ship Helm",
+    "name": "§aBronze Ship Helm",
     "recipe": {
       "A1": "",
       "B1": "BRONZE_BOWL;1",
@@ -5227,7 +5227,7 @@
     ]
   },
   "BRONZE_SHIP_HULL": {
-    "name": "§9Bronze Ship Hull",
+    "name": "§aBronze Ship Hull",
     "recipe": {
       "A1": "",
       "B1": "",
@@ -5261,6 +5261,24 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Bronze_Trophy_Fishing_Sack",
       "https://wiki.hypixel.net/Bronze_Trophy_Fishing_Sack"
+    ]
+  },
+  "BRONZE_TROPHY_FROG_SACK:1": {
+    "name": "§aBronze Trophy Frog Sack",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;50000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bronze_Trophy_Frog_Sack"
     ]
   },
   "BROWN_MUSHROOM": {
@@ -14419,24 +14437,6 @@
       "https://wiki.hypixel.net/Enchanted_Vampiric_Melon"
     ]
   },
-  "ENCHANTED_WATER_LILY": {
-    "name": "§aEnchanted Lily Pad",
-    "recipe": {
-      "A1": "",
-      "B1": "WATER_LILY;32",
-      "C1": "",
-      "A2": "WATER_LILY;32",
-      "B2": "WATER_LILY;32",
-      "C2": "WATER_LILY;32",
-      "A3": "",
-      "B3": "WATER_LILY;32",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Lily_Pad",
-      "https://wiki.hypixel.net/Enchanted_Lily_Pad"
-    ]
-  },
   "ENCHANTED_WET_SPONGE": {
     "name": "§9Enchanted Wet Sponge",
     "recipe": {
@@ -16905,7 +16905,7 @@
   "FISHING_ROD:1": {
     "name": "§fFishing Rod",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;50",
+      "A1": "SKYBLOCK_COIN;20.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -18505,6 +18505,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion"
+    ]
+  },
+  "GENERATOR_UPGRADE_STONE_LILY_PAD_12:1": {
+    "name": "§6Lily Pad Minion XII Upgrade Stone",
+    "recipe": {
+      "A1": "LOTUS_DIAMOND;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Lily_Pad_Minion"
     ]
   },
   "GENERATOR_UPGRADE_STONE_REVENANT_12": {
@@ -22347,24 +22365,6 @@
       "https://wiki.hypixel.net/Hotspot_Bait"
     ]
   },
-  "HOTSPOT_HOOK": {
-    "name": "§9Hotspot Hook",
-    "recipe": {
-      "A1": "",
-      "B1": "",
-      "C1": "ENCHANTED_WATER_LILY;32",
-      "A2": "",
-      "B2": "",
-      "C2": "SINGED_POWDER;8",
-      "A3": "",
-      "B3": "BROKEN_RADAR;8",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Hook",
-      "https://wiki.hypixel.net/Hotspot_Hook"
-    ]
-  },
   "HOTSPOT_RADAR": {
     "name": "§9Hotspot Radar",
     "recipe": {
@@ -22381,42 +22381,6 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Radar",
       "https://wiki.hypixel.net/Hotspot_Radar"
-    ]
-  },
-  "HOTSPOT_SINKER": {
-    "name": "§9Hotspot Sinker",
-    "recipe": {
-      "A1": "",
-      "B1": "BROKEN_RADAR;8",
-      "C1": "",
-      "A2": "",
-      "B2": "SINGED_POWDER;8",
-      "C2": "",
-      "A3": "",
-      "B3": "ENCHANTED_CLAY_BALL;64",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Sinker",
-      "https://wiki.hypixel.net/Hotspot_Sinker"
-    ]
-  },
-  "HOTSPOT_WATER_ORB": {
-    "name": "§6Hotspot Water Orb",
-    "recipe": {
-      "A1": "HALF_EATEN_MUSHROOM;64",
-      "B1": "BLUE_RING;8",
-      "C1": "FRIED_FEATHER;64",
-      "A2": "SINGED_POWDER;8",
-      "B2": "WATER_ORB;1",
-      "C2": "SCORCHED_CRAB_STICK;8",
-      "A3": "ENCHANTED_JUNGLE_LOG;64",
-      "B3": "BROKEN_RADAR;8",
-      "C3": "ENCHANTED_COAL;64"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Water_Orb",
-      "https://wiki.hypixel.net/Hotspot_Water_Orb"
     ]
   },
   "HUB_CASTLE_TRAVEL_SCROLL": {
@@ -26387,24 +26351,6 @@
       "https://wiki.hypixel.net/Lava_Talisman"
     ]
   },
-  "LAVA_WATER_ORB": {
-    "name": "§6Lava Water Orb",
-    "recipe": {
-      "A1": "MAGMA_FISH_SILVER;16",
-      "B1": "THUNDER_SHARDS;2",
-      "C1": "MAGMA_FISH_SILVER;16",
-      "A2": "MOOGMA_PELT;64",
-      "B2": "WATER_ORB;1",
-      "C2": "LUMP_OF_MAGMA;64",
-      "A3": "CUP_OF_BLOOD;32",
-      "B3": "HORN_OF_TAURUS;16",
-      "C3": "FLAMING_HEART;32"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Lava_Water_Orb",
-      "https://wiki.hypixel.net/Lava_Water_Orb"
-    ]
-  },
   "LEAPING_SWORD": {
     "name": "§5Leaping Sword",
     "recipe": {
@@ -26971,8 +26917,26 @@
     },
     "wiki": []
   },
+  "LOTUS_ATOLL_TRAVEL_SCROLL:1": {
+    "name": "§9Travel Scroll to the Lotus Atoll",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;500000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Lotus_Atoll"
+    ]
+  },
   "LOTUS_BELT:1": {
-    "name": "§9Lotus Belt",
+    "name": "§9Peony Belt",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;100",
       "B1": "",
@@ -26991,7 +26955,7 @@
     ]
   },
   "LOTUS_BRACELET:1": {
-    "name": "§9Lotus Bracelet",
+    "name": "§9Peony Bracelet",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;50",
       "B1": "",
@@ -27010,7 +26974,7 @@
     ]
   },
   "LOTUS_CLOAK:1": {
-    "name": "§9Lotus Cloak",
+    "name": "§9Peony Cloak",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;500",
       "B1": "",
@@ -27029,7 +26993,7 @@
     ]
   },
   "LOTUS_NECKLACE:1": {
-    "name": "§9Lotus Necklace",
+    "name": "§9Peony Necklace",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;200",
       "B1": "",
@@ -27910,6 +27874,24 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Master_Skull_-_Tier_7",
       "https://wiki.hypixel.net/Master_Skull_-_Tier_7"
+    ]
+  },
+  "MASTER_THESIS:1": {
+    "name": "§9Master's Thesis",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;500000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Master%27s_Thesis"
     ]
   },
   "MASTIFF_BOOTS": {
@@ -33523,6 +33505,22 @@
       "https://wiki.hypixel.net/Tier_Boost"
     ]
   },
+  "PHD_GRIMOIRE:1": {
+    "name": "§5PhD's Grimoire",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;1000000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "PIG": {
     "name": "§7[Lvl {LVL}] §fPig",
     "recipe": {
@@ -37499,6 +37497,24 @@
       "https://wiki.hypixel.net/Revived_Heart"
     ]
   },
+  "RIBBIT_THE_FISH:1": {
+    "name": "§cRibbit the Fish",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;1000000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ribbit_the_Fish"
+    ]
+  },
   "RIFT_BUCKET:1": {
     "name": "§aPlumber's Bucket",
     "recipe": {
@@ -39402,24 +39418,6 @@
       "https://wiki.hypixel.net/Shark_Scale_Leggings"
     ]
   },
-  "SHARK_WATER_ORB": {
-    "name": "§6Shark Water Orb",
-    "recipe": {
-      "A1": "ENCHANTED_SHARK_FIN;1",
-      "B1": "GREAT_WHITE_SHARK_TOOTH;1",
-      "C1": "ENCHANTED_SHARK_FIN;1",
-      "A2": "BLUE_SHARK_TOOTH;6",
-      "B2": "WATER_ORB;1",
-      "C2": "NURSE_SHARK_TOOTH;12",
-      "A3": "ENCHANTED_SHARK_FIN;1",
-      "B3": "TIGER_SHARK_TOOTH;4",
-      "C3": "ENCHANTED_SHARK_FIN;1"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Shark_Water_Orb",
-      "https://wiki.hypixel.net/Shark_Water_Orb"
-    ]
-  },
   "SHARP_SHARK_TOOTH_NECKLACE": {
     "name": "§5Sharp Shark Tooth Necklace",
     "recipe": {
@@ -40183,6 +40181,24 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Silver_Trophy_Fishing_Sack",
       "https://wiki.hypixel.net/Silver_Trophy_Fishing_Sack"
+    ]
+  },
+  "SILVER_TROPHY_FROG_SACK:1": {
+    "name": "§9Silver Trophy Frog Sack",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Silver_Trophy_Frog_Sack"
     ]
   },
   "SILVERTWIST_KARAMBIT": {
@@ -42807,24 +42823,6 @@
       "https://wiki.hypixel.net/Great_Spook_Tree"
     ]
   },
-  "SPOOKY_WATER_ORB": {
-    "name": "§6Spooky Water Orb",
-    "recipe": {
-      "A1": "PURPLE_CANDY;16",
-      "B1": "SOUL_FRAGMENT;1",
-      "C1": "PURPLE_CANDY;16",
-      "A2": "WEREWOLF_SKIN;8",
-      "B2": "WATER_ORB;1",
-      "C2": "WEREWOLF_SKIN;8",
-      "A3": "PURPLE_CANDY;16",
-      "B3": "WEREWOLF_SKIN;8",
-      "C3": "PURPLE_CANDY;16"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Spooky_Water_Orb",
-      "https://wiki.hypixel.net/Spooky_Water_Orb"
-    ]
-  },
   "SPORE_HARVESTER": {
     "name": "§aSpore Harvester",
     "recipe": {
@@ -45318,6 +45316,24 @@
       "https://wiki.hypixel.net/Strong_Dragon_Leggings"
     ]
   },
+  "STUDENT_STUDIES:1": {
+    "name": "§aStudent's Studies",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;250000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Student%27s_Studies"
+    ]
+  },
   "STUFFED_CHILI_PEPPER": {
     "name": "§9Stuffed Chili Pepper",
     "recipe": {
@@ -47518,24 +47534,6 @@
       "https://wiki.hypixel.net/Remmah_Ynit"
     ]
   },
-  "TITAN_LINE": {
-    "name": "§9Titan Line",
-    "recipe": {
-      "A1": "",
-      "B1": "",
-      "C1": "ENCHANTED_WATER_LILY;64",
-      "A2": "",
-      "B2": "BAYOU_WATER_ORB;1",
-      "C2": "",
-      "A3": "TITANOBOA_SHED;1",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Titan_Line",
-      "https://wiki.hypixel.net/Titan_Line"
-    ]
-  },
   "TITANIC_EXP_BOTTLE": {
     "name": "§9Titanic Experience Bottle",
     "recipe": {
@@ -48045,21 +48043,6 @@
       "https://wiki.hypixel.net/Ugly_Boots"
     ]
   },
-  "ULTIMATE_BOBBIN_TIME;3": {
-    "name": "§fEnchanted Book",
-    "recipe": {
-      "A1": "BAYOU_WATER_ORB;1",
-      "B1": "WINTER_WATER_ORB;1",
-      "C1": "SPOOKY_WATER_ORB;1",
-      "A2": "",
-      "B2": "BOBBIN_SCRIPTURES;1",
-      "C2": "",
-      "A3": "SHARK_WATER_ORB;1",
-      "B3": "HOTSPOT_WATER_ORB;1",
-      "C3": "LAVA_WATER_ORB;1"
-    },
-    "wiki": []
-  },
   "ULTIMATE_CARROT_CANDY": {
     "name": "§6Ultimate Carrot Candy",
     "recipe": {
@@ -48127,24 +48110,6 @@
       "count": 1
     },
     "wiki": []
-  },
-  "UMBERELLA": {
-    "name": "§9Umberella",
-    "recipe": {
-      "A1": "REFINED_UMBER;2",
-      "B1": "REFINED_UMBER;2",
-      "C1": "REFINED_UMBER;2",
-      "A2": "",
-      "B2": "STICK;1",
-      "C2": "",
-      "A3": "",
-      "B3": "STICK;1",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Umberella",
-      "https://wiki.hypixel.net/Umberella"
-    ]
   },
   "UNDEAD_BOW:1": {
     "name": "§9Undead Bow",
@@ -49260,24 +49225,6 @@
       "C3": ""
     }
   },
-  "WATER_ORB": {
-    "name": "§5Water Orb",
-    "recipe": {
-      "A1": "ENCHANTED_RAW_FISH;16",
-      "B1": "ENCHANTED_SPONGE;8",
-      "C1": "ENCHANTED_RAW_SALMON;16",
-      "A2": "ENCHANTED_PRISMARINE_SHARD;16",
-      "B2": "ENCHANTED_WATER_LILY;16",
-      "C2": "ENCHANTED_PRISMARINE_CRYSTALS;16",
-      "A3": "ENCHANTED_CLAY_BALL;16",
-      "B3": "ENCHANTED_PUFFERFISH;16",
-      "C3": "ENCHANTED_CLOWNFISH;16"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Water_Orb",
-      "https://wiki.hypixel.net/Water_Orb"
-    ]
-  },
   "WEAPON_RACK:1": {
     "name": "§aWeapon Rack",
     "recipe": {
@@ -49799,24 +49746,6 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Winter_Fragment",
       "https://wiki.hypixel.net/Winter_Fragment"
-    ]
-  },
-  "WINTER_WATER_ORB": {
-    "name": "§6Winter Water Orb",
-    "recipe": {
-      "A1": "ICE_HUNK;32",
-      "B1": "ENCHANTED_SNOW_BLOCK;64",
-      "C1": "ICE_HUNK;32",
-      "A2": "WHITE_GIFT;64",
-      "B2": "WATER_ORB;1",
-      "C2": "GREEN_GIFT;16",
-      "A3": "ICE_HUNK;32",
-      "B3": "BLUE_ICE_HUNK;32",
-      "C3": "ICE_HUNK;32"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Winter_Water_Orb",
-      "https://wiki.hypixel.net/Winter_Water_Orb"
     ]
   },
   "WISE_DRAGON_BOOTS": {
