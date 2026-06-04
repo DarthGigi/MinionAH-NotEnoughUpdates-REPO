@@ -1,9 +1,9 @@
 {
 	components: {
 		"minecraft:custom_data": {
-			id: "RANCHERS_BOOTS"
+			id: "DUNGEON_DISC_5"
 		},
-		"minecraft:dyed_color": 0,
+		"minecraft:jukebox_playable": "minecraft:13",
 		"minecraft:tooltip_display": {
 			hidden_components: [
 				"minecraft:jukebox_playable",
@@ -19,14 +19,12 @@
 				"minecraft:block_entity_data",
 				"minecraft:dyed_color"
 			]
-		},
-		"minecraft:unbreakable": {
 		}
 	},
 	count: 1,
-	id: "minecraft:leather_boots",
+	id: "minecraft:music_disc_13",
 	source: {
-		dataVersion: 4325,
-		modVersion: "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd"
+		dataVersion: 4671,
+		modVersion: "Firmament 44.1.0-dev+mc1.21.11+g3b06339"
 	}
 }
