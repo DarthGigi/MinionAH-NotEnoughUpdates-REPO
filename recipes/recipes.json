@@ -27760,7 +27760,7 @@
     ]
   },
   "MAP": {
-    "name": "§fEmpty Map",
+    "name": "§fMap",
     "recipe": {
       "A1": "PAPER;1",
       "B1": "PAPER;1",
