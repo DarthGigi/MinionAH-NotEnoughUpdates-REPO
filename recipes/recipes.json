@@ -47287,15 +47287,16 @@
   "THEORETICAL_HOE_WHEAT_1": {
     "name": "§aEuclid's Wheat Hoe Mk. I",
     "recipe": {
-      "A1": "WHEAT;64",
-      "B1": "WHEAT;64",
-      "C1": "WHEAT;64",
-      "A2": "WHEAT;64",
-      "B2": "THEORETICAL_HOE;1",
-      "C2": "WHEAT;64",
-      "A3": "WHEAT;64",
-      "B3": "WHEAT;64",
-      "C3": "WHEAT;64"
+      "A1": "SKYBLOCK_COPPER;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Hoe",
