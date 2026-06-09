@@ -2518,7 +2518,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bane_Of_Arthropods",
+      "https://wiki.hypixel.net/Bane_Of_Arthropods_Enchantment"
+    ]
   },
   "BANNER": {
     "name": "§fBlack Banner",
@@ -3044,6 +3047,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Bayou",
       "https://wiki.hypixel.net/Travel_Scroll_To_The_Bayou"
     ]
   },
@@ -6862,7 +6866,11 @@
       "A3": "CHILI_PEPPER;8",
       "B3": "ENCHANTED_IRON_BLOCK;1",
       "C3": "CHILI_PEPPER;8"
-    }
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Cayenne",
+      "https://wiki.hypixel.net/Cayenne_Enchantment"
+    ]
   },
   "CELESTE_BOOTS": {
     "name": "§aCeleste Boots",
@@ -7100,7 +7108,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Champion",
+      "https://wiki.hypixel.net/Champion_Enchantment"
+    ]
   },
   "CHARMINIZER": {
     "name": "§5Charminizer",
@@ -8793,6 +8804,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Combo_Mania",
       "https://wiki.hypixel.net/Combo_Mania"
     ]
   },
@@ -8828,7 +8840,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Compact",
+      "https://wiki.hypixel.net/Compact_Enchantment"
+    ]
   },
   "COMPACTOR": {
     "name": "§aCompactor",
@@ -9691,6 +9706,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Cropshot_Chip",
       "https://wiki.hypixel.net/Cropshot_Chip"
     ]
   },
@@ -9998,7 +10014,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Cultivating",
+      "https://wiki.hypixel.net/Cultivating_Enchantment"
+    ]
   },
   "DANGER_1_PORTAL": {
     "name": "§fPortal to the Spider's Den",
@@ -10564,7 +10583,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dedication",
+      "https://wiki.hypixel.net/Dedication_Enchantment"
+    ]
   },
   "DEEP_OCEAN_BIOME_STICK": {
     "name": "§fDeep Ocean Biome Stick",
@@ -10616,7 +10638,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Delicate",
+      "https://wiki.hypixel.net/Delicate_Enchantment"
+    ]
   },
   "DELIRIUM_NECKLACE": {
     "name": "§5Delirium Necklace",
@@ -11544,7 +11569,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dragon_Hunter",
+      "https://wiki.hypixel.net/Dragon_Hunter_Enchantment"
+    ]
   },
   "DRAGONFADE_CLOAK": {
     "name": "§5Dragonfade Cloak",
@@ -11854,7 +11882,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Efficiency",
+      "https://wiki.hypixel.net/Efficiency_Enchantment"
+    ]
   },
   "EFFICIENT_AXE": {
     "name": "§aEfficient Axe",
@@ -14669,7 +14700,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ender_Slayer",
+      "https://wiki.hypixel.net/Ender_Slayer_Enchantment"
+    ]
   },
   "ENDER_STONE": {
     "name": "§fEnd Stone",
@@ -15136,6 +15170,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Etalptsehc_Nori",
       "https://wiki.hypixel.net/Etalptsehc_Nori"
     ]
   },
@@ -15244,7 +15279,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Experience",
+      "https://wiki.hypixel.net/Experience_Enchantment"
+    ]
   },
   "EXPERIENCE_ARTIFACT": {
     "name": "§5Experience Artifact",
@@ -15260,7 +15298,8 @@
       "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Experience_Artifact"
+      "https://hypixelskyblock.minecraft.wiki/w/Experience_Artifact",
+      "https://wiki.hypixel.net/Experience_Artifact"
     ]
   },
   "EXPERIMENTATION_TABLE": {
@@ -15295,7 +15334,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Expertise",
+      "https://wiki.hypixel.net/Expertise_Enchantment"
+    ]
   },
   "EXPIRED_PUMPKIN:30": {
     "name": "§aExpired Pumpkin",
@@ -15783,7 +15825,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Feast"
+    ]
   },
   "FEATHER_ARTIFACT": {
     "name": "§9Feather Artifact",
@@ -16533,7 +16577,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fire_Protection",
+      "https://wiki.hypixel.net/Fire_Protection_Enchantment"
+    ]
   },
   "FIRE_TALISMAN": {
     "name": "§fFire Talisman",
@@ -17924,7 +17971,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Forest_Pledge",
+      "https://wiki.hypixel.net/Forest_Pledge_Enchantment"
+    ]
   },
   "FOUR_EYED_FISH": {
     "name": "§5Four-Eyed Fish",
@@ -20819,7 +20869,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Great_Spook",
+      "https://wiki.hypixel.net/Great_Spook_Enchantment"
+    ]
   },
   "GREAT_SPOOK_ARTIFACT:1": {
     "name": "§9Great Spook Artifact",
@@ -21157,7 +21210,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Green_Thumb",
+      "https://wiki.hypixel.net/Green_Thumb_Enchantment"
+    ]
   },
   "GROWTH_BOOTS": {
     "name": "§9Boots of Growth",
@@ -21914,7 +21970,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hecatomb",
+      "https://wiki.hypixel.net/Hecatomb_Enchantment"
+    ]
   },
   "HEDGEHOG": {
     "name": "§7[Lvl {LVL}] §6Hedgehog",
@@ -22259,7 +22318,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "HORNS_OF_TORMENT": {
     "name": "§5Horns of Torment",
@@ -26636,7 +26696,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Life_Steal",
+      "https://wiki.hypixel.net/Life_Steal_Enchantment"
+    ]
   },
   "LIFE_STEAL;2": {
     "name": "§fEnchanted Book",
@@ -26651,7 +26714,10 @@
       "B3": "PAPER;2",
       "C3": "GOLDEN_APPLE:1;2"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Life_Steal",
+      "https://wiki.hypixel.net/Life_Steal_Enchantment"
+    ]
   },
   "LIGHT_BAIT": {
     "name": "§fLight Bait",
@@ -26926,7 +26992,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Looting",
+      "https://wiki.hypixel.net/Looting_Enchantment"
+    ]
   },
   "LOTUS_ATOLL_TRAVEL_SCROLL:1": {
     "name": "§9Travel Scroll to the Lotus Atoll",
@@ -27036,7 +27105,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Luck",
+      "https://wiki.hypixel.net/Luck_Enchantment"
+    ]
   },
   "LUCK_OF_THE_SEA": {
     "name": "§9Enchanted Book",
@@ -27052,7 +27124,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+    ]
   },
   "LUCK;4": {
     "name": "§fEnchanted Book",
@@ -27067,7 +27141,10 @@
       "B3": "PAPER;8",
       "C3": "RABBIT_HIDE;8"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Luck",
+      "https://wiki.hypixel.net/Luck_Enchantment"
+    ]
   },
   "LUCKY_BARN_SKIN:1": {
     "name": "§6Lucky Barn Skin",
@@ -28063,6 +28140,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Mechamind_Chip",
       "https://wiki.hypixel.net/Mechamind_Chip"
     ]
   },
@@ -31721,6 +31799,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Overdrive_Chip",
       "https://wiki.hypixel.net/Overdrive_Chip"
     ]
   },
@@ -34572,7 +34651,10 @@
       "B3": "PAPER;8",
       "C3": "BONE;40"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Power",
+      "https://wiki.hypixel.net/Power_Enchantment"
+    ]
   },
   "POWERED_MINECART": {
     "name": "§fMinecart with Furnace",
@@ -34586,7 +34668,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "POWERED_RAIL": {
     "name": "§fPowered Rail",
@@ -34788,7 +34871,10 @@
       "B3": "PAPER;8",
       "C3": "FINE_TOPAZ_GEM;40"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pristine",
+      "https://wiki.hypixel.net/Pristine_Enchantment"
+    ]
   },
   "PROJECTILE_PROTECTION": {
     "name": "§fEnchanted Book",
@@ -34804,7 +34890,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Projectile_Protection",
+      "https://wiki.hypixel.net/Projectile_Protection_Enchantment"
+    ]
   },
   "PROMISING_AXE": {
     "name": "§aPromising Axe",
@@ -34875,7 +34964,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Protection",
+      "https://wiki.hypixel.net/Protection_Enchantment"
+    ]
   },
   "PROTECTOR_DRAGON_BOOTS": {
     "name": "§6Protector Dragon Boots",
@@ -35378,7 +35470,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "PUMPKIN_SEEDS": {
     "name": "§fPumpkin Seeds",
@@ -35722,7 +35815,10 @@
       "B3": "ENCHANTED_PAPER;1",
       "C3": "ALLIGATOR_SKIN;8"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Quick_Bite",
+      "https://wiki.hypixel.net/Quick_Bite_Enchantment"
+    ]
   },
   "RABBIT_AXE": {
     "name": "§aRabbit Axe",
@@ -36062,7 +36158,8 @@
       "A3": "",
       "B3": "BOWL;1",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "RADIANT_POWER_ORB": {
     "name": "§aRadiant Power Orb",
@@ -37164,7 +37261,10 @@
       "B3": "PAPER;8",
       "C3": "ENCHANTED_COOKIE;16"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Replenish",
+      "https://wiki.hypixel.net/Replenish_Enchantment"
+    ]
   },
   "RESPIRATION": {
     "name": "§fEnchanted Book",
@@ -37180,7 +37280,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Respiration",
+      "https://wiki.hypixel.net/Respiration_Enchantment"
+    ]
   },
   "REVENANT_BOOTS": {
     "name": "§5Revenant Boots",
@@ -38863,7 +38966,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Scavenger",
+      "https://wiki.hypixel.net/Scavenger_Enchantment"
+    ]
   },
   "SCAVENGER_ARTIFACT": {
     "name": "§9Scavenger Artifact",
@@ -39496,7 +39602,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sharpness",
+      "https://wiki.hypixel.net/Sharpness_Enchantment"
+    ]
   },
   "SHEARS": {
     "name": "§fShears",
@@ -41317,7 +41426,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Smite",
+      "https://wiki.hypixel.net/Smite_Enchantment"
+    ]
   },
   "SMOLDERING_CHAMBERS_TRAVEL_SCROLL": {
     "name": "§5Travel Scroll to the Smoldering Tomb",
@@ -42105,6 +42217,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sowledge_Chip",
       "https://wiki.hypixel.net/Sowledge_Chip"
     ]
   },
@@ -45219,7 +45332,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "STORM_IN_A_BOTTLE_EMPTY": {
     "name": "§5Empty Storm Bottle",
@@ -45633,7 +45747,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sugar_Rush",
+      "https://wiki.hypixel.net/Sugar_Rush_Enchantment"
+    ]
   },
   "SULPHUR": {
     "name": "§fGunpowder",
@@ -45704,7 +45821,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sunder",
+      "https://wiki.hypixel.net/Sunder_Enchantment"
+    ]
   },
   "SUNFLOWER_GENERATOR_1": {
     "name": "§9Sunflower Minion I",
@@ -46308,7 +46428,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Syphon",
+      "https://wiki.hypixel.net/Syphon_Enchantment"
+    ]
   },
   "TABASCO;2": {
     "name": "§fEnchanted Book",
@@ -46323,7 +46446,10 @@
       "B3": "KUUDRA_TEETH;1",
       "C3": ""
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Tabasco",
+      "https://wiki.hypixel.net/Tabasco_Enchantment"
+    ]
   },
   "TACTICAL_INSERTION": {
     "name": "§5Tactical Insertion",
@@ -47496,7 +47622,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Tidal",
+      "https://wiki.hypixel.net/Tidal_Enchantment"
+    ]
   },
   "TIGER": {
     "name": "§7[Lvl {LVL}] §6Tiger",
@@ -47704,7 +47833,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Toxophilite",
+      "https://wiki.hypixel.net/Toxophilite_Enchantment"
+    ]
   },
   "TRADING_POST_BARN_SKIN:1": {
     "name": "§aTrading Post Barn Skin",
@@ -47756,7 +47888,10 @@
       "B3": "PAPER;8",
       "C3": "HEMOGLASS;8"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Transylvanian",
+      "https://wiki.hypixel.net/Transylvanian_Enchantment"
+    ]
   },
   "TRAP_DOOR": {
     "name": "§fWooden Trapdoor",
@@ -48006,7 +48141,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/True_Protection",
+      "https://wiki.hypixel.net/True_Protection_Enchantment"
+    ]
   },
   "TUTTI_FRUTTI_POISON": {
     "name": "§fTutti-Frutti Flavored Poison",
@@ -48686,7 +48824,10 @@
       "B3": "PAPER;8",
       "C3": "ENCHANTED_SPIDER_EYE;8"
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Venomous",
+      "https://wiki.hypixel.net/Venomous_Enchantment"
+    ]
   },
   "VERMIN_BELT:1": {
     "name": "§5Vermin Belt",
@@ -49243,7 +49384,8 @@
       "A3": "",
       "B3": "GOLD_INGOT;1",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "WEAPON_RACK:1": {
     "name": "§aWeapon Rack",
@@ -50839,6 +50981,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Wyld_Helmet_On_A_Helmet",
       "https://wiki.hypixel.net/Wyld_Helmet_On_A_Helmet"
     ]
   },
