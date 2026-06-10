@@ -1,10 +1,11 @@
 {
 	components: {
 		"minecraft:custom_data": {
-			id: "BEDROCK",
-			originTag: "UNKNOWN"
+			color: "193:60:15",
+			id: "SALMON_HELMET",
+			originTag: "QUICK_CRAFTING"
 		},
-		"minecraft:item_model": "minecraft:bedrock",
+		"minecraft:dyed_color": 12663823,
 		"minecraft:tooltip_display": {
 			hidden_components: [
 				"minecraft:jukebox_playable",
@@ -20,12 +21,14 @@
 				"minecraft:block_entity_data",
 				"minecraft:dyed_color"
 			]
+		},
+		"minecraft:unbreakable": {
 		}
 	},
 	count: 1,
-	id: "minecraft:paper",
+	id: "minecraft:leather_helmet",
 	source: {
 		dataVersion: 4671,
-		modVersion: "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec"
+		modVersion: "Firmament 44.2.0-dev+mc1.21.11+ga97960bc"
 	}
 }
