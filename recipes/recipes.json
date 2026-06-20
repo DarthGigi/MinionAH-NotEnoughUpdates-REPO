@@ -7641,15 +7641,15 @@
   "CLAY_BRACELET": {
     "name": "§9Clay Bracelet",
     "recipe": {
-      "A1": "CLAY;10",
-      "B1": "ANGLER_BRACELET;1",
-      "C1": "CLAY;10",
-      "A2": "CLAY;10",
+      "A1": "CLAY_BALL;16",
+      "B1": "ENCHANTED_CLAY_BALL;2",
+      "C1": "CLAY_BALL;16",
+      "A2": "CLAY_BALL;16",
       "B2": "",
-      "C2": "CLAY;10",
-      "A3": "CLAY;10",
-      "B3": "ENCHANTED_CLAY_BALL;4",
-      "C3": "CLAY;10"
+      "C2": "CLAY_BALL;16",
+      "A3": "CLAY_BALL;16",
+      "B3": "ENCHANTED_CLAY_BALL;2",
+      "C3": "CLAY_BALL;16"
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Clay_Bracelet",
@@ -7893,7 +7893,7 @@
     "name": "§9Tropical Cloak",
     "recipe": {
       "A1": "ENCHANTED_CLOWNFISH;1",
-      "B1": "ANGLER_CLOAK;1",
+      "B1": "ENCHANTED_CLOWNFISH;1",
       "C1": "ENCHANTED_CLOWNFISH;1",
       "A2": "RAW_FISH:2;32",
       "B2": "",
@@ -34794,7 +34794,7 @@
       "B1": "",
       "C1": "ENCHANTED_PRISMARINE_SHARD;1",
       "A2": "ENCHANTED_PRISMARINE_SHARD;1",
-      "B2": "ANGLER_NECKLACE;1",
+      "B2": "",
       "C2": "ENCHANTED_PRISMARINE_SHARD;1",
       "A3": "",
       "B3": "ENCHANTED_PRISMARINE_CRYSTALS;1",
@@ -42748,9 +42748,9 @@
       "A2": "SPONGE;16",
       "B2": "",
       "C2": "SPONGE;16",
-      "A3": "ENCHANTED_SPONGE;3",
-      "B3": "ANGLER_BELT;1",
-      "C3": "ENCHANTED_SPONGE;3"
+      "A3": "ENCHANTED_SPONGE;2",
+      "B3": "ENCHANTED_SPONGE;2",
+      "C3": "ENCHANTED_SPONGE;2"
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Sponge_Belt",
