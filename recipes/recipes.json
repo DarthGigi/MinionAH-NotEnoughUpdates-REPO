@@ -7724,7 +7724,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion",
+      "https://wiki.hypixel.net/Clay_Minion"
     ]
   },
   "CLAY_GENERATOR_2": {
@@ -16784,7 +16785,8 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion",
+      "https://wiki.hypixel.net/Fishing_Minion"
     ]
   },
   "FISHING_GENERATOR_2": {
@@ -44415,7 +44417,8 @@
       "C3": "THORN_FRAGMENT;1"
     },
     "wiki": [
-      "https://wiki.hypixel.net/⚚_Spirit_Sceptre"
+      "https://hypixelskyblock.minecraft.wiki/w/Spirit_Sceptre",
+      "https://wiki.hypixel.net/Spirit_Sceptre"
     ]
   },
   "STARRED_BONE_BOOMERANG": {
@@ -44522,7 +44525,8 @@
       "C3": "WINTER_FRAGMENT;1"
     },
     "wiki": [
-      "https://wiki.hypixel.net/⚚_Glacial_Scythe"
+      "https://hypixelskyblock.minecraft.wiki/w/Glacial_Scythe",
+      "https://wiki.hypixel.net/Glacial_Scythe"
     ]
   },
   "STARRED_ICE_SPRAY_WAND": {
@@ -44539,7 +44543,8 @@
       "C3": "WINTER_FRAGMENT;1"
     },
     "wiki": [
-      "https://wiki.hypixel.net/⚚_Ice_Spray_Wand"
+      "https://hypixelskyblock.minecraft.wiki/w/Ice_Spray_Wand",
+      "https://wiki.hypixel.net/Ice_Spray_Wand"
     ]
   },
   "STARRED_ITEM_SPIRIT_BOW": {
@@ -44790,7 +44795,8 @@
       "C3": "WINTER_FRAGMENT;1"
     },
     "wiki": [
-      "https://wiki.hypixel.net/⚚_Yeti_Sword"
+      "https://hypixelskyblock.minecraft.wiki/w/Yeti_Sword",
+      "https://wiki.hypixel.net/Yeti_Sword"
     ]
   },
   "STARTER_LAVA_ROD:1.0": {
@@ -48250,7 +48256,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Refrigerate",
+      "https://wiki.hypixel.net/Refrigerate_Enchantment"
+    ]
   },
   "UNDEAD_BOW:1": {
     "name": "§9Undead Bow",
