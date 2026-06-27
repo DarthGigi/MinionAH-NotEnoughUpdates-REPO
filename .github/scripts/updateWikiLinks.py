@@ -1,6 +1,6 @@
-import os
 import itertools
 import json
+import os
 import re
 import time
 from typing import Any
@@ -9,7 +9,6 @@ from urllib.parse import quote
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
-
 
 # Constants
 batchSize = 50
@@ -30,6 +29,9 @@ suffixesToRemove = [
 colourCodePattern = re.compile(r"§.")
 hoeTierPattern = re.compile(" Mk\\. I{1,3}$")
 perfectArmorPattern = re.compile(r"Perfect (?:Helmet|Chestplate|Leggings|Boots) - Tier [A-Z]+")
+
+# Config
+recheckAllLinks = os.environ.get("SHOULD_RECHECK_ALL", "false") == "true"
 
 
 class ItemFile:
@@ -91,7 +93,7 @@ class WikiLinkUpdater:
         validLinks = [
             link for link in existingInfo if any(link.startswith(v) for v in urlPrefix.values())
         ]
-        if validLinks and existingInfo == validLinks and len(validLinks) == 2:
+        if validLinks and existingInfo == validLinks and len(validLinks) == 2 and not recheckAllLinks:
             return False
 
         return True
@@ -115,8 +117,13 @@ class WikiLinkUpdater:
     def fetchWikiLinks(self):
         for wiki in ("independent", "official"):
             done = 0
-            candidates = list(itertools.chain.from_iterable([f.candidates[wiki] for f in self.files]))
-            candidate_to_file = {c: f for f in self.files for c in f.candidates[wiki]}
+            candidate_to_files: dict[str, list[ItemFile]] = {}
+            for file in self.files:
+                for candidate in file.candidates[wiki]:
+                    if candidate_to_files.get(candidate) is None:
+                        candidate_to_files[candidate] = []
+                    candidate_to_files[candidate].append(file)
+            candidates = list(candidate_to_files.keys())
 
             for batch in itertools.batched(candidates, batchSize):
                 print(f"\rFetching {wiki} wiki pages... {done}/{len(candidates)}", end="", flush=True)
@@ -144,13 +151,15 @@ class WikiLinkUpdater:
 
                     matches = {}
                     candidate = page["title"]
-                    if file := candidate_to_file.get(candidate):
-                        matches[file] = candidate
+                    if files := candidate_to_files.get(candidate):
+                        for file in files:
+                            matches[file] = candidate
                     else:
                         for transformation in payload["query"].get("normalized", []):
                             candidate = transformation["from"]
-                            if file := candidate_to_file.get(candidate):
-                                matches[file] = candidate
+                            if files := candidate_to_files.get(candidate):
+                                for file in files:
+                                    matches[file] = candidate
 
                     for file, candidate in matches.items():
                         if not file.page[wiki]:
