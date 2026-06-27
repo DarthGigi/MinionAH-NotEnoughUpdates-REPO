@@ -29,6 +29,7 @@ jobs:
           git fetch upstream
           git worktree add --detach ../upstream-source upstream/master
           mkdir -p ../upstream-source/recipes
+          cp -R scripts ../upstream-source/scripts
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
