@@ -24,10 +24,11 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git remote add upstream https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO.git
 
-      - name: Sync with upstream
+      - name: Prepare upstream source
         run: |
           git fetch upstream
-          git merge upstream/master --no-edit
+          git worktree add --detach ../upstream-source upstream/master
+          mkdir -p ../upstream-source/recipes
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
@@ -36,17 +37,23 @@ jobs:
 
       - name: Install dependencies
         run: bun install --frozen-lockfile
-        working-directory: ./scripts
+        working-directory: ../upstream-source/scripts
 
       - name: Run script
         run: bun update-recipes
-        working-directory: ./scripts
+        working-directory: ../upstream-source/scripts
+
+      - name: Copy generated recipes
+        run: |
+          cp ../upstream-source/recipes/recipes.json recipes/recipes.json
+          git worktree remove ../upstream-source --force
 
       - name: Commit changes
         run: |
-          if [[ `git status --porcelain` ]]; then
+          if ! git diff --quiet -- recipes/recipes.json; then
             git add recipes/recipes.json
-            git commit -m "Update recipes.json" && git push origin HEAD
+            git commit -m "Update recipes.json"
+            git push origin HEAD:master
           else
-            echo "No changes to commit"
+            echo "No recipe changes to commit"
           fi
