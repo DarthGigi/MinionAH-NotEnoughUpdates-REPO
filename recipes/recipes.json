@@ -18556,7 +18556,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion_XII_Upgrade_Stone",
+      "https://wiki.hypixel.net/Clay_Minion_XII_Upgrade_Stone"
     ]
   },
   "GENERATOR_UPGRADE_STONE_FISHING_12:1": {
@@ -18574,7 +18575,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion_XII_Upgrade_Stone",
+      "https://wiki.hypixel.net/Fishing_Minion_XII_Upgrade_Stone"
     ]
   },
   "GENERATOR_UPGRADE_STONE_LILY_PAD_12:1": {
@@ -18592,7 +18594,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Lily_Pad_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Lily_Pad_Minion_XII_Upgrade_Stone"
     ]
   },
   "GENERATOR_UPGRADE_STONE_REVENANT_12": {
@@ -18610,7 +18612,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Revenant_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Revenant_Minion_XII_Upgrade_Stone"
     ]
   },
   "GENERATOR_UPGRADE_STONE_TARANTULA_12": {
@@ -18628,7 +18630,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Minion_XII_Upgrade_Stone",
+      "https://wiki.hypixel.net/Tarantula_Minion_XII_Upgrade_Stone"
     ]
   },
   "GHAST_CLOAK": {
@@ -23204,8 +23207,8 @@
       "C3": "BLAZE_ROD_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_FUEL_BLOCK": {
@@ -23241,8 +23244,8 @@
       "C3": "CRUDE_GABAGOOL_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_FUEL_GLOWSTONE_DUST": {
@@ -23259,8 +23262,8 @@
       "C3": "GLOWSTONE_DUST_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_FUEL_MAGMA_CREAM": {
@@ -23277,8 +23280,8 @@
       "C3": "MAGMA_CREAM_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_FUEL_NETHER_STALK": {
@@ -23295,8 +23298,8 @@
       "C3": "NETHER_STALK_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_GENERATOR_1": {
@@ -23511,8 +23514,8 @@
       "C3": "BLAZE_ROD_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HEAVY_CRUDE_GABAGOOL": {
@@ -23529,8 +23532,8 @@
       "C3": "CRUDE_GABAGOOL_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HEAVY_GLOWSTONE_DUST": {
@@ -23547,8 +23550,8 @@
       "C3": "GLOWSTONE_DUST_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HEAVY_MAGMA_CREAM": {
@@ -23565,8 +23568,8 @@
       "C3": "MAGMA_CREAM_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HEAVY_NETHER_STALK": {
@@ -23583,8 +23586,8 @@
       "C3": "NETHER_STALK_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HYPERGOLIC_BLAZE_ROD": {
@@ -23601,8 +23604,8 @@
       "C3": "BLAZE_ROD_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HYPERGOLIC_CRUDE_GABAGOOL": {
@@ -23619,8 +23622,8 @@
       "C3": "CRUDE_GABAGOOL_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HYPERGOLIC_GLOWSTONE_DUST": {
@@ -23637,8 +23640,8 @@
       "C3": "GLOWSTONE_DUST_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HYPERGOLIC_MAGMA_CREAM": {
@@ -23655,8 +23658,8 @@
       "C3": "MAGMA_CREAM_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_HYPERGOLIC_NETHER_STALK": {
@@ -23673,8 +23676,8 @@
       "C3": "NETHER_STALK_DISTILLATE;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ]
   },
   "INFERNO_ROD": {
@@ -39310,7 +39313,10 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Seal_Minion_Skin",
+      "https://wiki.hypixel.net/Seal_Minion_Skin"
+    ]
   },
   "SEAL_RING:1": {
     "name": "§9Seal Ring",
