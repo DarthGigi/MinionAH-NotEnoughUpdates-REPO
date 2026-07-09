@@ -16256,7 +16256,7 @@
     ]
   },
   "FINE_AMBER_GEM": {
-    "name": "§9⸕ Fine Amber Gemstone",
+    "name": "§9 Fine Amber Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_AMBER_GEM;16",
@@ -16274,7 +16274,7 @@
     ]
   },
   "FINE_AMETHYST_GEM": {
-    "name": "§9❈ Fine Amethyst Gemstone",
+    "name": "§9 Fine Amethyst Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_AMETHYST_GEM;16",
@@ -16292,7 +16292,7 @@
     ]
   },
   "FINE_AQUAMARINE_GEM": {
-    "name": "§9☂ Fine Aquamarine Gemstone",
+    "name": "§9 Fine Aquamarine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_AQUAMARINE_GEM;16",
@@ -16310,7 +16310,7 @@
     ]
   },
   "FINE_CITRINE_GEM": {
-    "name": "§9☘ Fine Citrine Gemstone",
+    "name": "§9 Fine Citrine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_CITRINE_GEM;16",
@@ -16328,7 +16328,7 @@
     ]
   },
   "FINE_JADE_GEM": {
-    "name": "§9☘ Fine Jade Gemstone",
+    "name": "§9 Fine Jade Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_JADE_GEM;16",
@@ -16346,7 +16346,7 @@
     ]
   },
   "FINE_JASPER_GEM": {
-    "name": "§9❁ Fine Jasper Gemstone",
+    "name": "§9 Fine Jasper Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_JASPER_GEM;16",
@@ -16364,7 +16364,7 @@
     ]
   },
   "FINE_ONYX_GEM": {
-    "name": "§9☠ Fine Onyx Gemstone",
+    "name": "§9 Fine Onyx Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_ONYX_GEM;16",
@@ -16382,7 +16382,7 @@
     ]
   },
   "FINE_OPAL_GEM": {
-    "name": "§9❂ Fine Opal Gemstone",
+    "name": "§9 Fine Opal Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_OPAL_GEM;16",
@@ -16400,7 +16400,7 @@
     ]
   },
   "FINE_PERIDOT_GEM": {
-    "name": "§9☘ Fine Peridot Gemstone",
+    "name": "§9 Fine Peridot Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_PERIDOT_GEM;16",
@@ -16418,7 +16418,7 @@
     ]
   },
   "FINE_RUBY_GEM": {
-    "name": "§9❤ Fine Ruby Gemstone",
+    "name": "§9 Fine Ruby Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_RUBY_GEM;16",
@@ -16436,7 +16436,7 @@
     ]
   },
   "FINE_SAPPHIRE_GEM": {
-    "name": "§9✎ Fine Sapphire Gemstone",
+    "name": "§9 Fine Sapphire Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_SAPPHIRE_GEM;16",
@@ -16454,7 +16454,7 @@
     ]
   },
   "FINE_TOPAZ_GEM": {
-    "name": "§9✧ Fine Topaz Gemstone",
+    "name": "§9 Fine Topaz Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_TOPAZ_GEM;16",
@@ -17078,7 +17078,7 @@
     ]
   },
   "FLAWED_AMBER_GEM": {
-    "name": "§a⸕ Flawed Amber Gemstone",
+    "name": "§a Flawed Amber Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_AMBER_GEM;16",
@@ -17096,7 +17096,7 @@
     ]
   },
   "FLAWED_AMETHYST_GEM": {
-    "name": "§a❈ Flawed Amethyst Gemstone",
+    "name": "§a Flawed Amethyst Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_AMETHYST_GEM;16",
@@ -17114,7 +17114,7 @@
     ]
   },
   "FLAWED_AQUAMARINE_GEM": {
-    "name": "§a☂ Flawed Aquamarine Gemstone",
+    "name": "§a Flawed Aquamarine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_AQUAMARINE_GEM;16",
@@ -17132,7 +17132,7 @@
     ]
   },
   "FLAWED_CITRINE_GEM": {
-    "name": "§a☘ Flawed Citrine Gemstone",
+    "name": "§a Flawed Citrine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_CITRINE_GEM;16",
@@ -17150,7 +17150,7 @@
     ]
   },
   "FLAWED_JADE_GEM": {
-    "name": "§a☘ Flawed Jade Gemstone",
+    "name": "§a Flawed Jade Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_JADE_GEM;16",
@@ -17168,7 +17168,7 @@
     ]
   },
   "FLAWED_JASPER_GEM": {
-    "name": "§a❁ Flawed Jasper Gemstone",
+    "name": "§a Flawed Jasper Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_JASPER_GEM;16",
@@ -17186,7 +17186,7 @@
     ]
   },
   "FLAWED_ONYX_GEM": {
-    "name": "§a☠ Flawed Onyx Gemstone",
+    "name": "§a Flawed Onyx Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_ONYX_GEM;16",
@@ -17204,7 +17204,7 @@
     ]
   },
   "FLAWED_OPAL_GEM": {
-    "name": "§a❂ Flawed Opal Gemstone",
+    "name": "§a Flawed Opal Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_OPAL_GEM;16",
@@ -17222,7 +17222,7 @@
     ]
   },
   "FLAWED_PERIDOT_GEM": {
-    "name": "§a☘ Flawed Peridot Gemstone",
+    "name": "§a Flawed Peridot Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_PERIDOT_GEM;16",
@@ -17240,7 +17240,7 @@
     ]
   },
   "FLAWED_RUBY_GEM": {
-    "name": "§a❤ Flawed Ruby Gemstone",
+    "name": "§a Flawed Ruby Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_RUBY_GEM;16",
@@ -17258,7 +17258,7 @@
     ]
   },
   "FLAWED_SAPPHIRE_GEM": {
-    "name": "§a✎ Flawed Sapphire Gemstone",
+    "name": "§a Flawed Sapphire Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_SAPPHIRE_GEM;16",
@@ -17276,7 +17276,7 @@
     ]
   },
   "FLAWED_TOPAZ_GEM": {
-    "name": "§a✧ Flawed Topaz Gemstone",
+    "name": "§a Flawed Topaz Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_TOPAZ_GEM;16",
@@ -17294,7 +17294,7 @@
     ]
   },
   "FLAWLESS_AMBER_GEM": {
-    "name": "§5⸕ Flawless Amber Gemstone",
+    "name": "§5 Flawless Amber Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_AMBER_GEM;16",
@@ -17312,7 +17312,7 @@
     ]
   },
   "FLAWLESS_AMETHYST_GEM": {
-    "name": "§5❈ Flawless Amethyst Gemstone",
+    "name": "§5 Flawless Amethyst Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_AMETHYST_GEM;16",
@@ -17330,7 +17330,7 @@
     ]
   },
   "FLAWLESS_AQUAMARINE_GEM": {
-    "name": "§5☂ Flawless Aquamarine Gemstone",
+    "name": "§5 Flawless Aquamarine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_AQUAMARINE_GEM;16",
@@ -17348,7 +17348,7 @@
     ]
   },
   "FLAWLESS_CITRINE_GEM": {
-    "name": "§5☘ Flawless Citrine Gemstone",
+    "name": "§5 Flawless Citrine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_CITRINE_GEM;16",
@@ -17366,7 +17366,7 @@
     ]
   },
   "FLAWLESS_JADE_GEM": {
-    "name": "§5☘ Flawless Jade Gemstone",
+    "name": "§5 Flawless Jade Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_JADE_GEM;16",
@@ -17384,7 +17384,7 @@
     ]
   },
   "FLAWLESS_JASPER_GEM": {
-    "name": "§5❁ Flawless Jasper Gemstone",
+    "name": "§5 Flawless Jasper Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_JASPER_GEM;16",
@@ -17402,7 +17402,7 @@
     ]
   },
   "FLAWLESS_ONYX_GEM": {
-    "name": "§5☠ Flawless Onyx Gemstone",
+    "name": "§5 Flawless Onyx Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_ONYX_GEM;16",
@@ -17420,7 +17420,7 @@
     ]
   },
   "FLAWLESS_OPAL_GEM": {
-    "name": "§5❂ Flawless Opal Gemstone",
+    "name": "§5 Flawless Opal Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_OPAL_GEM;16",
@@ -17438,7 +17438,7 @@
     ]
   },
   "FLAWLESS_PERIDOT_GEM": {
-    "name": "§5☘ Flawless Peridot Gemstone",
+    "name": "§5 Flawless Peridot Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_PERIDOT_GEM;16",
@@ -17456,7 +17456,7 @@
     ]
   },
   "FLAWLESS_RUBY_GEM": {
-    "name": "§5❤ Flawless Ruby Gemstone",
+    "name": "§5 Flawless Ruby Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_RUBY_GEM;16",
@@ -17474,7 +17474,7 @@
     ]
   },
   "FLAWLESS_SAPPHIRE_GEM": {
-    "name": "§5✎ Flawless Sapphire Gemstone",
+    "name": "§5 Flawless Sapphire Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_SAPPHIRE_GEM;16",
@@ -17492,7 +17492,7 @@
     ]
   },
   "FLAWLESS_TOPAZ_GEM": {
-    "name": "§5✧ Flawless Topaz Gemstone",
+    "name": "§5 Flawless Topaz Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_TOPAZ_GEM;16",
@@ -44450,7 +44450,7 @@
     ]
   },
   "STARRED_BAT_WAND": {
-    "name": "§6⚚ Spirit Sceptre",
+    "name": "§6 Spirit Sceptre",
     "recipe": {
       "A1": "THORN_FRAGMENT;1",
       "B1": "THORN_FRAGMENT;1",
@@ -44468,7 +44468,7 @@
     ]
   },
   "STARRED_BONE_BOOMERANG": {
-    "name": "§6⚚ Bonemerang",
+    "name": "§6 Bonemerang",
     "recipe": {
       "A1": "THORN_FRAGMENT;1",
       "B1": "THORN_FRAGMENT;1",
@@ -44522,7 +44522,7 @@
     ]
   },
   "STARRED_BONZO_STAFF": {
-    "name": "§9⚚ Bonzo's Staff",
+    "name": "§9 Bonzo's Staff",
     "recipe": {
       "A1": "BONZO_FRAGMENT;1",
       "B1": "BONZO_FRAGMENT;1",
@@ -44540,7 +44540,7 @@
     ]
   },
   "STARRED_FELTHORN_REAPER": {
-    "name": "§6⚚ Felthorn Reaper",
+    "name": "§6 Felthorn Reaper",
     "recipe": {
       "A1": "GIANT_FRAGMENT_BIGFOOT;1",
       "B1": "GIANT_FRAGMENT_BIGFOOT;1",
@@ -44558,7 +44558,7 @@
     ]
   },
   "STARRED_GLACIAL_SCYTHE": {
-    "name": "§5⚚ Glacial Scythe",
+    "name": "§5 Glacial Scythe",
     "recipe": {
       "A1": "WINTER_FRAGMENT;1",
       "B1": "WINTER_FRAGMENT;1",
@@ -44576,7 +44576,7 @@
     ]
   },
   "STARRED_ICE_SPRAY_WAND": {
-    "name": "§9⚚ Ice Spray Wand",
+    "name": "§9 Ice Spray Wand",
     "recipe": {
       "A1": "WINTER_FRAGMENT;1",
       "B1": "WINTER_FRAGMENT;1",
@@ -44594,7 +44594,7 @@
     ]
   },
   "STARRED_ITEM_SPIRIT_BOW": {
-    "name": "§6⚚ Spirit Shortbow",
+    "name": "§6 Spirit Shortbow",
     "recipe": {
       "A1": "THORN_FRAGMENT;1",
       "B1": "THORN_FRAGMENT;1",
@@ -44612,7 +44612,7 @@
     ]
   },
   "STARRED_LAST_BREATH": {
-    "name": "§6⚚ Last Breath",
+    "name": "§6 Last Breath",
     "recipe": {
       "A1": "LIVID_FRAGMENT;1",
       "B1": "LIVID_FRAGMENT;1",
@@ -44630,7 +44630,7 @@
     ]
   },
   "STARRED_MIDAS_STAFF": {
-    "name": "§6⚚ Midas Staff",
+    "name": "§6 Midas Staff",
     "recipe": {
       "A1": "GOLDEN_FRAGMENT;1",
       "B1": "GOLDEN_FRAGMENT;1",
@@ -44648,7 +44648,7 @@
     ]
   },
   "STARRED_MIDAS_SWORD": {
-    "name": "§6⚚ Midas' Sword",
+    "name": "§6 Midas' Sword",
     "recipe": {
       "A1": "GOLDEN_FRAGMENT;1",
       "B1": "GOLDEN_FRAGMENT;1",
@@ -44702,7 +44702,7 @@
     ]
   },
   "STARRED_SHADOW_ASSASSIN_CLOAK": {
-    "name": "§6⚚ Shadow Assassin Cloak",
+    "name": "§6 Shadow Assassin Cloak",
     "recipe": {
       "A1": "LIVID_FRAGMENT;1",
       "B1": "LIVID_FRAGMENT;1",
@@ -44756,7 +44756,7 @@
     ]
   },
   "STARRED_SHADOW_FURY": {
-    "name": "§6⚚ Shadow Fury",
+    "name": "§6 Shadow Fury",
     "recipe": {
       "A1": "LIVID_FRAGMENT;1",
       "B1": "LIVID_FRAGMENT;1",
@@ -44792,7 +44792,7 @@
     ]
   },
   "STARRED_STONE_BLADE": {
-    "name": "§5⚚ Adaptive Blade",
+    "name": "§5 Adaptive Blade",
     "recipe": {
       "A1": "SCARF_FRAGMENT;1",
       "B1": "SCARF_FRAGMENT;1",
@@ -44828,7 +44828,7 @@
     ]
   },
   "STARRED_YETI_SWORD": {
-    "name": "§6⚚ Yeti Sword",
+    "name": "§6 Yeti Sword",
     "recipe": {
       "A1": "WINTER_FRAGMENT;1",
       "B1": "WINTER_FRAGMENT;1",
@@ -45336,7 +45336,7 @@
     ]
   },
   "STONK_PICKAXE": {
-    "name": "§5Stonk",
+    "name": "§5Fortunate Stonk",
     "recipe": {
       "A1": "SKYBLOCK_COIN;499999",
       "B1": "",
@@ -47352,7 +47352,7 @@
     ]
   },
   "THEORETICAL_HOE_CANE_1": {
-    "name": "§aTuring Sugar Cane Hoe Mk. I",
+    "name": "§aTuring Sugar Cane Cutter Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;250",
       "B1": "",
@@ -47371,7 +47371,7 @@
     ]
   },
   "THEORETICAL_HOE_CARROT_1": {
-    "name": "§aGauss Carrot Hoe Mk. I",
+    "name": "§aGauss Carrot Shovel Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;250",
       "B1": "",
@@ -47390,7 +47390,7 @@
     ]
   },
   "THEORETICAL_HOE_POTATO_1": {
-    "name": "§aPythagorean Potato Hoe Mk. I",
+    "name": "§aPythagorean Potato Shovel Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;250",
       "B1": "",
@@ -47409,7 +47409,7 @@
     ]
   },
   "THEORETICAL_HOE_SUNFLOWER_1": {
-    "name": "§aEclipse Hoe Mk. I",
+    "name": "§aEclipse Sickle Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;250",
       "B1": "",
@@ -47427,7 +47427,7 @@
     ]
   },
   "THEORETICAL_HOE_WARTS_1": {
-    "name": "§aNewton Nether Wart Hoe Mk. I",
+    "name": "§aNewton Nether Wart Cutter Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;250",
       "B1": "",
@@ -47446,7 +47446,7 @@
     ]
   },
   "THEORETICAL_HOE_WHEAT_1": {
-    "name": "§aEuclid's Wheat Hoe Mk. I",
+    "name": "§aEuclid's Wheat Sickle Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;250",
       "B1": "",
@@ -47465,7 +47465,7 @@
     ]
   },
   "THEORETICAL_HOE_WILD_ROSE_1": {
-    "name": "§aWild Rose Hoe Mk. I",
+    "name": "§aWild Rose Cutter Mk. I",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;250",
       "B1": "",
