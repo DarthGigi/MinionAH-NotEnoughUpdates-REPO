@@ -30629,7 +30629,7 @@
     ]
   },
   "NETHER_WART_POUCH": {
-    "name": "§9Nether Wart Pouch",
+    "name": "§9Nether Wart Basket",
     "recipe": {
       "A1": "SKYBLOCK_SILVER_MEDAL;2",
       "B1": "JACOBS_TICKET;30",
@@ -34549,7 +34549,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "POWER_ARTIFACT": {
     "name": "§9Artifact of Power",
@@ -44360,7 +44361,7 @@
     ]
   },
   "STARRED_ADAPTIVE_BELT": {
-    "name": "§5⚚ Adaptive Belt",
+    "name": "§5 Adaptive Belt",
     "recipe": {
       "A1": "SCARF_FRAGMENT;1",
       "B1": "SCARF_FRAGMENT;1",
@@ -44378,7 +44379,7 @@
     ]
   },
   "STARRED_ADAPTIVE_BOOTS": {
-    "name": "§5⚚ Adaptive Boots",
+    "name": "§5 Adaptive Boots",
     "recipe": {
       "A1": "SCARF_FRAGMENT;1",
       "B1": "SCARF_FRAGMENT;1",
@@ -44396,7 +44397,7 @@
     ]
   },
   "STARRED_ADAPTIVE_CHESTPLATE": {
-    "name": "§5⚚ Adaptive Chestplate",
+    "name": "§5 Adaptive Chestplate",
     "recipe": {
       "A1": "SCARF_FRAGMENT;1",
       "B1": "SCARF_FRAGMENT;1",
@@ -44414,7 +44415,7 @@
     ]
   },
   "STARRED_ADAPTIVE_HELMET": {
-    "name": "§5⚚ Adaptive Helmet",
+    "name": "§5 Adaptive Helmet",
     "recipe": {
       "A1": "SCARF_FRAGMENT;1",
       "B1": "SCARF_FRAGMENT;1",
@@ -44432,7 +44433,7 @@
     ]
   },
   "STARRED_ADAPTIVE_LEGGINGS": {
-    "name": "§5⚚ Adaptive Leggings",
+    "name": "§5 Adaptive Leggings",
     "recipe": {
       "A1": "SCARF_FRAGMENT;1",
       "B1": "SCARF_FRAGMENT;1",
@@ -44486,7 +44487,7 @@
     ]
   },
   "STARRED_BONE_NECKLACE": {
-    "name": "§5⚚ Bone Necklace",
+    "name": "§5 Bone Necklace",
     "recipe": {
       "A1": "THORN_FRAGMENT;1",
       "B1": "THORN_FRAGMENT;1",
@@ -44504,7 +44505,7 @@
     ]
   },
   "STARRED_BONZO_MASK": {
-    "name": "§9⚚ Bonzo's Mask",
+    "name": "§9 Bonzo's Mask",
     "recipe": {
       "A1": "BONZO_FRAGMENT;1",
       "B1": "BONZO_FRAGMENT;1",
@@ -44666,7 +44667,7 @@
     ]
   },
   "STARRED_SHADOW_ASSASSIN_BOOTS": {
-    "name": "§6⚚ Shadow Assassin Boots",
+    "name": "§6 Shadow Assassin Boots",
     "recipe": {
       "A1": "LIVID_FRAGMENT;1",
       "B1": "LIVID_FRAGMENT;1",
@@ -44684,7 +44685,7 @@
     ]
   },
   "STARRED_SHADOW_ASSASSIN_CHESTPLATE": {
-    "name": "§6⚚ Shadow Assassin Chestplate",
+    "name": "§6 Shadow Assassin Chestplate",
     "recipe": {
       "A1": "LIVID_FRAGMENT;1",
       "B1": "LIVID_FRAGMENT;1",
@@ -44720,7 +44721,7 @@
     ]
   },
   "STARRED_SHADOW_ASSASSIN_HELMET": {
-    "name": "§6⚚ Shadow Assassin Helmet",
+    "name": "§6 Shadow Assassin Helmet",
     "recipe": {
       "A1": "LIVID_FRAGMENT;1",
       "B1": "LIVID_FRAGMENT;1",
@@ -44738,7 +44739,7 @@
     ]
   },
   "STARRED_SHADOW_ASSASSIN_LEGGINGS": {
-    "name": "§6⚚ Shadow Assassin Leggings",
+    "name": "§6 Shadow Assassin Leggings",
     "recipe": {
       "A1": "LIVID_FRAGMENT;1",
       "B1": "LIVID_FRAGMENT;1",
@@ -44774,7 +44775,7 @@
     ]
   },
   "STARRED_SPIRIT_MASK": {
-    "name": "§6⚚ Spirit Mask",
+    "name": "§6 Spirit Mask",
     "recipe": {
       "A1": "THORN_FRAGMENT;1",
       "B1": "THORN_FRAGMENT;1",
@@ -44810,7 +44811,7 @@
     ]
   },
   "STARRED_THORNS_BOOTS": {
-    "name": "§6⚚ Spirit Boots",
+    "name": "§6 Spirit Boots",
     "recipe": {
       "A1": "THORN_FRAGMENT;1",
       "B1": "THORN_FRAGMENT;1",
@@ -47423,7 +47424,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Eclipse_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Eclipse_Sickle"
     ]
   },
   "THEORETICAL_HOE_WARTS_1": {
@@ -47479,7 +47480,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Wild_Rose_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Wild_Rose_Cutter"
     ]
   },
   "THIN_GLASS": {
