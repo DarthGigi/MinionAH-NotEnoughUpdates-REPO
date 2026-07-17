@@ -5881,7 +5881,8 @@
       "A3": "WHEAT;1",
       "B3": "WHEAT;1",
       "C3": "WHEAT;1"
-    }
+    },
+    "wiki": []
   },
   "CANDY_ARTIFACT": {
     "name": "§5Candy Artifact",
@@ -6597,7 +6598,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "CASTLE_BARN_SKIN:1": {
     "name": "§6Castle Barn Skin",
