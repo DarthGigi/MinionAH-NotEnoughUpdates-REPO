@@ -2687,7 +2687,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Basic_Chicken_Axe"
+    ]
   },
   "BASIC_COW_AXE:1": {
     "name": "§fBasic Cow Axe",
@@ -2703,7 +2705,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Basic_Cow_Axe"
+    ]
   },
   "BASIC_GARDENING_AXE:1": {
     "name": "§aBasic Gardening Axe",
@@ -2755,7 +2759,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Basic_Mooshroom_Axe"
+    ]
   },
   "BASIC_PIG_AXE:1": {
     "name": "§fBasic Pig Axe",
@@ -2771,7 +2777,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Basic_Pig_Axe"
+    ]
   },
   "BASIC_RABBIT_AXE:1": {
     "name": "§fBasic Rabbit Axe",
@@ -2787,7 +2795,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Basic_Rabbit_Axe"
+    ]
   },
   "BASIC_SHEEP_AXE:1": {
     "name": "§fBasic Sheep Axe",
@@ -3183,7 +3193,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Husbandry_Sack"
+    ]
   },
   "BERBERIS_BLOWGUN": {
     "name": "§9Berberis Blowgun",
