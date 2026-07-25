@@ -3178,6 +3178,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Bee_Mask"
     ]
   },
+  "BEGINNER_COMBAT_SACK:1": {
+    "name": "§fBeginner Combat Sack",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;250.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Combat_Sack"
+    ]
+  },
   "BEGINNER_HUSBANDRY_SACK:1": {
     "name": "§fBeginner Husbandry Sack",
     "recipe": {
@@ -4590,24 +4608,6 @@
     },
     "wiki": []
   },
-  "BONE": {
-    "name": "§fBone",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;8",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Bone"
-    ]
-  },
   "BONE_BOOMERANG": {
     "name": "§6Bonemerang",
     "recipe": {
@@ -4657,6 +4657,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Bone_Reaver"
+    ]
+  },
+  "BONE:1": {
+    "name": "§fBone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;8.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bone"
     ]
   },
   "BONZO_STATUE": {
@@ -22768,10 +22786,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Intimidation_Ring"
     ]
   },
-  "INTIMIDATION_TALISMAN": {
+  "INTIMIDATION_TALISMAN:1": {
     "name": "§fIntimidation Talisman",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;10000",
+      "A1": "SKYBLOCK_COIN;10000.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -27564,10 +27582,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Meteor_Shard"
     ]
   },
-  "MINE_TALISMAN": {
+  "MINE_TALISMAN:1": {
     "name": "§fMine Affinity Talisman",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;2500",
+      "A1": "SKYBLOCK_COIN;2500.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -36151,10 +36169,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Rosetta%27s_Leggings"
     ]
   },
-  "ROTTEN_FLESH": {
+  "ROTTEN_FLESH:1": {
     "name": "§fRotten Flesh",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;8",
+      "A1": "SKYBLOCK_COIN;8.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -36951,10 +36969,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Scavenger_Ring"
     ]
   },
-  "SCAVENGER_TALISMAN": {
+  "SCAVENGER_TALISMAN:1": {
     "name": "§fScavenger Talisman",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;10000",
+      "A1": "SKYBLOCK_COIN;10000.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -38488,10 +38506,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton%27s_Helmet"
     ]
   },
-  "SKELETON_TALISMAN": {
+  "SKELETON_TALISMAN:1": {
     "name": "§fSkeleton Talisman",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;500",
+      "A1": "SKYBLOCK_COIN;500.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -38725,7 +38743,22 @@
   "SLIME_BALL": {
     "name": "§fSlimeball",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;14",
+      "A1": "SLIME_BLOCK;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": ""
+    },
+    "wiki": []
+  },
+  "SLIME_BALL:1": {
+    "name": "§fSlimeball",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;14.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -43050,10 +43083,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Empty_Storm_Bottle"
     ]
   },
-  "STRING": {
+  "STRING:1": {
     "name": "§fString",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;10",
+      "A1": "SKYBLOCK_COIN;10.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -43427,24 +43460,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Sugar_Rush"
     ]
   },
-  "SULPHUR": {
-    "name": "§fGunpowder",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;10",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Gunpowder"
-    ]
-  },
   "SULPHUR_BOW": {
     "name": "§5Sulphur Bow",
     "recipe": {
@@ -43460,6 +43475,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Sulphur_Bow"
+    ]
+  },
+  "SULPHUR:1": {
+    "name": "§fGunpowder",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;10.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Gunpowder"
     ]
   },
   "SULPHURIC_COAL": {
@@ -46416,10 +46449,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Viking%27s_Tear"
     ]
   },
-  "VILLAGE_TALISMAN": {
+  "VILLAGE_TALISMAN:1": {
     "name": "§fVillage Affinity Talisman",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;2500",
+      "A1": "SKYBLOCK_COIN;2500.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -48992,10 +49025,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Zombie_Sword"
     ]
   },
-  "ZOMBIE_TALISMAN": {
+  "ZOMBIE_TALISMAN:1": {
     "name": "§fZombie Talisman",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;500",
+      "A1": "SKYBLOCK_COIN;500.0",
       "B1": "",
       "C1": "",
       "A2": "",
