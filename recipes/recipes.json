@@ -44081,7 +44081,7 @@
     ]
   },
   "SYPHON": {
-    "name": "§fEnchanted Book",
+    "name": "§aEnchanted Book",
     "recipe": {
       "A1": "DARK_CANDY;200.0",
       "B1": "SKYBLOCK_COIN;9700000.0",
