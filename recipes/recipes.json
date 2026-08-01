@@ -14925,23 +14925,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Farmer_Boots"
     ]
   },
-  "FARMER_ORB": {
-    "name": "§fFarmer Orb",
-    "recipe": {
-      "A1": "ENCHANTED_PUMPKIN;1",
-      "B1": "ENCHANTED_PUMPKIN;1",
-      "C1": "ENCHANTED_PUMPKIN;1",
-      "A2": "ENCHANTED_PUMPKIN;1",
-      "B2": "ENCHANTED_GLOWSTONE;1",
-      "C2": "ENCHANTED_PUMPKIN;1",
-      "A3": "ENCHANTED_PUMPKIN;1",
-      "B3": "ENCHANTED_PUMPKIN;1",
-      "C3": "ENCHANTED_PUMPKIN;1"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farmer_Orb"
-    ]
-  },
   "FARMING_1_PORTAL": {
     "name": "§fPortal to The Barn",
     "recipe": {
@@ -15025,23 +15008,6 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Farming_Island"
-    ]
-  },
-  "FARMING_TALISMAN": {
-    "name": "§aFarming Talisman",
-    "recipe": {
-      "A1": "WHEAT;8",
-      "B1": "SEEDS;1",
-      "C1": "WHEAT;8",
-      "A2": "SEEDS;1",
-      "B2": "WHEAT;8",
-      "C2": "SEEDS;1",
-      "A3": "WHEAT;8",
-      "B3": "SEEDS;1",
-      "C3": "WHEAT;8"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farming_Talisman"
     ]
   },
   "FARMING_TOOLKIT": {
