@@ -2004,6 +2004,38 @@
       "https://hypixelskyblock.minecraft.wiki/w/Atomsplit_Katana"
     ]
   },
+  "ATTRIBUTE_SHARD_ARTHROPOD_FORTUNE": {
+    "name": "§9Black Widow Shard",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;500000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "ATTRIBUTE_SHARD_BATTLE_TRACKER": {
+    "name": "§9Badger Shard",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;500000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "ATTRIBUTE_SHARD_COOKIE_EATER": {
     "name": "§9Bitbug Shard",
     "recipe": {
@@ -2068,6 +2100,54 @@
     },
     "wiki": []
   },
+  "ATTRIBUTE_SHARD_FLEXIBLE_FISHER": {
+    "name": "§aOsedax Shard",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;250000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "ATTRIBUTE_SHARD_FOREST_FELLING": {
+    "name": "§aWoodpecker Shard",
+    "recipe": {
+      "A1": "MIRIA_COUPON;15.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "ATTRIBUTE_SHARD_HELIX_SHARPENING": {
+    "name": "§9Vulture Shard",
+    "recipe": {
+      "A1": "MIRIA_COUPON;25.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "ATTRIBUTE_SHARD_HUNTERS_FANGS": {
     "name": "§aViper Shard",
     "recipe": {
@@ -2104,6 +2184,38 @@
     "name": "§9Crocodile Shard",
     "recipe": {
       "A1": "SKYBLOCK_COIN;300000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "ATTRIBUTE_SHARD_SLAYER_PROGRESS": {
+    "name": "§5Wolverine Shard",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;750000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "ATTRIBUTE_SHARD_VISITOR_PLANT": {
+    "name": "§aRed Panda Shard",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;250000.0",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -14750,6 +14862,24 @@
     },
     "wiki": []
   },
+  "EXTREMELY_MILD_ADHESIVE:1": {
+    "name": "§9Extremely Mild Adhesive",
+    "recipe": {
+      "A1": "MIRIA_COUPON;100.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Extremely_Mild_Adhesive"
+    ]
+  },
   "EYE_OF_ENDER": {
     "name": "§fEye of Ender",
     "recipe": {
@@ -15346,8 +15476,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Fiery_Kuudra_Core"
     ]
   },
+  "FIGHTING_BOOSTER_UNCOMMON:1": {
+    "name": "§aUncommon Fighting Booster",
+    "recipe": {
+      "A1": "FIGSTONE;1.0",
+      "B1": "MANGCORE;1.0",
+      "C1": "HELIXIS;1.0",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "FIGHTING_BOOSTER:1": {
-    "name": "§fFighting Booster",
+    "name": "§fCommon Fighting Booster",
     "recipe": {
       "A1": "AGATHA_COUPON;100.0",
       "B1": "",
@@ -17040,8 +17186,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Portal_to_Dark_Thicket"
     ]
   },
+  "FORAGING_FORTUNE_BOOSTER_UNCOMMON:1": {
+    "name": "§aUncommon Foraging Fortune Booster",
+    "recipe": {
+      "A1": "FIGSTONE;1.0",
+      "B1": "MANGCORE;1.0",
+      "C1": "HELIXIS;1.0",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "FORAGING_FORTUNE_BOOSTER:1": {
-    "name": "§fForaging Fortune Booster",
+    "name": "§fCommon Foraging Fortune Booster",
     "recipe": {
       "A1": "SKYBLOCK_COIN;50000.0",
       "B1": "",
@@ -17057,6 +17219,22 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Foraging_Fortune_Booster"
     ]
+  },
+  "FORAGING_WISDOM_BOOSTER_UNCOMMON:1": {
+    "name": "§aUncommon Foraging Wisdom Booster",
+    "recipe": {
+      "A1": "FIGSTONE;1.0",
+      "B1": "MANGCORE;1.0",
+      "C1": "HELIXIS;1.0",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "FOREST_BIOME_STICK": {
     "name": "§fForest Biome Stick",
@@ -17618,6 +17796,42 @@
       "https://hypixelskyblock.minecraft.wiki/w/General%27s_Medallion"
     ]
   },
+  "GENERATOR_UPGRADE_STONE_ACACIA_12:1": {
+    "name": "§6Acacia Minion XII Upgrade Stone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2000000.0",
+      "B1": "ENCHANTED_ACACIA_LOG;1024.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Acacia_Minion_XII_Upgrade_Stone"
+    ]
+  },
+  "GENERATOR_UPGRADE_STONE_BIRCH_12:1": {
+    "name": "§6Birch Minion XII Upgrade Stone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2000000.0",
+      "B1": "ENCHANTED_BIRCH_LOG;1024.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Birch_Minion_XII_Upgrade_Stone"
+    ]
+  },
   "GENERATOR_UPGRADE_STONE_CLAY_12:1": {
     "name": "§6Clay Minion XII Upgrade Stone",
     "recipe": {
@@ -17634,6 +17848,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion_XII_Upgrade_Stone"
+    ]
+  },
+  "GENERATOR_UPGRADE_STONE_DARK_OAK_12:1": {
+    "name": "§6Dark Oak Minion XII Upgrade Stone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2000000.0",
+      "B1": "ENCHANTED_DARK_OAK_LOG;1024.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dark_Oak_Minion_XII_Upgrade_Stone"
     ]
   },
   "GENERATOR_UPGRADE_STONE_FISHING_12:1": {
@@ -17654,6 +17886,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion_XII_Upgrade_Stone"
     ]
   },
+  "GENERATOR_UPGRADE_STONE_JUNGLE_12:1": {
+    "name": "§6Jungle Minion XII Upgrade Stone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2000000.0",
+      "B1": "ENCHANTED_JUNGLE_LOG;1024.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Jungle_Minion_XII_Upgrade_Stone"
+    ]
+  },
   "GENERATOR_UPGRADE_STONE_LILY_PAD_12:1": {
     "name": "§6Lily Pad Minion XII Upgrade Stone",
     "recipe": {
@@ -17672,6 +17922,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Lily_Pad_Minion_XII_Upgrade_Stone"
     ]
   },
+  "GENERATOR_UPGRADE_STONE_OAK_12:1": {
+    "name": "§6Oak Minion XII Upgrade Stone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2000000.0",
+      "B1": "ENCHANTED_OAK_LOG;1024.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Oak_Minion_XII_Upgrade_Stone"
+    ]
+  },
   "GENERATOR_UPGRADE_STONE_REVENANT_12": {
     "name": "§6Revenant Minion XII Upgrade Stone",
     "recipe": {
@@ -17688,6 +17956,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Revenant_Minion_XII_Upgrade_Stone"
+    ]
+  },
+  "GENERATOR_UPGRADE_STONE_SPRUCE_12:1": {
+    "name": "§6Spruce Minion XII Upgrade Stone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2000000.0",
+      "B1": "ENCHANTED_SPRUCE_LOG;1024.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Spruce_Minion_XII_Upgrade_Stone"
     ]
   },
   "GENERATOR_UPGRADE_STONE_TARANTULA_12": {
@@ -18051,6 +18337,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Giant_Seal_Plushie"
+    ]
+  },
+  "GIANT_SLOTH_CLAW:1": {
+    "name": "§6Giant Sloth Claw",
+    "recipe": {
+      "A1": "MIRIA_COUPON;60.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Giant_Sloth_Claw"
     ]
   },
   "GIANT_WITCH_CAULDRON:1": {
@@ -21458,6 +21762,40 @@
       "https://hypixelskyblock.minecraft.wiki/w/Hunting_Toolkit"
     ]
   },
+  "HUNTING_WISDOM_BOOSTER_COMMON": {
+    "name": "§fCommon Hunting Wisdom Booster",
+    "recipe": {
+      "A1": "ESSENCE_FOREST;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Common_Hunting_Wisdom_Booster"
+    ]
+  },
+  "HUNTING_WISDOM_BOOSTER_UNCOMMON:1": {
+    "name": "§aUncommon Hunting Wisdom Booster",
+    "recipe": {
+      "A1": "FIGSTONE;1.0",
+      "B1": "MANGCORE;1.0",
+      "C1": "HELIXIS;1.0",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "HURRICANE_BOW": {
     "name": "§5Hurricane Bow",
     "recipe": {
@@ -23340,9 +23678,9 @@
     "recipe": {
       "A1": "SKYBLOCK_COIN;500000000",
       "B1": "SHINIEST;1",
-      "C1": "FIGSTONE;100",
-      "A2": "MANGCORE;100",
-      "B2": "",
+      "C1": "FIGSTONE;64",
+      "A2": "MANGCORE;64",
+      "B2": "HELIXIS;64",
       "C2": "",
       "A3": "",
       "B3": "",
@@ -24998,6 +25336,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Large_Slayer_Sack"
+    ]
+  },
+  "LARGE_SLOTH_CLAW:1": {
+    "name": "§5Large Sloth Claw",
+    "recipe": {
+      "A1": "MIRIA_COUPON;50.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Large_Sloth_Claw"
     ]
   },
   "LARGE_WALNUT:1": {
@@ -27025,6 +27381,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Medium_Slayer_Sack"
     ]
   },
+  "MEDIUM_SLOTH_CLAW:1": {
+    "name": "§9Medium Sloth Claw",
+    "recipe": {
+      "A1": "MIRIA_COUPON;40.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Medium_Sloth_Claw"
+    ]
+  },
   "MEDIUM_WITCH_CAULDRON:1": {
     "name": "§9Medium Witch Cauldron",
     "recipe": {
@@ -28408,6 +28782,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Moonglade_Talisman"
+    ]
+  },
+  "MORNING_DEW": {
+    "name": "§5Morning Dew",
+    "recipe": {
+      "A1": "ESSENCE_SAFARI;2500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Morning_Dew"
     ]
   },
   "MOSSY_COBBLESTONE": {
@@ -31827,6 +32219,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Tier_Boost"
+    ]
+  },
+  "PETALFALL": {
+    "name": "§fEnchanted Book",
+    "recipe": {
+      "A1": "MIRIA_COUPON;20.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Petalfall"
     ]
   },
   "PHD_GRIMOIRE:1": {
@@ -36151,6 +36561,24 @@
     },
     "wiki": []
   },
+  "RUBBER_SNORKEL:1": {
+    "name": "§9Rubber Snorkel",
+    "recipe": {
+      "A1": "MIRIA_COUPON;125.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Rubber_Snorkel"
+    ]
+  },
   "RUBY_POWER_SCROLL": {
     "name": "§cRuby Power Scroll",
     "recipe": {
@@ -38973,6 +39401,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Slime_Hat"
     ]
   },
+  "SLOTH": {
+    "name": "§7[Lvl {LVL}] §fSloth",
+    "recipe": {
+      "A1": "MIRIA_COUPON;20.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sloth_Pet"
+    ]
+  },
   "SMALL_AGRONOMY_SACK": {
     "name": "§aSmall Agronomy Sack",
     "recipe": {
@@ -39231,6 +39677,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Slayer_Sack"
+    ]
+  },
+  "SMALL_SLOTH_CLAW:1": {
+    "name": "§aSmall Sloth Claw",
+    "recipe": {
+      "A1": "MIRIA_COUPON;30.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Small_Sloth_Claw"
     ]
   },
   "SMALL_WITCH_CAULDRON:1": {
@@ -43977,6 +44441,22 @@
       "https://hypixelskyblock.minecraft.wiki/w/Suspicious_Stew"
     ]
   },
+  "SWEEP_BOOSTER_UNCOMMON:1": {
+    "name": "§aUncommon Sweep Booster",
+    "recipe": {
+      "A1": "FIGSTONE;1.0",
+      "B1": "MANGCORE;1.0",
+      "C1": "HELIXIS;1.0",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "SWEET_AXE": {
     "name": "§aSweet Axe",
     "recipe": {
@@ -45364,6 +45844,60 @@
     },
     "wiki": []
   },
+  "TORRHUS_ARTIFACT:1": {
+    "name": "§9Torrhus Artifact",
+    "recipe": {
+      "A1": "MIRIA_COUPON;30.0",
+      "B1": "TORRHUS_RING;1.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Artifact"
+    ]
+  },
+  "TORRHUS_RING:1": {
+    "name": "§aTorrhus Ring",
+    "recipe": {
+      "A1": "MIRIA_COUPON;30.0",
+      "B1": "TORRHUS_TALISMAN;1.0",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Ring"
+    ]
+  },
+  "TORRHUS_TALISMAN:1": {
+    "name": "§fTorrhus Talisman",
+    "recipe": {
+      "A1": "MIRIA_COUPON;30.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Talisman"
+    ]
+  },
   "TOTEM_OF_CORRUPTION": {
     "name": "§aTotem of Corruption",
     "recipe": {
@@ -46397,6 +46931,22 @@
       "https://hypixelskyblock.minecraft.wiki/w/Very_Crude_Gabagool"
     ]
   },
+  "VIAL_OF_SPRING_WATER:1": {
+    "name": "§6Vial of Spring Water",
+    "recipe": {
+      "A1": "MIRIA_PRIZE;10.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "VIKING_TEAR": {
     "name": "§9Viking's Tear",
     "recipe": {
@@ -47328,6 +47878,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Wilted_Berberis_Bunch"
+    ]
+  },
+  "WINDING_IVY:1": {
+    "name": "§9Winding Ivy",
+    "recipe": {
+      "A1": "MIRIA_COUPON;250.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Winding_Ivy"
     ]
   },
   "WINDMILL_BARN_SKIN:1": {
