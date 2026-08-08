@@ -13,8 +13,7 @@
   "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixelskyblock.minecraft.wiki/w/woB",
-    "https://wiki.hypixel.net/woB"
+    "https://hypixelskyblock.minecraft.wiki/w/woB"
   ],
   "recipe": {
     "A1": "MIRRORED_STRING:1",

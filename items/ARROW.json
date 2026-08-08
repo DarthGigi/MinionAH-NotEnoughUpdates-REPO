@@ -15,8 +15,7 @@
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixelskyblock.minecraft.wiki/w/Arrows",
-    "https://wiki.hypixel.net/Flint_Arrow"
+    "https://hypixelskyblock.minecraft.wiki/w/Arrows"
   ],
   "recipe": {
     "A1": "FLINT:1",
