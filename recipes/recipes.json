@@ -15490,7 +15490,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Fighting_Booster"
+    ]
   },
   "FIGHTING_BOOSTER:1": {
     "name": "§fCommon Fighting Booster",
@@ -17200,7 +17202,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Fortune_Booster"
+    ]
   },
   "FORAGING_FORTUNE_BOOSTER:1": {
     "name": "§fCommon Foraging Fortune Booster",
@@ -17234,7 +17238,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Wisdom_Booster"
+    ]
   },
   "FOREST_BIOME_STICK": {
     "name": "§fForest Biome Stick",
@@ -21794,7 +21800,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Hunting_Wisdom_Booster"
+    ]
   },
   "HURRICANE_BOW": {
     "name": "§5Hurricane Bow",
@@ -44285,7 +44293,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Sweep_Booster"
+    ]
   },
   "SWEET_AXE": {
     "name": "§aSweet Axe",
