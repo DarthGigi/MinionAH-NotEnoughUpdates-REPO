@@ -31,6 +31,8 @@ jobs:
         run: python .github/scripts/updateGemstoneCosts.py
 
       - name: Run Python george pet prices script
+        # The official Hypixel Wiki was retired; its George_List template is no longer available.
+        if: false
         run: python .github/scripts/updateGeorgePrices.py
 
       - name: Run Python essence costs script
