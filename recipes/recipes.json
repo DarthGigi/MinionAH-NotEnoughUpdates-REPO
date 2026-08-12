@@ -15477,7 +15477,7 @@
     ]
   },
   "FIGHTING_BOOSTER_UNCOMMON:1": {
-    "name": "§aUncommon Fighting Booster",
+    "name": "§aUncommon Fighting Booster Upgrade",
     "recipe": {
       "A1": "FIGSTONE;1.0",
       "B1": "MANGCORE;1.0",
@@ -17189,7 +17189,7 @@
     ]
   },
   "FORAGING_FORTUNE_BOOSTER_UNCOMMON:1": {
-    "name": "§aUncommon Foraging Fortune Booster",
+    "name": "§aUncommon Foraging Fortune Booster Upgrade",
     "recipe": {
       "A1": "FIGSTONE;1.0",
       "B1": "MANGCORE;1.0",
@@ -17225,7 +17225,7 @@
     ]
   },
   "FORAGING_WISDOM_BOOSTER_UNCOMMON:1": {
-    "name": "§aUncommon Foraging Wisdom Booster",
+    "name": "§aUncommon Foraging Wisdom Booster Upgrade",
     "recipe": {
       "A1": "FIGSTONE;1.0",
       "B1": "MANGCORE;1.0",
@@ -21787,7 +21787,7 @@
     ]
   },
   "HUNTING_WISDOM_BOOSTER_UNCOMMON:1": {
-    "name": "§aUncommon Hunting Wisdom Booster",
+    "name": "§aUncommon Hunting Wisdom Booster Upgrade",
     "recipe": {
       "A1": "FIGSTONE;1.0",
       "B1": "MANGCORE;1.0",
@@ -44280,7 +44280,7 @@
     ]
   },
   "SWEEP_BOOSTER_UNCOMMON:1": {
-    "name": "§aUncommon Sweep Booster",
+    "name": "§aUncommon Sweep Booster Upgrade",
     "recipe": {
       "A1": "FIGSTONE;1.0",
       "B1": "MANGCORE;1.0",
