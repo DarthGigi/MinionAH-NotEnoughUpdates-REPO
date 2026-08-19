@@ -318,7 +318,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Abiphone_X_Plus"
+      "https://hypixelskyblock.minecraft.wiki/w/Abiphone_X_Red"
     ]
   },
   "ABIPHONE_X_PLUS_SPECIAL_EDITION": {
@@ -336,7 +336,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Abiphone_X_Plus_Special_Edition"
+      "https://hypixelskyblock.minecraft.wiki/w/Abiphone_X_Blue"
     ]
   },
   "ABIPHONE_XI_ULTRA": {
@@ -2019,7 +2019,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Black_Widow_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_BATTLE_TRACKER": {
     "name": "§9Badger Shard",
@@ -2035,7 +2037,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Badger_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_COOKIE_EATER": {
     "name": "§9Bitbug Shard",
@@ -2051,7 +2055,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bitbug_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_ECHO_OF_SHARPENING": {
     "name": "§9Gecko Shard",
@@ -2067,7 +2073,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Gecko_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_EELASTIC": {
     "name": "§9Eel Shard",
@@ -2083,7 +2091,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Eel_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_FIG_SHARPENING": {
     "name": "§fCrow Shard",
@@ -2099,7 +2109,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Crow_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_FLEXIBLE_FISHER": {
     "name": "§aOsedax Shard",
@@ -2115,7 +2127,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Osedax_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_FOREST_FELLING": {
     "name": "§aWoodpecker Shard",
@@ -2131,7 +2145,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Woodpecker_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_HELIX_SHARPENING": {
     "name": "§9Vulture Shard",
@@ -2147,7 +2163,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vulture_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_HUNTERS_FANGS": {
     "name": "§aViper Shard",
@@ -2163,7 +2181,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Viper_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_MANGROVE_SHARPENING": {
     "name": "§aHeron Shard",
@@ -2179,7 +2199,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Heron_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_PURE_REPTILE": {
     "name": "§9Crocodile Shard",
@@ -2195,7 +2217,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Crocodile_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_SLAYER_PROGRESS": {
     "name": "§5Wolverine Shard",
@@ -2211,7 +2235,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Wolverine_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_VISITOR_PLANT": {
     "name": "§aRed Panda Shard",
@@ -2227,7 +2253,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Red_Panda_Shard"
+    ]
   },
   "AUTO_SMELTER": {
     "name": "§fAuto Smelter",
@@ -7228,7 +7256,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Chicken_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Advanced_Chicken_Axe"
     ]
   },
   "CHICKEN_GENERATOR_1": {
@@ -8915,7 +8943,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Cow_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Advanced_Cow_Axe"
     ]
   },
   "COW_GENERATOR_1": {
@@ -9927,7 +9955,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Dante_Ring"
+      "https://hypixelskyblock.minecraft.wiki/w/Dante%27s_Ring"
     ]
   },
   "DARK_BAIT": {
@@ -15490,7 +15518,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Fighting_Booster"
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Fighting_Booster_Upgrade"
     ]
   },
   "FIGHTING_BOOSTER:1": {
@@ -15508,7 +15536,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Fighting_Booster"
+      "https://hypixelskyblock.minecraft.wiki/w/Common_Fighting_Booster"
     ]
   },
   "FILET_O_FORTUNE:1.0": {
@@ -17048,7 +17076,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Flower__Truth"
+      "https://hypixelskyblock.minecraft.wiki/w/Flower_of_Truth"
     ]
   },
   "FLOWER_POT_ITEM": {
@@ -17201,7 +17229,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Fortune_Booster"
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Fortune_Booster_Upgrade"
     ]
   },
   "FORAGING_FORTUNE_BOOSTER:1": {
@@ -17219,7 +17247,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Foraging_Fortune_Booster"
+      "https://hypixelskyblock.minecraft.wiki/w/Common_Foraging_Fortune_Booster"
     ]
   },
   "FORAGING_WISDOM_BOOSTER_UNCOMMON:1": {
@@ -17237,7 +17265,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Wisdom_Booster"
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Wisdom_Booster_Upgrade"
     ]
   },
   "FOREST_BIOME_STICK": {
@@ -21803,7 +21831,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Hunting_Wisdom_Booster"
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Hunting_Wisdom_Booster_Upgrade"
     ]
   },
   "HURRICANE_BOW": {
@@ -24848,7 +24876,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Lantern"
+      "https://hypixelskyblock.minecraft.wiki/w/Dwarven_Lantern"
     ]
   },
   "LAPIS_BLOCK": {
@@ -26077,7 +26105,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Lotus_Belt"
+      "https://hypixelskyblock.minecraft.wiki/w/Peony_Belt"
     ]
   },
   "LOTUS_BRACELET:1": {
@@ -26095,7 +26123,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Lotus_Bracelet"
+      "https://hypixelskyblock.minecraft.wiki/w/Peony_Bracelet"
     ]
   },
   "LOTUS_CLOAK:1": {
@@ -26113,7 +26141,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Lotus_Cloak"
+      "https://hypixelskyblock.minecraft.wiki/w/Peony_Cloak"
     ]
   },
   "LOTUS_NECKLACE:1": {
@@ -26131,7 +26159,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Lotus_Necklace"
+      "https://hypixelskyblock.minecraft.wiki/w/Peony_Necklace"
     ]
   },
   "LUCK": {
@@ -26734,7 +26762,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magma_Lord_Gauntlet"
+      "https://hypixelskyblock.minecraft.wiki/w/Magma_Lord_Necklace"
     ]
   },
   "MAGMA_LORD_HELMET": {
@@ -27786,7 +27814,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Mercenary_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Mercenary_Sword"
     ]
   },
   "MERCENARY_BOOTS": {
@@ -27928,7 +27956,7 @@
       "C3": "SILVER_FANG;10"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Meteor_Shard"
+      "https://hypixelskyblock.minecraft.wiki/w/Meteor_Chunk"
     ]
   },
   "MINE_TALISMAN:1": {
@@ -28183,7 +28211,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Powder_Pumpkin"
+      "https://hypixelskyblock.minecraft.wiki/w/Powder_Pie"
     ]
   },
   "MINION_EXPANDER": {
@@ -28927,7 +28955,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Mushroom_Cow_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Advanced_Mooshroom_Axe"
     ]
   },
   "MUSHROOM_GENERATOR_12": {
@@ -29468,7 +29496,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Nether_Wart_Pouch"
+      "https://hypixelskyblock.minecraft.wiki/w/Nether_Wart_Basket"
     ]
   },
   "NETHER_WARTS_GENERATOR_1": {
@@ -31940,7 +31968,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/A_Beginner%27s_Guide__Pesthunting"
+      "https://hypixelskyblock.minecraft.wiki/w/A_Beginner%27s_Guide_to_Pesthunting"
     ]
   },
   "PET_ITEM_ALL_SKILLS_BOOST_COMMON": {
@@ -32296,7 +32324,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pig_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Advanced_Pig_Axe"
     ]
   },
   "PIG_BRAIN_MIXIN:1": {
@@ -34314,7 +34342,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Advanced_Rabbit_Axe"
     ]
   },
   "RABBIT_FOOT": {
@@ -34650,7 +34678,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Raider_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Raider_Sword"
     ]
   },
   "RAILS": {
@@ -34749,7 +34777,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Razor-sharp_Shark_Tooth_Necklace"
+      "https://hypixelskyblock.minecraft.wiki/w/Razor-Sharp_Shark_Tooth_Necklace"
     ]
   },
   "REAPER_ORB": {
@@ -36421,7 +36449,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Rookie_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Rookie_Foraging_Axe"
     ]
   },
   "ROOKIE_HOE": {
@@ -37971,7 +37999,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sheep_Axe"
+      "https://hypixelskyblock.minecraft.wiki/w/Advanced_Sheep_Axe"
     ]
   },
   "SHEEP_GENERATOR_1": {
@@ -44292,7 +44320,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Sweep_Booster"
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Sweep_Booster_Upgrade"
     ]
   },
   "SWEET_AXE": {
@@ -45233,7 +45261,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Turing_Sugar_Cane_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Turing_Sugar_Cane_Cutter"
     ]
   },
   "THEORETICAL_HOE_CARROT_1": {
@@ -45251,7 +45279,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Gauss_Carrot_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Gauss_Carrot_Shovel"
     ]
   },
   "THEORETICAL_HOE_POTATO_1": {
@@ -45269,7 +45297,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pythagorean_Potato_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Pythagorean_Potato_Shovel"
     ]
   },
   "THEORETICAL_HOE_SUNFLOWER_1": {
@@ -45305,7 +45333,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Newton_Nether_Warts_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Newton_Nether_Wart_Cutter"
     ]
   },
   "THEORETICAL_HOE_WHEAT_1": {
@@ -45323,7 +45351,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Sickle"
     ]
   },
   "THEORETICAL_HOE_WILD_ROSE_1": {
