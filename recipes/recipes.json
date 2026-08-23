@@ -6099,15 +6099,16 @@
   "CARPET": {
     "name": "§fCarpet",
     "recipe": {
-      "A1": "WOOL;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -41544,15 +41545,16 @@
   "STAINED_CLAY": {
     "name": "§fWhite Hardened Clay",
     "recipe": {
-      "A1": "HARD_CLAY;1",
-      "B1": "HARD_CLAY;1",
-      "C1": "HARD_CLAY;1",
-      "A2": "HARD_CLAY;1",
-      "B2": "INK_SACK:15;1",
-      "C2": "HARD_CLAY;1",
-      "A3": "HARD_CLAY;1",
-      "B3": "HARD_CLAY;1",
-      "C3": "HARD_CLAY;1"
+      "A1": "SKYBLOCK_COIN;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -41799,30 +41801,32 @@
   "STAINED_GLASS": {
     "name": "§fWhite Stained Glass",
     "recipe": {
-      "A1": "GLASS;1",
-      "B1": "GLASS;1",
-      "C1": "GLASS;1",
-      "A2": "GLASS;1",
-      "B2": "INK_SACK:15;1",
-      "C2": "GLASS;1",
-      "A3": "GLASS;1",
-      "B3": "GLASS;1",
-      "C3": "GLASS;1"
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
   "STAINED_GLASS_PANE": {
     "name": "§fWhite Stained Glass Pane",
     "recipe": {
-      "A1": "STAINED_GLASS;1",
-      "B1": "STAINED_GLASS;1",
-      "C1": "STAINED_GLASS;1",
-      "A2": "STAINED_GLASS;1",
-      "B2": "STAINED_GLASS;1",
-      "C2": "STAINED_GLASS;1",
+      "A1": "SKYBLOCK_COIN;16",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -48504,15 +48508,16 @@
   "WOOL": {
     "name": "§fWhite Wool",
     "recipe": {
-      "A1": "INK_SACK:15;1",
-      "B1": "WOOL;1",
+      "A1": "SKYBLOCK_COIN;32",
+      "B1": "",
       "C1": "",
       "A2": "",
       "B2": "",
       "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
