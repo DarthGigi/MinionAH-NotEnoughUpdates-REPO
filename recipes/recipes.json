@@ -8397,22 +8397,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Cocoa_Chopper"
     ]
   },
-  "COCOA": {
-    "name": "§fCocoa Plant",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;7",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": []
-  },
   "COCOA_GENERATOR_1": {
     "name": "§9Cocoa Beans Minion I",
     "recipe": {
@@ -23011,6 +22995,22 @@
       "A3": "",
       "B3": "",
       "C3": ""
+    },
+    "wiki": []
+  },
+  "INK_SACK-3": {
+    "name": "§fCocoa Beans",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;7",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
