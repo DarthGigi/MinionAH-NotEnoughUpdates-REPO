@@ -3355,6 +3355,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Beginner_Husbandry_Sack"
     ]
   },
+  "BEGINNER_MINING_SACK:1": {
+    "name": "§fBeginner Mining Sack",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;250",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Mining_Sack"
+    ]
+  },
   "BERBERIS_BLOWGUN": {
     "name": "§9Berberis Blowgun",
     "recipe": {
@@ -8143,22 +8161,6 @@
     },
     "wiki": []
   },
-  "COBBLESTONE": {
-    "name": "§fCobblestone",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;3",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": []
-  },
   "COBBLESTONE_GENERATOR_1": {
     "name": "§9Cobblestone Minion I",
     "recipe": {
@@ -8376,6 +8378,22 @@
       "A3": "COBBLESTONE;1",
       "B3": "COBBLESTONE;1",
       "C3": "COBBLESTONE;1"
+    },
+    "wiki": []
+  },
+  "COBBLESTONE:1": {
+    "name": "§fCobblestone",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;3",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -12439,23 +12457,6 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Carrot_on_a_Stick"
-    ]
-  },
-  "ENCHANTED_CHARCOAL": {
-    "name": "§aEnchanted Charcoal",
-    "recipe": {
-      "A1": "",
-      "B1": "COAL;32",
-      "C1": "",
-      "A2": "COAL;32",
-      "B2": "LOG;32",
-      "C2": "COAL;32",
-      "A3": "",
-      "B3": "COAL;32",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Charcoal"
     ]
   },
   "ENCHANTED_CLAY_BALL": {
@@ -19467,6 +19468,22 @@
     "name": "§fGolden Pickaxe",
     "recipe": {
       "A1": "SKYBLOCK_COIN;10",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "GOLD_PICKAXE:1": {
+    "name": "§fGolden Pickaxe",
+    "recipe": {
+      "A1": "GOLD_INGOT;3",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -30507,7 +30524,7 @@
       "https://hypixelskyblock.minecraft.wiki/w/Omega_Enchanted_Egg"
     ]
   },
-  "ONYX": {
+  "ONYX:1": {
     "name": "§9Black Diamond",
     "recipe": {
       "A1": "SKYBLOCK_COIN;100",
@@ -33554,6 +33571,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Promising_Pickaxe"
     ]
   },
+  "PROMISING_PICKAXE:1": {
+    "name": "§aPromising Pickaxe",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;35",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Promising_Pickaxe"
+    ]
+  },
   "PROMISING_SPADE": {
     "name": "§aPromising Shovel",
     "recipe": {
@@ -36471,7 +36506,7 @@
       "https://hypixelskyblock.minecraft.wiki/w/Rookie_Hoe"
     ]
   },
-  "ROOKIE_PICKAXE": {
+  "ROOKIE_PICKAXE:1": {
     "name": "§fRookie Pickaxe",
     "recipe": {
       "A1": "SKYBLOCK_COIN;12",
@@ -45680,7 +45715,7 @@
     },
     "wiki": []
   },
-  "TORCH:16": {
+  "TORCH:32": {
     "name": "§fTorch",
     "recipe": {
       "A1": "SKYBLOCK_COIN;16",
@@ -45692,7 +45727,7 @@
       "A3": "",
       "B3": "",
       "C3": "",
-      "count": 16
+      "count": 32
     },
     "wiki": []
   },
