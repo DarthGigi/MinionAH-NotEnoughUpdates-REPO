@@ -3148,24 +3148,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Spirit_Sceptre"
     ]
   },
-  "BAYOU_TRAVEL_SCROLL:1": {
-    "name": "§9Travel Scroll to the Bayou",
-    "recipe": {
-      "A1": "BUSTED_BELT_BUCKLE;8",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Bayou"
-    ]
-  },
   "BEACON_1": {
     "name": "§9Beacon I",
     "recipe": {
@@ -4509,57 +4491,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Block_Zapper"
     ]
   },
-  "BLOOD_DONOR_ARTIFACT": {
-    "name": "§9Blood Donor Artifact",
-    "recipe": {
-      "A1": "HEMOBOMB;16",
-      "B1": "HEMOBOMB;16",
-      "C1": "HEMOBOMB;16",
-      "A2": "HEMOBOMB;16",
-      "B2": "BLOOD_DONOR_RING;1",
-      "C2": "HEMOBOMB;16",
-      "A3": "HEMOBOMB;16",
-      "B3": "HEMOBOMB;16",
-      "C3": "HEMOBOMB;16"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Blood_Donor_Artifact"
-    ]
-  },
-  "BLOOD_DONOR_RING": {
-    "name": "§aBlood Donor Ring",
-    "recipe": {
-      "A1": "HEMOGLASS;12",
-      "B1": "HEMOGLASS;12",
-      "C1": "HEMOGLASS;12",
-      "A2": "HEMOGLASS;12",
-      "B2": "BLOOD_DONOR_TALISMAN;1",
-      "C2": "HEMOGLASS;12",
-      "A3": "HEMOGLASS;12",
-      "B3": "HEMOGLASS;12",
-      "C3": "HEMOGLASS;12"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Blood_Donor_Ring"
-    ]
-  },
-  "BLOOD_DONOR_TALISMAN": {
-    "name": "§fBlood Donor Talisman",
-    "recipe": {
-      "A1": "HEMOVIBE;12",
-      "B1": "HEMOVIBE;12",
-      "C1": "HEMOVIBE;12",
-      "A2": "HEMOVIBE;12",
-      "B2": "HEMOVIBE;12",
-      "C2": "HEMOVIBE;12",
-      "A3": "HEMOVIBE;12",
-      "B3": "HEMOVIBE;12",
-      "C3": "HEMOVIBE;12"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Blood_Donor_Talisman"
-    ]
-  },
   "BLOOD_SOAKED_COINS": {
     "name": "§5Blood-Soaked Coins",
     "recipe": {
@@ -4995,7 +4926,7 @@
   "BOUNCY_ARROW:64": {
     "name": "§9Bouncy Arrow",
     "recipe": {
-      "A1": "SLIME_BLOCK;24",
+      "A1": "ENCHANTED_SLIME_BALL;2",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -7071,7 +7002,7 @@
     "name": "§aChallenging Rod",
     "recipe": {
       "A1": "FISHING_ROD;1",
-      "B1": "RUSTY_COIN;16",
+      "B1": "RUSTY_COIN;8",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -7571,7 +7502,7 @@
     ]
   },
   "CHUM_SINKER:1": {
-    "name": "§9Chum Sinker",
+    "name": "§fChum Sinker",
     "recipe": {
       "A1": "FULL_CHUM_BUCKET;4",
       "B1": "GLOWING_MUSHROOM;15",
@@ -8709,7 +8640,7 @@
     ]
   },
   "COMMON_HOOK": {
-    "name": "§9Common Hook",
+    "name": "§fCommon Hook",
     "recipe": {
       "A1": "",
       "B1": "",
@@ -12136,7 +12067,7 @@
   "EMERALD_TIPPED_ARROW:64": {
     "name": "§aEmerald-tipped Arrow",
     "recipe": {
-      "A1": "EMERALD_BLOCK;24",
+      "A1": "ENCHANTED_EMERALD;1",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -14828,7 +14759,7 @@
   "EXPLOSIVE_ARROW:64": {
     "name": "§9Explosive Arrow",
     "recipe": {
-      "A1": "COAL_BLOCK;24",
+      "A1": "ENCHANTED_GUNPOWDER;2",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -15455,7 +15386,7 @@
     ]
   },
   "FESTIVE_SINKER": {
-    "name": "§9Festive Sinker",
+    "name": "§fFestive Sinker",
     "recipe": {
       "A1": "SKYBLOCK_COIN;40000",
       "B1": "",
@@ -18890,7 +18821,7 @@
   "GLUE_ARROW:64": {
     "name": "§9Glue Arrow",
     "recipe": {
-      "A1": "TARANTULA_WEB;64",
+      "A1": "ENCHANTED_STRING;2",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -19617,7 +19548,7 @@
   "GOLD_TIPPED_ARROW:64": {
     "name": "§fGold-tipped Arrow",
     "recipe": {
-      "A1": "GOLD_INGOT;40",
+      "A1": "ENCHANTED_GOLD;1",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -22332,7 +22263,7 @@
   "ICY_ARROW:64": {
     "name": "§9Icy Arrow",
     "recipe": {
-      "A1": "PACKED_ICE;64",
+      "A1": "ENCHANTED_ICE;2",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -24290,9 +24221,9 @@
     ]
   },
   "JUNK_SINKER:1": {
-    "name": "§9Junk Sinker",
+    "name": "§aJunk Sinker",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;9700",
+      "A1": "SKYBLOCK_COIN;10000",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -29338,7 +29269,7 @@
   "NANSORB_ARROW:64": {
     "name": "§9Nansorb Arrow",
     "recipe": {
-      "A1": "ENCHANTED_CACTUS_GREEN;8",
+      "A1": "ENCHANTED_CACTUS_GREEN;7",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -33456,7 +33387,7 @@
     ]
   },
   "PRISMARINE_SINKER": {
-    "name": "§9Prismarine Sinker",
+    "name": "§fPrismarine Sinker",
     "recipe": {
       "A1": "",
       "B1": "WATER_LILY;16",
@@ -35454,7 +35385,7 @@
   "REDSTONE_TIPPED_ARROW:64": {
     "name": "§aRedstone-tipped Arrow",
     "recipe": {
-      "A1": "REDSTONE_BLOCK;24",
+      "A1": "ENCHANTED_REDSTONE;1",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -35577,7 +35508,7 @@
   "REINFORCED_IRON_ARROW:64": {
     "name": "§fReinforced Iron Arrow",
     "recipe": {
-      "A1": "IRON_INGOT;24",
+      "A1": "ENCHANTED_IRON;1",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -40515,7 +40446,7 @@
     ]
   },
   "SPEEDY_LINE:1": {
-    "name": "§9Speedy Line",
+    "name": "§aSpeedy Line",
     "recipe": {
       "A1": "BUSTED_BELT_BUCKLE;8",
       "B1": "",
@@ -40961,7 +40892,7 @@
     ]
   },
   "SPONGE_SINKER": {
-    "name": "§9Sponge Sinker",
+    "name": "§fSponge Sinker",
     "recipe": {
       "A1": "",
       "B1": "WATER_LILY;16",
@@ -43067,7 +42998,7 @@
     "wiki": []
   },
   "STINGY_SINKER:1": {
-    "name": "§9Stingy Sinker",
+    "name": "§aStingy Sinker",
     "recipe": {
       "A1": "RUSTY_COIN;64",
       "B1": "",
@@ -45990,12 +45921,12 @@
     ]
   },
   "TREASURE_HOOK:1": {
-    "name": "§9Treasure Hook",
+    "name": "§6Treasure Hook",
     "recipe": {
       "A1": "BAYOU_WATER_ORB;1",
-      "B1": "RUSTY_COIN;256",
+      "B1": "OLD_LEATHER_BOOT;4",
       "C1": "BUSTED_BELT_BUCKLE;32",
-      "A2": "OLD_LEATHER_BOOT;4",
+      "A2": "RUSTY_COIN;256",
       "B2": "",
       "C2": "",
       "A3": "",
