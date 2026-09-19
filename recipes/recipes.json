@@ -3938,7 +3938,7 @@
   "BITS_TALISMAN": {
     "name": "§9Bits Talisman",
     "recipe": {
-      "A1": "SKYBLOCK_BIT;12000",
+      "A1": "SKYBLOCK_BIT;15000",
       "B1": "",
       "C1": "",
       "A2": "",
