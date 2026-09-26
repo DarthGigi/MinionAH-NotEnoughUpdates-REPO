@@ -4833,7 +4833,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "BOOK_OF_STATS": {
     "name": "§5Book of Stats",
@@ -32534,7 +32535,8 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": []
   },
   "PLANT_DIAGNOSTICS_TOOL": {
     "name": "§9Plant Diagnostics Tool",
