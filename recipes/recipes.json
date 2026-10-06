@@ -4438,7 +4438,7 @@
     ]
   },
   "BLESSED_FRUIT": {
-    "name": "§5Blessed Fruit",
+    "name": "§9Blessed Fruit",
     "recipe": {
       "A1": "SKYBLOCK_COIN;1000000",
       "B1": "",
@@ -14521,7 +14521,7 @@
     ]
   },
   "ENTROPY_SUPPRESSOR": {
-    "name": "§9Entropy Suppressor",
+    "name": "§5Entropy Suppressor",
     "recipe": {
       "A1": "CHILI_PEPPER;8",
       "B1": "HEAVY_GABAGOOL;4",
@@ -17390,6 +17390,22 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Frog_Mask"
     ]
+  },
+  "FROGS_SPIRIT_SCROLL": {
+    "name": "§aFrog's Spirit",
+    "recipe": {
+      "A1": "ESSENCE_FOREST;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "FROSTY_SNOW_BALL": {
     "name": "§fFrosty Snowball",
@@ -22885,6 +22901,22 @@
       "https://hypixelskyblock.minecraft.wiki/w/InfiniDirt™_Wand"
     ]
   },
+  "INFINIPOT:1": {
+    "name": "§9InfiniPot™",
+    "recipe": {
+      "A1": "ESSENCE_WITHER;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "INFINITE_SPIRIT_LEAP:1": {
     "name": "§5Infinileap",
     "recipe": {
@@ -25336,7 +25368,7 @@
     ]
   },
   "LARGE_WALNUT:1": {
-    "name": "§9Large Walnut",
+    "name": "§aLarge Walnut",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;150",
       "B1": "",
@@ -30448,7 +30480,7 @@
     ]
   },
   "ONYX:1": {
-    "name": "§9Black Diamond",
+    "name": "§fBlack Diamond",
     "recipe": {
       "A1": "SKYBLOCK_COIN;100",
       "B1": "",
@@ -35412,7 +35444,7 @@
     "wiki": []
   },
   "REFINED_AMBER": {
-    "name": "§5Andesite Whetstone",
+    "name": "§9Andesite Whetstone",
     "recipe": {
       "A1": "SKYBLOCK_COIN;1000000",
       "B1": "",
@@ -38482,7 +38514,7 @@
     ]
   },
   "SILVER_FANG": {
-    "name": "§aSilver Fang",
+    "name": "§9Silver Fang",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_GHAST_TEAR;5",
@@ -39022,7 +39054,7 @@
     ]
   },
   "SKYMART_BROCHURE:1": {
-    "name": "§9SkyMart Brochure",
+    "name": "§fSkyMart Brochure",
     "recipe": {
       "A1": "SKYBLOCK_COPPER;100",
       "B1": "",
@@ -45590,7 +45622,7 @@
     "wiki": []
   },
   "TOIL_LOG": {
-    "name": "§5Toil Log",
+    "name": "§9Rotting Branch",
     "recipe": {
       "A1": "SKYBLOCK_COIN;1000000",
       "B1": "",
@@ -47269,7 +47301,7 @@
     ]
   },
   "WEATHER_STICK": {
-    "name": "§aWeather Stick",
+    "name": "§aWeather Wand",
     "recipe": {
       "A1": "",
       "B1": "ENCHANTED_REDSTONE;1",
@@ -48449,6 +48481,24 @@
       "C3": ""
     },
     "wiki": []
+  },
+  "WOODEN_BAIT": {
+    "name": "§aWooden Bait",
+    "recipe": {
+      "A1": "ESSENCE_FOREST;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Wooden_Bait"
+    ]
   },
   "WOOL": {
     "name": "§fWhite Wool",
