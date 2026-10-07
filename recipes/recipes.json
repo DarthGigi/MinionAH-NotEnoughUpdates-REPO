@@ -10970,7 +10970,7 @@
     "wiki": []
   },
   "DIRT_BOTTLE": {
-    "name": "§9Dirt Bottle",
+    "name": "§aDirt Bottle",
     "recipe": {
       "A1": "SKYBLOCK_COIN;100000",
       "B1": "",
@@ -17405,7 +17405,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Frog%27s_Spirit"
+    ]
   },
   "FROSTY_SNOW_BALL": {
     "name": "§fFrosty Snowball",
@@ -22915,7 +22917,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Infinipot%E2%84%A2"
+    ]
   },
   "INFINITE_SPIRIT_LEAP:1": {
     "name": "§5Infinileap",
