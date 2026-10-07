@@ -3585,7 +3585,7 @@
   "BIOFUEL:1": {
     "name": "§9Biofuel",
     "recipe": {
-      "A1": "SKYBLOCK_COIN;20000",
+      "A1": "SKYBLOCK_COIN;5000",
       "B1": "",
       "C1": "",
       "A2": "",
