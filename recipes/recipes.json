@@ -20521,6 +20521,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Leggings_of_Growth"
     ]
   },
+  "GRUNGLE": {
+    "name": "§5Drone Mod: Grungle",
+    "recipe": {
+      "A1": "ESSENCE_FOREST;2500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Grungle"
+    ]
+  },
   "GUARDIAN_CHESTPLATE": {
     "name": "§9Guardian Chestplate",
     "recipe": {
@@ -28170,6 +28188,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Deep_Caverns"
+    ]
+  },
+  "MINING_OFF_CAMERA": {
+    "name": "§5Drone Mod: Mining Off Camera",
+    "recipe": {
+      "A1": "ESSENCE_DIAMOND;2500",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Mining_Off_Camera"
     ]
   },
   "MINING_PUMPKIN:1.0": {
