@@ -26747,12 +26747,12 @@
     "recipe": {
       "A1": "MAGMA_LORD_FRAGMENT;1",
       "B1": "MAGMA_LORD_FRAGMENT;1",
-      "C1": "MAGMA_LORD_FRAGMENT;1",
-      "A2": "MAGMA_LORD_FRAGMENT;1",
-      "B2": "MAGMA_LORD_FRAGMENT;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
       "C2": "MAGMA_LORD_FRAGMENT;1",
-      "A3": "",
-      "B3": "",
+      "A3": "MAGMA_LORD_FRAGMENT;1",
+      "B3": "MAGMA_LORD_FRAGMENT;1",
       "C3": ""
     },
     "wiki": [
