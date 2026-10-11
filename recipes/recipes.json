@@ -2095,6 +2095,24 @@
       "https://hypixelskyblock.minecraft.wiki/w/Eel_Shard"
     ]
   },
+  "ATTRIBUTE_SHARD_FIESTA_FORTUNE": {
+    "name": "§aPackrat Shard",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;250000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Packrat_Shard"
+    ]
+  },
   "ATTRIBUTE_SHARD_FIG_SHARPENING": {
     "name": "§fCrow Shard",
     "recipe": {
@@ -15409,6 +15427,24 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Fiery_Kuudra_Core"
+    ]
+  },
+  "FIESTA_FLASK:1": {
+    "name": "§6Fiesta Flask",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2500000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fiesta_Flask"
     ]
   },
   "FIGHTING_BOOSTER_UNCOMMON:1": {
