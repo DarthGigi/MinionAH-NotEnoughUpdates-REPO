@@ -31951,7 +31951,7 @@
   "PESTHUNTERS_GLOVES:1": {
     "name": "§9Pesthunter's Gloves",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;40",
+      "A1": "SKYBLOCK_PEST;100",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -46900,6 +46900,22 @@
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Village_Affinity_Talisman"
     ]
+  },
+  "VINYL_SACK:1": {
+    "name": "§5Vinyl Sack",
+    "recipe": {
+      "A1": "SKYBLOCK_PEST;40",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
   },
   "VOID_SEPULTURE_TRAVEL_SCROLL": {
     "name": "§5Travel Scroll to the Void Sepulture",
