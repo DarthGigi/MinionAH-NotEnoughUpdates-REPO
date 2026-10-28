@@ -2990,7 +2990,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Basket_Of_Seeds"
+      "https://hypixelskyblock.minecraft.wiki/w/Basket_of_Seeds"
     ]
   },
   "BAT_ARTIFACT": {
@@ -9862,7 +9862,7 @@
       "C3": "ENDER_STONE;16"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_End"
     ]
   },
   "DANGER_3_TRAVEL_SCROLL": {
@@ -15022,7 +15022,7 @@
       "C3": "POTATO_ITEM;16"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Barn"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Barn"
     ]
   },
   "FARMING_1_TRAVEL_SCROLL": {
@@ -15039,7 +15039,7 @@
       "C3": "ENCHANTED_POTATO;16"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Barn"
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_The_Barn"
     ]
   },
   "FARMING_2_PORTAL": {
@@ -36381,7 +36381,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_The_Rift"
+    ]
   },
   "RING_OF_COINS": {
     "name": "§aRing of Coins",
@@ -36449,7 +36451,7 @@
       "C3": "ENCHANTED_SHARK_FIN;1"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Rod_Of_The_Sea"
+      "https://hypixelskyblock.minecraft.wiki/w/Rod_of_the_Sea"
     ]
   },
   "ROGUE_SWORD": {
@@ -39090,7 +39092,7 @@
       "count": 10
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Motes"
+      "https://hypixelskyblock.minecraft.wiki/w/Mote"
     ]
   },
   "SKYBLOCK_SILVER_MEDAL": {
@@ -45296,7 +45298,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/The_Art_Of_War"
+      "https://hypixelskyblock.minecraft.wiki/w/The_Art_of_War"
     ]
   },
   "THEORETICAL_HOE_CANE_1": {
@@ -45712,7 +45714,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Toil_Log"
+      "https://hypixelskyblock.minecraft.wiki/w/Rotting_Branch"
     ]
   },
   "TORCH": {
@@ -46863,7 +46865,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vial_of_Spring_Water"
+    ]
   },
   "VIKING_TEAR": {
     "name": "§9Viking's Tear",
@@ -46915,7 +46919,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vinyl_Sack"
+    ]
   },
   "VOID_SEPULTURE_TRAVEL_SCROLL": {
     "name": "§5Travel Scroll to the Void Sepulture",
@@ -47406,7 +47412,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Weather_Stick"
+      "https://hypixelskyblock.minecraft.wiki/w/Weather_Wand"
     ]
   },
   "WEB": {
