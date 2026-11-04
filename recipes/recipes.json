@@ -33174,6 +33174,38 @@
     },
     "wiki": []
   },
+  "POTION_REGENERATION": {
+    "name": "§5Regeneration IX Potion",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;10000000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
+  "POTION_SPEED": {
+    "name": "§9Speed V Potion",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100000.0",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": []
+  },
   "POTION_SPIRIT": {
     "name": "§fSpirit I Potion",
     "recipe": {
