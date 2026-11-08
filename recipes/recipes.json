@@ -46944,7 +46944,7 @@
   "VINYL_SACK:1": {
     "name": "§5Vinyl Sack",
     "recipe": {
-      "A1": "SKYBLOCK_PEST;40",
+      "A1": "SKYBLOCK_PEST;100",
       "B1": "",
       "C1": "",
       "A2": "",
