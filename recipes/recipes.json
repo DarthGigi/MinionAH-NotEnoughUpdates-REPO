@@ -14166,7 +14166,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/End_Stone"
+    ]
   },
   "ENDER_STONE_GENERATOR_1": {
     "name": "§9End Stone Minion I",
@@ -30178,7 +30180,9 @@
       "C3": "",
       "count": 1
     },
-    "wiki": []
+    "wiki": [
+      "https://hypixelskyblock.minecraft.wiki/w/Obsidian"
+    ]
   },
   "OBSIDIAN_GENERATOR_1": {
     "name": "§9Obsidian Minion I",
@@ -43420,7 +43424,7 @@
     ]
   },
   "STONK_PICKAXE": {
-    "name": "§5Fortunate Stonk",
+    "name": "§5Stonk",
     "recipe": {
       "A1": "SKYBLOCK_COIN;499999",
       "B1": "",
