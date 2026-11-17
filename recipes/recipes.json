@@ -163,7 +163,7 @@
     "name": "§9Sumsung© GG Abicase",
     "recipe": {
       "A1": "SKYBLOCK_BIT;25000",
-      "B1": "",
+      "B1": "ABICASE_SUMSUNG_1;undefined",
       "C1": "",
       "A2": "",
       "B2": "",
@@ -779,6 +779,22 @@
       "A3": "WOOD:4;1",
       "B3": "WOOD:4;1",
       "C3": "WOOD:4;1"
+    },
+    "wiki": []
+  },
+  "ACCESSORY_ENRICHMENT": {
+    "name": "§cAccessory Enrichment",
+    "recipe": {
+      "A1": "SKYBLOCK_BIT;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": []
   },
@@ -3201,7 +3217,7 @@
     ]
   },
   "BEASTMASTER_CREST_EPIC": {
-    "name": "§5Beastmaster Crest",
+    "name": "§5Venerable Beastmaster Crest",
     "recipe": {
       "A1": "GRIFFIN_FEATHER;32",
       "B1": "ENCHANTED_ANCIENT_CLAW;1",
@@ -3214,11 +3230,11 @@
       "C3": "GRIFFIN_FEATHER;32"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
+      "https://hypixelskyblock.minecraft.wiki/w/Venerable_Beastmaster_Crest"
     ]
   },
   "BEASTMASTER_CREST_LEGENDARY": {
-    "name": "§6Beastmaster Crest",
+    "name": "§6Exalted Beastmaster Crest",
     "recipe": {
       "A1": "GRIFFIN_FEATHER;64",
       "B1": "ENCHANTED_ANCIENT_CLAW;8",
@@ -3231,11 +3247,11 @@
       "C3": "GRIFFIN_FEATHER;64"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
+      "https://hypixelskyblock.minecraft.wiki/w/Exalted_Beastmaster_Crest"
     ]
   },
   "BEASTMASTER_CREST_RARE": {
-    "name": "§9Beastmaster Crest",
+    "name": "§9Stalwart Beastmaster Crest",
     "recipe": {
       "A1": "GRIFFIN_FEATHER;8",
       "B1": "ANCIENT_CLAW;64",
@@ -3248,11 +3264,11 @@
       "C3": "GRIFFIN_FEATHER;8"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
+      "https://hypixelskyblock.minecraft.wiki/w/Stalwart_Beastmaster_Crest"
     ]
   },
   "BEASTMASTER_CREST_UNCOMMON": {
-    "name": "§aBeastmaster Crest",
+    "name": "§aBlessed Beastmaster Crest",
     "recipe": {
       "A1": "GRIFFIN_FEATHER;2",
       "B1": "ANCIENT_CLAW;20",
@@ -3265,7 +3281,7 @@
       "C3": "GRIFFIN_FEATHER;2"
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
+      "https://hypixelskyblock.minecraft.wiki/w/Blessed_Beastmaster_Crest"
     ]
   },
   "BED": {
@@ -11299,7 +11315,7 @@
     "wiki": []
   },
   "DULL_SHARK_TOOTH_NECKLACE": {
-    "name": "§aDull Shark Tooth Necklace",
+    "name": "§aShark Tooth Ring",
     "recipe": {
       "A1": "",
       "B1": "NURSE_SHARK_TOOTH;1",
@@ -21513,7 +21529,7 @@
     ]
   },
   "HONED_SHARK_TOOTH_NECKLACE": {
-    "name": "§9Honed Shark Tooth Necklace",
+    "name": "§9Shark Tooth Artifact",
     "recipe": {
       "A1": "",
       "B1": "BLUE_SHARK_TOOTH;1",
@@ -25571,21 +25587,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Leaping_Sword"
     ]
   },
-  "LEASH": {
-    "name": "§fLead",
-    "recipe": {
-      "A1": "STRING;1",
-      "B1": "STRING;1",
-      "C1": "",
-      "A2": "STRING;1",
-      "B2": "SLIME_BALL;1",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "STRING;1"
-    },
-    "wiki": []
-  },
   "LEATHER": {
     "name": "§fLeather",
     "recipe": {
@@ -26091,10 +26092,10 @@
       "https://hypixelskyblock.minecraft.wiki/w/Jungle_Log"
     ]
   },
-  "LOOTING": {
-    "name": "§fEnchanted Book",
+  "LOOTING_NEW": {
+    "name": "§9Enchanted Book",
     "recipe": {
-      "A1": "SKYBLOCK_NORTH_STAR;10",
+      "A1": "SKYBLOCK_NORTH_STAR;25",
       "B1": "",
       "C1": "",
       "A2": "",
@@ -26197,24 +26198,6 @@
     },
     "wiki": [
       "https://hypixelskyblock.minecraft.wiki/w/Peony_Necklace"
-    ]
-  },
-  "LUCK": {
-    "name": "§9Enchanted Book",
-    "recipe": {
-      "A1": "SKYBLOCK_NORTH_STAR;10",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Luck"
     ]
   },
   "LUCK_OF_THE_SEA": {
@@ -31708,74 +31691,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Personal_Bank_Item"
     ]
   },
-  "PERSONAL_DELETOR_4000": {
-    "name": "§aPersonal Deletor 4000",
-    "recipe": {
-      "A1": "ENCHANTED_IRON;16",
-      "B1": "ENCHANTED_IRON;16",
-      "C1": "ENCHANTED_IRON;16",
-      "A2": "ENCHANTED_IRON;16",
-      "B2": "ENCHANTED_LAVA_BUCKET;1",
-      "C2": "ENCHANTED_IRON;16",
-      "A3": "ENCHANTED_IRON;16",
-      "B3": "ENCHANTED_REDSTONE_BLOCK;1",
-      "C3": "ENCHANTED_IRON;16"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Personal_Deletor_4000"
-    ]
-  },
-  "PERSONAL_DELETOR_5000": {
-    "name": "§9Personal Deletor 5000",
-    "recipe": {
-      "A1": "ENCHANTED_IRON;32",
-      "B1": "ENCHANTED_IRON;32",
-      "C1": "ENCHANTED_IRON;32",
-      "A2": "ENCHANTED_IRON;32",
-      "B2": "",
-      "C2": "ENCHANTED_IRON;32",
-      "A3": "ENCHANTED_IRON;32",
-      "B3": "PERSONAL_DELETOR_4000;1",
-      "C3": "ENCHANTED_IRON;32"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Personal_Deletor_5000"
-    ]
-  },
-  "PERSONAL_DELETOR_6000": {
-    "name": "§5Personal Deletor 6000",
-    "recipe": {
-      "A1": "ENCHANTED_IRON;64",
-      "B1": "ENCHANTED_IRON;64",
-      "C1": "ENCHANTED_IRON;64",
-      "A2": "ENCHANTED_IRON;64",
-      "B2": "",
-      "C2": "ENCHANTED_IRON;64",
-      "A3": "ENCHANTED_IRON;64",
-      "B3": "PERSONAL_DELETOR_5000;1",
-      "C3": "ENCHANTED_IRON;64"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Personal_Deletor_6000"
-    ]
-  },
-  "PERSONAL_DELETOR_7000": {
-    "name": "§6Personal Deletor 7000",
-    "recipe": {
-      "A1": "ENCHANTED_IRON_BLOCK;1",
-      "B1": "ENCHANTED_IRON_BLOCK;1",
-      "C1": "ENCHANTED_IRON_BLOCK;1",
-      "A2": "ENCHANTED_IRON_BLOCK;1",
-      "B2": "",
-      "C2": "ENCHANTED_IRON_BLOCK;1",
-      "A3": "ENCHANTED_IRON_BLOCK;1",
-      "B3": "PERSONAL_DELETOR_6000;1",
-      "C3": "ENCHANTED_IRON_BLOCK;1"
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Personal_Deletor_7000"
-    ]
-  },
   "PEST_REPELLENT_MAX:1": {
     "name": "§9Pest Repellent MAX",
     "recipe": {
@@ -33161,7 +33076,8 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": []
   },
   "POTION_MUSHED_GLOWY_TONIC": {
     "name": "§fMushed Glowy Tonic I Potion",
@@ -34755,7 +34671,7 @@
     ]
   },
   "RAGGEDY_SHARK_TOOTH_NECKLACE": {
-    "name": "§fRaggedy Shark Tooth Necklace",
+    "name": "§fShark Tooth Talisman",
     "recipe": {
       "A1": "SHARK_FIN;1",
       "B1": "SHARK_FIN;1",
@@ -34872,7 +34788,7 @@
     ]
   },
   "RAZOR_SHARP_SHARK_TOOTH_NECKLACE": {
-    "name": "§6Razor-sharp Shark Tooth Necklace",
+    "name": "§6Shark Tooth Heirloom",
     "recipe": {
       "A1": "",
       "B1": "GREAT_WHITE_SHARK_TOOTH;1",
@@ -34885,7 +34801,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Razor-Sharp_Shark_Tooth_Necklace"
+      "https://hypixelskyblock.minecraft.wiki/w/Shark_Tooth_Heirloom"
     ]
   },
   "REAPER_ORB": {
@@ -38027,7 +37943,7 @@
     ]
   },
   "SHARP_SHARK_TOOTH_NECKLACE": {
-    "name": "§5Sharp Shark Tooth Necklace",
+    "name": "§5Shark Tooth Relic",
     "recipe": {
       "A1": "",
       "B1": "TIGER_SHARK_TOOTH;1",
@@ -38040,7 +37956,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sharp_Shark_Tooth_Necklace"
+      "https://hypixelskyblock.minecraft.wiki/w/Shark_Tooth_Relic"
     ]
   },
   "SHARP_STEAK_STAKE": {
@@ -39241,7 +39157,7 @@
     ]
   },
   "SLAYER_ENERGY_DRINK": {
-    "name": "§9Slayer© Energy Drink",
+    "name": "§fSlayer© Energy Drink",
     "recipe": {
       "A1": "SKYBLOCK_COIN;8500",
       "B1": "",
@@ -44611,222 +44527,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Talbot%27s_Theodolite"
     ]
   },
-  "TALISMAN_ENRICHMENT_ATTACK_SPEED": {
-    "name": "§cAttack Speed Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Attack_Speed_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_CRITICAL_CHANCE": {
-    "name": "§cCritical Chance Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Critical_Chance_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_CRITICAL_DAMAGE": {
-    "name": "§cCritical Damage Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Critical_Damage_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_DEFENSE": {
-    "name": "§cDefense Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Defense_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_FEROCITY": {
-    "name": "§cFerocity Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ferocity_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_HEALTH": {
-    "name": "§cHealth Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Health_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_INTELLIGENCE": {
-    "name": "§cIntelligence Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Intelligence_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_MAGIC_FIND": {
-    "name": "§cMagic Find Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magic_Find_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_SEA_CREATURE_CHANCE": {
-    "name": "§cSea Creature Chance Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sea_Creature_Chance_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_STRENGTH": {
-    "name": "§cStrength Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Strength_Enrichment"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_SWAPPER": {
-    "name": "§cAccessory Enrichment Swapper",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;200",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Accessory_Enrichment_Swapper"
-    ]
-  },
-  "TALISMAN_ENRICHMENT_WALK_SPEED": {
-    "name": "§cSpeed Enrichment",
-    "recipe": {
-      "A1": "SKYBLOCK_BIT;5000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixelskyblock.minecraft.wiki/w/Speed_Enrichment"
-    ]
-  },
   "TANK_WITHER_BOOTS": {
     "name": "§6Goldor's Boots",
     "recipe": {
@@ -45553,7 +45253,7 @@
     ]
   },
   "THUNDER_IN_A_BOTTLE_EMPTY": {
-    "name": "§5Empty Thunder Bottle",
+    "name": "§5Empty Thunder in a Bottle",
     "recipe": {
       "A1": "",
       "B1": "ORB_OF_ENERGY;1",
@@ -46206,7 +45906,7 @@
     ]
   },
   "TWO_IQ_POINT": {
-    "name": "§a2 IQ Points",
+    "name": "§aTwo IQ Points",
     "recipe": {
       "A1": "IQ_POINT;1",
       "B1": "IQ_POINT;1",
