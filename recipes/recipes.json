@@ -14665,7 +14665,7 @@
     ]
   },
   "EXPERIENCE": {
-    "name": "§fEnchanted Book",
+    "name": "§aEnchanted Book",
     "recipe": {
       "A1": "ESSENCE_ICE;15000",
       "B1": "",
